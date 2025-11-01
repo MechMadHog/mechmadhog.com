@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Journal"
+description: "Short updates: training, progress, ideas, experiments."
+---
+
+<section class="panel panel--projects">
+  <h2 class="section-title">Journal</h2>
+
+  <div class="projects-grid">
+    {% for post in site.posts %}
+      <article class="card">
+        <h3>{{ post.title }}</h3>
+
+        <p class="muted">
+          {{ post.excerpt | strip_html | truncate: 180 }}
+        </p>
+
+        <p style="font-size:.8rem;color:var(--text-dim);margin:.5rem 0 1rem;">
+          {{ post.date | date: "%B %d, %Y" }}
+        </p>
+
+        <a class="btn" href="{{ post.url | relative_url }}">Read entry</a>
+      </article>
+    {% endfor %}
+  </div>
+</section>

@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your tiny custom tweaks can go here */
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}

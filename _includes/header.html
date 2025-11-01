@@ -1,31 +1,16 @@
-<header class="bg-dark text-white">
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <div class="container">
+<header id="navbar">
+  <nav class="nav-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Site logo">
+    </a>
 
-      <!-- Logo and Title -->
-      <a class="navbar-brand d-flex align-items-center gap-2" href="/">
-        <img src="/assets/images/logo.png" alt="Logo" style="height: 40px;">
-        <span class="h5 mb-0">{{ site.title }}</span>
-      </a>
-
-      <!-- Toggler for mobile -->
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <!-- Navigation Links -->
-      <div class="collapse navbar-collapse justify-content-end" id="mainNavbar">
-        <ul class="navbar-nav">
-          <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}">Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ '/about/' | relative_url }}">About</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ '/projects/' | relative_url }}">Projects</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ '/resources/' | relative_url }}">Resources</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ '/blog/' | relative_url }}">Blog</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ '/contact/' | relative_url }}">Contact</a></li>
-        </ul>
-      </div>
-
-    </div>
+    <ul class="nav-links">
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+      <li><a href="{{ '/journal/' | relative_url }}">Journal</a></li>
+      <li><a href="{{ '/art/' | relative_url }}">Art</a></li>
+      <li><a href="{{ '/now/' | relative_url }}">Now</a></li>
+      <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+    </ul>
   </nav>
 </header>
-
