@@ -1,33 +1,38 @@
+# 🐗 mechmadhog.com
+
+**Source code for my personal website:** [mechmadhog.com](https://mechmadhog.com)
+
+This is my **personal and informal site** — a running record of my interests, artwork, comedy, and adventures.  
+It’s where I collect the things that make me who I am: projects, ideas, sketches, and stories that don’t belong on my professional site.
 
 ---
 
-### 📌 **For mechmadhog.com (Personal / Creative Site)**
+## 🧠 About the Site
 
-```markdown
-# My Personal Site
+A blend of a **personal blog**, **creative lab**, and **digital diary**, built with:
 
-This is the source code for my personal website, [mechmadhog.com](https://mechmadhog.com), built using:
-
-- **Jekyll** (a static site generator)
-- **GitHub Pages** (for free hosting)
-- **Markdown** (for writing all content)
-- **custom** theme (clean, experimental styling)
+- **Jekyll** — static site generator for Markdown-based posts  
+- **GitHub Pages** — simple, versioned, and free hosting  
+- **Markdown** — everything written in plain text  
+- **Custom Theme** — clean layout with experimental visual touches inspired by 16-bit and cyberpunk aesthetics  
 
 ---
 
-## 🧠 What’s Here
+## 🎭 What’s Inside
 
-- Personal blog / About Me
-- Experiments, notes, and odd projects
-- Logo, favicon, and branding
-- Possible portfolio in progress
-- Fully static, no heavy JavaScript frameworks
+- ✍️ **Blog** — thoughts, updates, and reflections from everyday life  
+- 🎨 **Artwork** — digital paintings, sketches, and design experiments  
+- 🎭 **Comedy** — ideas, scripts, and side projects from my humor work  
+- ⚙️ **Projects & Experiments** — small builds and creative tech tests  
+- 🌍 **Adventures** — snapshots of experiences and explorations  
+
+Everything here is written and designed by hand — it’s a space to be authentic, weird, and curious.
 
 ---
 
 ## 🚀 Run Locally
 
-To view or edit this site locally:
+To view or edit this site on your own machine:
 
 ```bash
 # 1. Clone the repository
@@ -37,6 +42,6 @@ cd MechMadHog.github.io
 # 2. Install Jekyll (if you haven’t already)
 gem install bundler jekyll
 
-# 3. Serve the site locally
+# 3. Install dependencies and run the server
 bundle install
 bundle exec jekyll serve
