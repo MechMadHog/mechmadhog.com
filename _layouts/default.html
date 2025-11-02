@@ -3,13 +3,25 @@
   <head>
     {% include head.html %}
   </head>
-  <body>
-    {% include header.html %}
 
-    <main>
-      {{ content }}
-    </main>
+  <body class="bg-[#0b0b13] text-neutral-100 antialiased relative">
 
-    {% include footer.html %}
+    <!-- Global grid background -->
+    <div class="grid-lines pointer-events-none"></div>
+
+    <!-- Page shell above the grid -->
+    <div class="relative z-10 flex min-h-screen flex-col">
+
+      {% include header.html %}
+
+      <main class="flex-1">
+        {{ content }}
+      </main>
+
+      {% include footer.html %}
+
+    </div>
+
   </body>
 </html>
+
