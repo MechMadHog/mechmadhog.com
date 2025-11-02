@@ -19,6 +19,4 @@ description: "Ongoing log of what I'm doing — training, AI tools, drawing, and
     </p>
     <a class="cta" href="{{ '/journal/' | relative_url }}">Read the Journal</a>
   </div>
-
-  <div class="grid-lines"></div>
 </section>
