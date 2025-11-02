@@ -71,10 +71,15 @@ a:hover {
 }
 
 .brand img {
-  height: 50px;
-  width: 65px;
+  height: 40px;
+  width: 55px;
+  border-radius: var(--radius);
+  border: 0;
+  background: transparent;
+  box-shadow: var(--glow);
   object-fit: cover;
 }
+
 
 .nav-links {
   list-style: none;
@@ -135,12 +140,13 @@ a:hover {
   height: 64px;
   width: 64px;
   border-radius: var(--radius);
-  border: 1px solid var(--border);
-  background: #000;
+  border: 0;
+  background: transparent;
   box-shadow: var(--glow);
   margin: 0 auto 1rem auto;
   object-fit: cover;
 }
+
 
 .welcome-content h1 {
   font-family: var(--font-head);
@@ -204,10 +210,13 @@ a:hover {
   text-shadow: var(--glow);
 }
 
-/* animated grid background under hero */
 .grid-lines {
   position: absolute;
-  inset: 0;
+  /* instead of inset:0, force full viewport width */
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
   background-image:
     radial-gradient(circle at 50% 0%, rgba(122, 60, 255, 0.22) 0%, transparent 70%),
     repeating-linear-gradient(
@@ -223,11 +232,13 @@ a:hover {
       transparent 1px,
       transparent 60px
     );
+
   opacity: 0.4;
   filter: drop-shadow(0 0 8px rgba(122,60,255,0.4));
   z-index: 1;
-  border-radius: var(--radius);
+  border-radius: 0;
 }
+
 
 /* ====== SECTIONS / GRIDS ====== */
 
