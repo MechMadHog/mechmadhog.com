@@ -7,7 +7,6 @@ description: "Get in touch."
 
 <section class="panel panel--projects">
   <h1 class="section-title">Contact</h1>
-
   <div class="projects-grid">
     <!-- Intro / context -->
     <article class="card">
