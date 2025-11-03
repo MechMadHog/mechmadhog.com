@@ -135,8 +135,6 @@ a:hover {
 .welcome-content .head-icon {
   height: 64px;
   width: 64px;
-  border-radius: var(--radius);
-  border: 0;
   background: transparent;
   box-shadow: var(--glow);
   margin: 0 auto 1rem auto;
