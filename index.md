@@ -7,16 +7,14 @@ description: "Ongoing log of what I'm doing — training, AI tools, drawing, and
 <section id="welcome-section" class="panel panel--welcome">
   <div class="welcome-content">
     <img class="head-icon"
-         src="{{ '/assets/images/logo.png' | relative_url }}"
-         alt="Mechanical Mad Hog icon">
+         src="{{ '/assets/images/avatar.png' | relative_url }}"
+         alt="Mechanical Mad Hog avatar">
     <h1>Mechanical Mad Hog</h1>
     <p class="tagline">Building Myself In Public</p>
     <p class="sub">Training • AI tools • Systems • Art</p>
     <p class="about">
-      This site is my public log: weight cut and strength goals, AI assistant
-      experiments, design work, and general problem solving. Nothing here is
-      “finished.” I update as I go.
+      This site is my public log: my journey, experiments, design work, and general problem solving. Nothing here will ever be “finished.” It  just gets updated as I go.
     </p>
-    <a class="cta" href="{{ '/journal/' | relative_url }}">Read the Journal</a>
+    <a class="cta" href="{{ '/journal/' | relative_url }}">Read my Journal</a>
   </div>
 </section>
