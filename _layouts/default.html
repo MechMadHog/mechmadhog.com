@@ -4,24 +4,30 @@
     {% include head.html %}
   </head>
 
-  <body class="bg-[#0b0b13] text-neutral-100 antialiased relative">
+  <body class="bg-[#0b0b13] text-neutral-100 antialiased">
 
-    <!-- Global grid background -->
-    <div class="grid-lines pointer-events-none"></div>
+    <!-- Main site area with grid background -->
+    <div class="relative min-h-screen">
 
-    <!-- Page shell above the grid -->
-    <div class="relative z-10 flex min-h-screen flex-col">
+      <!-- Purple grid background (only covers header + main) -->
+      <div class="grid-lines pointer-events-none"></div>
 
-      {% include header.html %}
+      <!-- Actual page content layered above the grid -->
+      <div class="relative z-10 flex min-h-screen flex-col">
 
-      <main class="flex-1">
-        {{ content }}
-      </main>
+        {% include header.html %}
 
+        <main class="flex-1">
+          {{ content }}
+        </main>
+
+      </div>
     </div>
 
-    {% include footer.html %}
+    <!-- Footer lives OUTSIDE the grid so it's clean/solid -->
+    <div class="relative z-20">
+      {% include footer.html %}
+    </div>
 
   </body>
 </html>
-
