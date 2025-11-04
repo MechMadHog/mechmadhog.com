@@ -6,28 +6,21 @@
 
   <body class="bg-[#0b0b13] text-neutral-100 antialiased">
 
-    <!-- Main site area with grid background -->
-    <div class="relative min-h-screen">
-
-      <!-- Purple grid background (only covers header + main) -->
+    <!-- GRID ONLY WRAPS HEADER + MAIN -->
+    <div id="grid-shell" class="relative overflow-hidden">
       <div class="grid-lines pointer-events-none"></div>
 
-      <!-- Actual page content layered above the grid -->
       <div class="relative z-10 flex min-h-screen flex-col">
-
         {% include header.html %}
-
         <main class="flex-1">
           {{ content }}
         </main>
-
       </div>
     </div>
 
-    <!-- Footer lives OUTSIDE the grid so it's clean/solid -->
-    <div class="relative z-20">
-      {% include footer.html %}
-    </div>
+    <!-- FOOTER OUTSIDE THE GRID -->
+    {% include footer.html %}
 
   </body>
 </html>
+

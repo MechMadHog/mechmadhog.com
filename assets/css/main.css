@@ -200,34 +200,19 @@ a:hover {
   text-shadow: var(--glow);
 }
 
-.grid-lines {
-  position: absolute;
-  /* instead of inset:0, force full viewport width */
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
+.grid-lines{
+  position:absolute;
+  left:0; right:0; top:0; bottom:0;   /* fill #grid-shell only */
+  z-index:0;
+  opacity:.4;
+  filter:drop-shadow(0 0 8px rgba(122,60,255,.4));
+  border-radius:0;
   background-image:
-    radial-gradient(circle at 50% 0%, rgba(122, 60, 255, 0.22) 0%, transparent 70%),
-    repeating-linear-gradient(
-      #2a1a55 0px,
-      #2a1a55 1px,
-      transparent 1px,
-      transparent 60px
-    ),
-    repeating-linear-gradient(
-      90deg,
-      #2a1a55 0px,
-      #2a1a55 1px,
-      transparent 1px,
-      transparent 60px
-    );
-
-  opacity: 0.4;
-  filter: drop-shadow(0 0 8px rgba(122,60,255,0.4));
-  z-index: 1;
-  border-radius: 0;
+    radial-gradient(circle at 50% 0%, rgba(122,60,255,.22) 0%, transparent 70%),
+    repeating-linear-gradient(#2a1a55 0 1px, transparent 1px 60px),
+    repeating-linear-gradient(90deg, #2a1a55 0 1px, transparent 1px 60px);
 }
+
 
 
 /* ====== SECTIONS / GRIDS ====== */
