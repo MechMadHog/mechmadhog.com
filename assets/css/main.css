@@ -200,18 +200,22 @@ a:hover {
   text-shadow: var(--glow);
 }
 
-.grid-lines{
-  position:absolute;
-  left:0; right:0; top:0; bottom:0;   /* fill #grid-shell only */
-  z-index:0;
-  opacity:.4;
-  filter:drop-shadow(0 0 8px rgba(122,60,255,.4));
-  border-radius:0;
+/* Grid only inside #grid-shell */
+#grid-shell::before {
+  content: "";
+  position: absolute;
+  inset: 0;               /* fill the shell only */
+  z-index: 0;             /* sit behind header/main content */
+  opacity: .4;
+  filter: drop-shadow(0 0 8px rgba(122,60,255,.4));
   background-image:
     radial-gradient(circle at 50% 0%, rgba(122,60,255,.22) 0%, transparent 70%),
     repeating-linear-gradient(#2a1a55 0 1px, transparent 1px 60px),
     repeating-linear-gradient(90deg, #2a1a55 0 1px, transparent 1px 60px);
 }
+
+/* Ensure header/main render above the grid */
+#grid-shell > * { position: relative; z-index: 1; }
 
 
 

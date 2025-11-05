@@ -1,27 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    {% include head.html %}
-  </head>
-
+  <head>{% include head.html %}</head>
   <body class="bg-[#0b0b13] text-neutral-100 antialiased">
 
-    <!-- GRID ONLY WRAPS HEADER + MAIN -->
-    <div id="grid-shell" class="relative overflow-hidden">
-      <div class="grid-lines pointer-events-none"></div>
-
-      <div class="relative z-10 flex min-h-screen flex-col">
-        {% include header.html %}
-        <main class="flex-1">
-          {{ content }}
-        </main>
-      </div>
+    <!-- Grid applies ONLY to this shell -->
+    <div id="grid-shell" class="relative overflow-hidden min-h-screen">
+      {% include header.html %}
+      <main class="relative z-10 flex-1">
+        {{ content }}
+      </main>
     </div>
-    <footer class="bg-[#0b0b13] border-t border-neutral-800 text-neutral-400 ...">
-    <!-- FOOTER OUTSIDE THE GRID -->
+
+    <!-- Footer is outside the shell → no grid behind it -->
     {% include footer.html %}
-    </footer>
 
   </body>
 </html>
-
