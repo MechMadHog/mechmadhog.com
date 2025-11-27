@@ -23,7 +23,7 @@ Out of all the Lanterns, **Kyle Rayner** is the one who resonates with me most.
 - **The Outcast Chosen** – Kyle wasn’t a soldier or a golden boy. He was a struggling artist, handed the ring when no one else could carry it. Wrong place, wrong time, already broken.  
 - **The Human Lantern** – Hal is duty. John is discipline. Guy is rage. Kyle is doubt. He carries grief and alienation but still creates.  
 - **The Artist’s Ring** – His constructs come from imagination, not just willpower. From creativity and vulnerability, not brute force.  
-- **The White Lantern** – Kyle embodies all emotions. Grey turned White — not by being “pure,” but by carrying *everything*.
+- **The White Lantern** – Kyle embodies all emotions. Grey turned White - not by being “pure,” but by carrying *everything*.
 
 That’s me. Not the destined hero, not the soldier, but the outcast who refuses to drop the weight. The one who makes something out of it instead.
 
@@ -41,7 +41,7 @@ It’s integrity as ink. A reminder that even when the pattern is complicated, i
 ---
 
 ## How It Fits My Archetype
-I’ve written before about the **Grey Archetype** — walking between sheep and wolf, between Jedi and Sith. The White Lantern is the other side of that coin. It’s not about choosing one path. It’s about holding all paths at once.  
+I’ve written before about the **Grey Archetype** - walking between sheep and wolf, between Jedi and Sith. The White Lantern is the other side of that coin. It’s not about choosing one path. It’s about holding all paths at once.  
 
 - Grey is burden, cynicism, the refusal to bend.  
 - White is synthesis, creation, turning burden into art.  
