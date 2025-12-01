@@ -4,7 +4,7 @@ title: "My Tatoos: White Lantern Knot"
 description: "My second tattoo, located on the inside of my left forearm"
 categories: [Tattoo, Style]
 tags: [DC, Green-Lantern, Knot-work, Celtic]
-featured: false
+featured: true
 image: /assets/images/blog/White-Lantern-Knot.png
 ---
 
