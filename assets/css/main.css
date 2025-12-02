@@ -203,7 +203,8 @@ a:hover {
 .grid-lines{
   position:absolute;              /* not fixed */
   left:0; right:0; top:0; bottom:0;
-  z-index:0;
+  z-index:-1;                 /* NEW: push behind everything */
+  pointer-events:none;        /* NEW: don’t block clicks */
   opacity:.4;
   filter:drop-shadow(0 0 8px rgba(122,60,255,.4));
   border-radius:0;
@@ -291,6 +292,18 @@ a:hover {
   text-shadow: none;
 }
 
+/* generic article padding on post pages */
+article.py-5 {
+  padding: calc(var(--space) * 2) var(--space);
+}
+
+/* center the inner container */
+article.py-5 .container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 /* responsive columns for cards */
 @media (min-width: 720px) {
   .projects-grid .card {
@@ -313,7 +326,13 @@ a:hover {
   text-align: center;
   font-size: 0.75rem;
   line-height: 1.4;
+
+  /* NEW: center footer like main content */
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 .footer a {
   color: var(--accent);
   text-decoration: none;
