@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "My Favourite Bond"
-description: "Why Timothy Dalton is My Favourite Bond (and Why *Licence to Kill* is the Best Bond Film)"
+description: "Why Timothy Dalton is My Favourite Bond and Why Licence to Kill is the Best Bond Film"
 categories: [Bond, Movies]
-tags: [James-Bond, Spy, Secret-Agent, 007]
+tags: [James-Bond, Spy, Secret-Agent]
 featured: true
 image: /assets/images/blog/James-Bond.png
 ---
