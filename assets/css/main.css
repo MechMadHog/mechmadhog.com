@@ -30,6 +30,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* keep content clear of fixed footer */
+body {
+  padding-bottom: 56px; /* approx footer height */
+}
+
 img {
   max-width: 100%;
   display: block;
@@ -76,7 +81,6 @@ a:hover {
   object-fit: cover;
 }
 
-
 .nav-links {
   list-style: none;
   display: flex;
@@ -101,7 +105,7 @@ a:hover {
   text-shadow: var(--glow);
 }
 
-/* ====== HERO / WELCOME PANEL ====== */
+/* ====== PANELS / WELCOME ====== */
 
 .panel {
   position: relative;
@@ -139,7 +143,6 @@ a:hover {
   margin: 0 auto 1rem auto;
   object-fit: cover;
 }
-
 
 .welcome-content h1 {
   font-family: var(--font-head);
@@ -200,20 +203,23 @@ a:hover {
   text-shadow: var(--glow);
 }
 
-.grid-lines{
-  position:absolute;              /* not fixed */
-  left:0; right:0; top:0; bottom:0;
-  z-index:-1;                 /* NEW: push behind everything */
-  pointer-events:none;        /* NEW: don’t block clicks */
-  opacity:.4;
-  filter:drop-shadow(0 0 8px rgba(122,60,255,.4));
-  border-radius:0;
+/* glowing grid background */
+.grid-lines {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;              /* behind content */
+  pointer-events: none;
+  opacity: .4;
+  filter: drop-shadow(0 0 8px rgba(122,60,255,.4));
+  border-radius: 0;
   background-image:
     radial-gradient(circle at 50% 0%, rgba(122,60,255,.22) 0%, transparent 70%),
     repeating-linear-gradient(#2a1a55 0 1px, transparent 1px 60px),
     repeating-linear-gradient(90deg, #2a1a55 0 1px, transparent 1px 60px);
 }
-
 
 /* ====== SECTIONS / GRIDS ====== */
 
@@ -292,18 +298,6 @@ a:hover {
   text-shadow: none;
 }
 
-/* generic article padding on post pages */
-article.py-5 {
-  padding: calc(var(--space) * 2) var(--space);
-}
-
-/* center the inner container */
-article.py-5 .container {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-
 /* responsive columns for cards */
 @media (min-width: 720px) {
   .projects-grid .card {
@@ -316,28 +310,103 @@ article.py-5 .container {
   }
 }
 
-/* ====== FOOTER ====== */
+/* ====== SINGLE POST LAYOUT ====== */
 
-.footer {
-  margin-top: calc(var(--space) * 2);
-  padding: calc(var(--space) * 1.5) var(--space);
-  border-top: 1px solid var(--border-soft);
-  color: var(--text-dim);
-  text-align: center;
-  font-size: 0.75rem;
-  line-height: 1.4;
+article.py-5 {
+  padding: calc(var(--space) * 2) var(--space);
+}
 
-  /* NEW: center footer like main content */
-  max-width: 1100px;
+article.py-5 .container {
   margin-left: auto;
   margin-right: auto;
 }
 
-.footer a {
+/* ====== FOOTER (fixed, with icons) ====== */
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-top: 1px solid var(--border-soft);
+  background: #05050a; /* you can swap to var(--panel-bg) if you prefer */
+  color: var(--text-dim);
+  font-size: 0.75rem;
+  line-height: 1.4;
+  z-index: 900;
+}
+
+.footer-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0.75rem var(--space);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.footer-copy {
+  flex: 1;
+  text-align: center;
+  margin: 0;
+}
+
+/* icon row on the right */
+.footer-icons {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+/* circular icon badges */
+.footer-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  border: 1px solid var(--accent);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.6rem;
+  font-weight: 600;
   color: var(--accent);
   text-decoration: none;
+  box-shadow: var(--glow);
+}
+
+.footer-icon span {
+  pointer-events: none;
+}
+
+.footer-icon:hover {
+  background: var(--accent);
+  color: #0b0b13;
+  text-shadow: none;
+}
+
+.footer a {
+  color: var(--accent);
 }
 .footer a:hover {
   text-decoration: underline;
   text-shadow: var(--glow);
+}
+
+/* mobile... stack, icons under copyright */
+@media (max-width: 640px) {
+  .footer-inner {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer-copy {
+    text-align: center;
+  }
+
+  .footer-icons {
+    justify-content: center;
+  }
 }

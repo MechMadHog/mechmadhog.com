@@ -1,23 +1,35 @@
-<footer class="border-t border-neutral-800 bg-neutral-950 text-neutral-100">
-  <div class="mx-auto max-w-5xl px-4 py-4 flex items-center justify-between">
-    <p>© <span id="year"></span> Mike MacDonagh</p>
-    <p class="mt-4 space-x-2">
-      <a class="text-indigo-400 hover:text-indigo-300" href="https://x.com/MechMadHog" target="_blank" rel="noopener">X</a>
-      <span class="text-neutral-600">•</span>
-      <a class="text-indigo-400 hover:text-indigo-300" href="https://www.instagram.com/mechanicalmadhog/" target="_blank" rel="noopener">Instagram</a>
-      <span class="text-neutral-600">•</span>
-      <a class="text-indigo-400 hover:text-indigo-300" href="https://www.deviantart.com/mechmadhog" target="_blank" rel="noopener">DeviantArt</a>
-      <span class="text-neutral-600">•</span>
-      <a class="text-indigo-400 hover:text-indigo-300" href="https://github.com/MechMadHog" target="_blank" rel="noopener">GitHub</a>
-      <span class="text-neutral-600">•</span>
-      <a class="text-indigo-400 hover:text-indigo-300" href="https://linkedin.com/in/michaelmacdonagh/" target="_blank" rel="noopener">LinkedIn</a>
-      <span class="text-neutral-600">•</span>
-      <a class="text-indigo-400 hover:text-indigo-300" href="https://michaelmacdonagh.net/" target="_blank" rel="noopener">michaelmacdonagh.net</a>
-      <span class="text-neutral-600">•</span>
-      <a class="text-indigo-400 hover:text-indigo-300" href="{{ '/feed.xml' | relative_url }}">RSS</a>
+<footer class="footer">
+  <div class="footer-inner">
+    <p class="footer-copy">
+      © <span id="year"></span> Mike MacDonagh
     </p>
-    <script>
-      document.getElementById('year').textContent = new Date().getFullYear();
-    </script>
+
+    <div class="footer-icons">
+      <a href="https://x.com/MechMadHog" class="footer-icon" target="_blank" rel="noopener" aria-label="X">
+        <span>X</span>
+      </a>
+      <a href="https://www.instagram.com/mechanicalmadhog/" class="footer-icon" target="_blank" rel="noopener" aria-label="Instagram">
+        <span>IG</span>
+      </a>
+      <a href="https://www.deviantart.com/mechmadhog" class="footer-icon" target="_blank" rel="noopener" aria-label="DeviantArt">
+        <span>DA</span>
+      </a>
+      <a href="https://github.com/MechMadHog" class="footer-icon" target="_blank" rel="noopener" aria-label="GitHub">
+        <span>GH</span>
+      </a>
+      <a href="https://linkedin.com/in/michaelmacdonagh/" class="footer-icon" target="_blank" rel="noopener" aria-label="LinkedIn">
+        <span>IN</span>
+      </a>
+      <a href="https://michaelmacdonagh.net/" class="footer-icon" target="_blank" rel="noopener" aria-label="Portfolio site">
+        <span>MM</span>
+      </a>
+      <a href="{{ '/feed.xml' | relative_url }}" class="footer-icon" target="_blank" rel="noopener" aria-label="RSS feed">
+        <span>RSS</span>
+      </a>
+    </div>
   </div>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
 </footer>
