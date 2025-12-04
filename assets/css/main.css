@@ -28,11 +28,7 @@ body {
   font-family: var(--font-body);
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-}
-
-/* keep content clear of fixed footer */
-body {
-  padding-bottom: 56px; /* approx footer height */
+  padding-bottom: 56px; /* keep content clear of fixed footer */
 }
 
 img {
@@ -203,7 +199,6 @@ a:hover {
   text-shadow: var(--glow);
 }
 
-/* glowing grid background */
 .grid-lines {
   position: absolute;
   left: 0;
@@ -321,7 +316,7 @@ article.py-5 .container {
   margin-right: auto;
 }
 
-/* ====== FOOTER (fixed, with icons) ====== */
+/* ====== FOOTER ====== */
 
 .footer {
   position: fixed;
@@ -329,11 +324,12 @@ article.py-5 .container {
   left: 0;
   right: 0;
   border-top: 1px solid var(--border-soft);
-  background: #05050a; /* you can swap to var(--panel-bg) if you prefer */
+  background: #05050a; /* or var(--panel-bg) if you want more glassiness */
   color: var(--text-dim);
   font-size: 0.75rem;
   line-height: 1.4;
   z-index: 900;
+  box-shadow: var(--glow);
 }
 
 .footer-inner {
@@ -370,14 +366,13 @@ article.py-5 .container {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.6rem;
-  font-weight: 600;
+  font-size: 0.8rem;   /* good size for FA icons */
   color: var(--accent);
   text-decoration: none;
   box-shadow: var(--glow);
 }
 
-.footer-icon span {
+.footer-icon i {
   pointer-events: none;
 }
 
@@ -395,7 +390,7 @@ article.py-5 .container {
   text-shadow: var(--glow);
 }
 
-/* mobile... stack, icons under copyright */
+/* mobile: stack, icons under copyright */
 @media (max-width: 640px) {
   .footer-inner {
     flex-direction: column;
