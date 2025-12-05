@@ -32,7 +32,7 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
 <section id="name-anagram" class="panel panel--anagram">
   <div class="anagram-layout">
     <div class="anagram-copy">
-      <h2>Mechanical Mad Hog</h2>
+      <h3>Mechanical Mad Hog</h3>
       <p class="anagram-subtitle">
         is not just my handle... it's an anagram of my name.
       </p>
@@ -67,19 +67,16 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
       <p>Day to day notes on training, food experiments, tech, and whatever I am debugging in my life.</p>
       <a href="{{ '/journal/' | relative_url }}" class="home-card-link">Read entries →</a>
     </article>
-
     <article class="home-card">
       <h3>🤖 AI Tools</h3>
       <p>Agents, scripts, and small utilities I am building to automate boring work and amplify the fun stuff.</p>
       <a href="{{ '/ai-tools/' | relative_url }}" class="home-card-link">Explore builds →</a>
     </article>
-
     <article class="home-card">
       <h3>🏋️ Training</h3>
       <p>Weight loss, strength, sandbags, calisthenics, walking... and how I am trying to become hard to push around.</p>
       <a href="{{ '/training/' | relative_url }}" class="home-card-link">Training log →</a>
     </article>
-
     <article class="home-card">
       <h3>🎨 Art & Design</h3>
       <p>Sketches, layouts, UI experiments, and visual ideas that feed back into the rest of the system.</p>
