@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       }
 
-      // "Mechanical" → "anical" = positions 4–10 (0-based)
+      // "Mechanical" → "anical" is positions 4–10
       buildWord(wordContainer1, W1, [4, 10]);
       buildWord(wordContainer2, W2, null);
 
@@ -98,8 +98,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
           const targetTop = match.top - rect1.top + yDiff;
           const targetLeft = match.left - rect1.left;
-
           const delay = 100 + Math.random() * 900;
+
           setTimeout(() => {
             item.element.style.top = targetTop + "px";
             item.element.style.left = targetLeft + "px";
@@ -107,6 +107,14 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
         showBtn.style.opacity = "0.4";
+
+        // reveal the real name
+        setTimeout(() => {
+          wordContainer2.classList.remove("no-glow");
+          wordContainer2.querySelectorAll(".letter").forEach((span) => {
+            span.style.opacity = "1";
+          });
+        }, 900);
       }
 
       showBtn.addEventListener("click", rearrange);
@@ -122,7 +130,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
       if (!mainImg) return;
 
-      // swap main image on thumb click
       thumbs.forEach((thumb) => {
         thumb.addEventListener("click", () => {
           const fullSrc =
@@ -140,14 +147,13 @@ document.addEventListener("DOMContentLoaded", () => {
         });
       });
 
-      // click to zoom
       mainImg.addEventListener("click", () => {
-        mainImg.classList.toggle("is-zoomed");
-        document.body.classList.toggle("art-zoom-active", mainImg.classList.contains("is-zoomed"));
+        const isNowZoomed = !mainImg.classList.contains("is-zoomed");
+        mainImg.classList.toggle("is-zoomed", isNowZoomed);
+        document.body.classList.toggle("art-zoom-active", isNowZoomed);
       });
     });
 
-    // Esc to cancel zoom for any zoomed art
     document.addEventListener("keydown", (e) => {
       if (e.key === "Escape") {
         const zoomed = document.querySelectorAll(".art-main-img.is-zoomed");

@@ -11,12 +11,12 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
       src="{{ '/assets/images/avatar.png' | relative_url }}"
       alt="Mechanical Mad Hog avatar"
     >
-    <h1>Mechanical Mad Hog</h1>
+    <h1>Mike / Mech</h1>
     <p class="tagline">Building Myself In Public</p>
     <p class="sub">Training • AI Tools • Systems • Art</p>
     <p class="about">
-      This site is my public build log... training, experiments, AI tools, design work, and general problem solving.
-      Nothing here is ever finished. I just keep shipping small updates in public.
+      This site is my informal site... training, experiments, AI tools, design work, and general problem solving.
+      Nothing here is ever finished. I just keep shipping small updates to the public.
     </p>
     <div class="hero-cta-row">
       <a class="cta" href="{{ '/journal/' | relative_url }}">Open the Journal</a>
@@ -34,25 +34,24 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
     <div class="anagram-copy">
       <h2>Mechanical Mad Hog</h2>
       <p class="anagram-subtitle">
-        is not just a cool handle... it is literally an anagram of my name.
+        is not just my handle... it's an anagram of my name.
       </p>
       <p class="anagram-explain">
         Hit the button below and watch the letters rearrange from the alias
         <span class="alias">Mechanical Mad Hog</span>
-        into the real human
+        into the real me...
         <span class="real-name">Michael Mac Donagh</span>.
       </p>
       <p class="anagram-note">
-        The <span class="anagram-highlight">anical</span> part is the shared spine between both versions.
+        I removed the <span class="anagram-highlight">anical</span> part when I shortened it to mechmadhog.
       </p>
     </div>
-
     <div class="anagram-widget">
       <div class="anagram-container">
         <div class="w0"></div>
         <div class="w1"></div>
         <button type="button" class="show-btn">
-          Is actually an ANAGRAM of
+          Is an ANAGRAM of
         </button>
         <div class="w2 no-glow"></div>
         <div class="w0"></div>
