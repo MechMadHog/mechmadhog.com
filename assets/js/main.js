@@ -37,9 +37,17 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       }
 
-      // "Mechanical" → "anical" is positions 4–10
+      /* top word: highlight "ANICAL" block in Mechanical */
       buildWord(wordContainer1, W1, [4, 10]);
       buildWord(wordContainer2, W2, null);
+
+      /* bottom word: highlight specific letters in Michael Mac Donagh */
+      const spineIndices2 = [1, 2, 6, 9, 10, 14]; // I, C, L, A, C, N
+      Array.from(wordContainer2.children).forEach((span, idx) => {
+        if (spineIndices2.includes(idx) && span.textContent.trim() !== "") {
+          span.classList.add("letter--spine");
+        }
+      });
 
       function findAndTake(array, letter) {
         const target = letter.toLowerCase();
@@ -108,13 +116,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
         showBtn.style.opacity = "0.4";
 
-        // reveal the real name
+        /* fade in the real name, then fade out the moving letters */
         setTimeout(() => {
           wordContainer2.classList.remove("no-glow");
           wordContainer2.querySelectorAll(".letter").forEach((span) => {
             span.style.opacity = "1";
           });
         }, 900);
+
+        setTimeout(() => {
+          wordContainer1.querySelectorAll(".letter").forEach((span) => {
+            span.style.opacity = "0";
+          });
+        }, 1500);
       }
 
       showBtn.addEventListener("click", rearrange);
