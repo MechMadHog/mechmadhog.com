@@ -32,15 +32,15 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
 <section id="name-anagram" class="panel panel--anagram">
   <div class="anagram-layout">
     <div class="anagram-copy">
-      <h3>Mechanical Mad Hog</h3>
+      <h3>Mech Mad Hog</h3>
       <p class="anagram-subtitle">
-        is not just my handle... it's an anagram of my name.
+        is not just my handle... it's an anagram of my name (well sort of).
       </p>
       <p class="anagram-explain">
         Hit the button below and watch the letters rearrange from the alias
         <span class="alias">Mechanical Mad Hog</span>
         into the real me...
-        <span class="real-name">Michael Mac Donagh</span>.
+        <span class="real-name">Michael MacDonagh</span>.
       </p>
       <p class="anagram-note">
         I removed the <span class="anagram-highlight">anical</span> part when I shortened it to mechmadhog.
@@ -51,7 +51,7 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
         <div class="w0"></div>
         <div class="w1"></div>
         <button type="button" class="show-btn">
-          Is an ANAGRAM of
+          Is an ANAGRAM of...
         </button>
         <div class="w2 no-glow"></div>
         <div class="w0"></div>
