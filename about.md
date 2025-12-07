@@ -27,7 +27,7 @@ description: "Who I am, what I'm doing, and what this site actually is."
       <div class="about-main-text">
         <h2>Who I Am</h2>
         <p>
-          I'm <strong>Mike MacDonagh</strong>, based in Ireland. Online I go by
+          I'm <strong>Mike MacDonagh</strong>, based in Mullingar. Online I go by
           <strong>Mechanical Mad Hog</strong> or <strong>MechMadHog</strong>.
         </p>
         <p>
@@ -134,7 +134,7 @@ description: "Who I am, what I'm doing, and what this site actually is."
             </li>
             <li>
               <a href="https://michaelmacdonagh.net/" target="_blank" rel="noopener">
-                michaelmacdonagh.net
+                portfolio
               </a>
             </li>
           </ul>
