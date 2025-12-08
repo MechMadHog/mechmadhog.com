@@ -61,7 +61,7 @@ description: "What I'm focused on right now."
         Just becoming harder to break.
       </p>
       <p class="muted" style="font-size:0.8rem;">
-        Last updated: November 2025
+        Last updated: December 2025
       </p>
     </article>
 
