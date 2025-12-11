@@ -96,7 +96,11 @@ This protocol recreates those demands at home.
 - Lower traps  
 - Core stabilisers  
 
-**Horizontal Pull (Archimedes Row)**  
+**Horizontal Pull (Archimedes Row)** 
+*Origin of the Movement (Why I Call It the Archimedes Row)*  
+This variation didn’t exist as a single movement. I combined the deep stretch and leverage of the classic Meadows Row with single-leg contralateral balance work used in physio. The result is a horizontal pull that loads the mid-back brutally while forcing anti-rotation stability for perfect posture.  
+I call it the Archimedes Row because the bar acts like a lever and makes the weight feel heavier than it is. Using physics to turn a small plate into a larger load.
+
 - Mid-back  
 - Rhomboids  
 - Rear delts  
