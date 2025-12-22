@@ -190,10 +190,10 @@ If *Gremlins* counts, this argument is already over.
 
 ## Tier 3: Christmas Is the Vibe
 
-Christmas is present, visible, and doing emotional work…  
+Christmas is present, visible, and doing emotional or symbolic work…  
 but it is not the engine.
 
-These films *feel* like Christmas films, but the story still functions if the holiday is removed or replaced.
+These films *feel* like Christmas films, but the story still functions if the holiday is removed, replaced, or reframed.
 
 ### Tier 3 Examples
 
@@ -213,7 +213,7 @@ These films *feel* like Christmas films, but the story still functions if the ho
   Entirely set at Christmas, soaked in winter imagery.  
   Themes are amplified by the season, but not dependent on it.
 
-- **Iron Man 3** & **Hawkeye (TV Show)** 
+- **Iron Man 3**  
   Christmas backdrop and tone, recovery and isolation themes.  
   Plot does not require the holiday.
 
@@ -235,6 +235,10 @@ These films *feel* like Christmas films, but the story still functions if the ho
 - **Meet Me in St. Louis**  
   One iconic Christmas section and song.  
   Seasonal chapter, not a Christmas engine.
+
+- **The Lion, the Witch and the Wardrobe**  
+  Eternal winter and an explicit Father Christmas appearance.  
+  Christmas functions as symbolism and a turning point, not the cause of the story.
 
 These are Christmas films by **association**, not causation.
 
