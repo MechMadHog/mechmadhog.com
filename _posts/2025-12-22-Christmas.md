@@ -73,6 +73,7 @@ This is the gold standard.
 
 - **Home Alone**  
 - **Home Alone 2: Lost in New York**  
+- **The Nightmare Before Christmas**  
 - **It’s a Wonderful Life**  
 - **A Christmas Carol**  
 - **The Muppet Christmas Carol**  
