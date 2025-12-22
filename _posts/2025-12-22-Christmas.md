@@ -93,11 +93,15 @@ No edge cases.
 No stretching.
 
 ---
+
 Some Christmas films and specials don’t need a framework, tiers, or arguments.
 
 If you grew up in Ireland, these are just… Christmas.
 
 ## Tier 1.5: Cultural Certainties
+
+These aren’t here because of structure or logic.  
+They’re here because of repetition, timing, and memory.
 
 - **Father Ted – “A Christmassy Ted”**  
   Possibly the most quoted piece of Christmas television in the country.  
@@ -106,6 +110,29 @@ If you grew up in Ireland, these are just… Christmas.
 - **The Snowman**  
   Technically British, but effectively adopted.  
   No dialogue, pure vibes, unavoidable every December.
+
+- **An American Tail**  
+  Not a Christmas film by any formal definition.  
+  But in our house, it was *always on* around Christmas.  
+  Family, hardship, hope, reunion… it earns its place through association.
+
+- **The O.C. – The Chrismukkah Episodes**  
+  Absolutely not Irish and not structurally Christmas.  
+  Just permanently linked to Christmas evenings on Channel 4.  
+  A very specific seasonal memory from a very specific era.
+
+- **Christmas Day Soaps**  
+  *Emmerdale*, *Coronation Street*, *EastEnders*.  
+  Something absolutely horrific always happens.  
+  Deaths, affairs, explosions, long-buried secrets.  
+  A national tradition built on emotional whiplash.
+
+- **Stranger Things (Seasonal Releases)**  
+  Not traditionally a Christmas thing… until now.  
+  Netflix leaning into the season properly this year.  
+  It already lives in that nostalgia / small-town / lights-in-the-dark space,  
+  so a Christmas-themed run feels earned.  
+  Genuinely looking forward to this.
 
 These sit outside the argument entirely.  
 They’re not structural Christmas films…  
@@ -184,7 +211,7 @@ These films *feel* like Christmas films, but the story still functions if the ho
   Entirely set at Christmas, soaked in winter imagery.  
   Themes are amplified by the season, but not dependent on it.
 
-- **Iron Man 3**  
+- **Iron Man 3** & **Hawkeye (TV Show)** 
   Christmas backdrop and tone, recovery and isolation themes.  
   Plot does not require the holiday.
 
