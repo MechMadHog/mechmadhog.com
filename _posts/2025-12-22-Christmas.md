@@ -83,7 +83,7 @@ This is the gold standard.
 - **The Santa Clause** (trilogy)  
 - **How the Grinch Stole Christmas**  
 - **Scrooged**  
-- **The Life of Brian**
+- **The Life of Brian** (A little bit of a joke example)
 
 If Christmas is removed, these films either don’t start or don’t resolve.
 
