@@ -74,13 +74,15 @@ This is the gold standard.
 - **Home Alone**  
 - **Home Alone 2: Lost in New York**  
 - **The Nightmare Before Christmas**  
-- **It’s a Wonderful Life**  
-- **A Christmas Carol**  
+- **It’s a Wonderful Life**   
 - **The Muppet Christmas Carol**  
 - **National Lampoon’s Christmas Vacation**  
 - **The Family Stone**  
 - **Miracle on 34th Street**  
 - **Elf**  
+- **Jingle All The Way**  
+- **Bad Santa**  
+- **Surviving Christmas**  
 - **The Santa Clause** (trilogy)  
 - **How the Grinch Stole Christmas**  
 - **Scrooged**  
