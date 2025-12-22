@@ -78,7 +78,6 @@ This is the gold standard.
 - **The Muppet Christmas Carol**  
 - **National Lampoon’s Christmas Vacation**  
 - **The Family Stone**  
-- **Just Friends**  
 - **Miracle on 34th Street**  
 - **Elf**  
 - **The Santa Clause** (trilogy)  
@@ -163,40 +162,34 @@ If *Gremlins* counts, this argument is already over.
 Christmas is present, visible, and doing emotional work…  
 but it is not the engine.
 
-### *Love Actually*
+These films *feel* like Christmas films, but the story still functions if the holiday is removed or replaced.
 
-This is where consistency matters.
+### Tier 3 Examples
 
-- Set at Christmas  
-- Loads of festive iconography  
-- Emotional beats boosted by the season  
+- **Love Actually**  
+  Set at Christmas, heavy festive iconography, emotional beats boosted by the season.  
+  Remove Christmas and the stories still function.
 
-Remove Christmas and the film still functions.
+- **Just Friends**  
+  Christmas provides the setting and awkwardness, not the cause.  
+  The conflict exists independently of the holiday.
 
-By the **same criteria people use to exclude Die Hard**, this is Christmas-themed, not Christmas-dependent.
+- **The Jacket**  
+  One key night is Christmas night, framing vulnerability and isolation.  
+  Emotional context, not narrative engine.
 
-Which is fine.  
-Just be honest about it.
-
-### *The Jacket*
-
-- One key night is Christmas night  
-- Christmas frames vulnerability and isolation  
-- Emotional context, not narrative engine  
-
-### *Batman Returns*
-
-- Entire film set at Christmas  
-- Gotham absolutely soaked in winter imagery  
-- Themes of abandonment and identity amplified by the season  
-
-Goth Christmas perfection.  
-Still not structurally dependent.
-
-### Other Tier 3 Examples
+- **Batman Returns**  
+  Entirely set at Christmas, soaked in winter imagery.  
+  Themes are amplified by the season, but not dependent on it.
 
 - **Iron Man 3**  
-- **On Her Majesty’s Secret Service**
+  Christmas backdrop and tone, recovery and isolation themes.  
+  Plot does not require the holiday.
+
+- **On Her Majesty’s Secret Service**  
+  Christmas appears, matters emotionally, but is not structurally required.
+
+These are Christmas films by **association**, not causation.
 
 ---
 
