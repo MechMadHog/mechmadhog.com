@@ -84,6 +84,7 @@ This is the gold standard.
 - **The Santa Clause** (trilogy)  
 - **How the Grinch Stole Christmas**  
 - **Scrooged**  
+- **The Polar Express**  
 - **The Life of Brian** (A little bit of a joke example)
 
 If Christmas is removed, these films either don’t start or don’t resolve.
@@ -190,6 +191,22 @@ These films *feel* like Christmas films, but the story still functions if the ho
 - **On Her Majesty’s Secret Service**  
   Christmas appears, matters emotionally, but is not structurally required.
 
+- **Edward Scissorhands**  
+  Christmas heightens the tragedy and imagery.  
+  Emotional punctuation, not causation.
+
+- **Eyes Wide Shut**  
+  Christmas lights everywhere, doing ironic and symbolic work.  
+  The plot is psychological, not seasonal.
+
+- **Trading Places**  
+  Christmas frames the payoff and moral contrast.  
+  The bet causes the story, not the holiday.
+
+- **Meet Me in St. Louis**  
+  One iconic Christmas section and song.  
+  Seasonal chapter, not a Christmas engine.
+
 These are Christmas films by **association**, not causation.
 
 ---
@@ -222,12 +239,23 @@ If this counts, words have lost all meaning.
 
 That’s the argument.
 
+### Other Tier 4 Greatest Hits
+
+- **The Godfather**  
+  Has a Christmas scene. Absolutely not a Christmas film.
+
+- **Harry Potter and the Philosopher’s Stone**  
+  Has a Christmas scene and jumpers.  
+  Nobody actually believes this is festive cinema.
+
+- **Heat**  
+  Christmas decorations appear briefly in LA.  
+  This is where the argument fully implodes.
+
 This is what “*Die Hard* isn’t a Christmas movie” sounds like when taken to its logical conclusion.
 
 Tier 4 isn’t a category.  
 It’s a warning.
-
----
 
 ## So Why Does *Die Hard* Get Singled Out?
 
@@ -284,4 +312,4 @@ Which is fine.
 
 Just don’t pretend it’s logical.
 
-Yippee-ki-yay. 🎄
+Yippee-ki-yay mother fuckers. 🎄
