@@ -195,15 +195,37 @@ but it is not the engine.
 
 These films *feel* like Christmas films, but the story still functions if the holiday is removed, replaced, or reframed.
 
+### Tier 3 Rules (What Qualifies)
+
+A film belongs in Tier 3 if:
+
+- Christmas is **explicitly present** in the setting or timeline  
+- Christmas **adds emotional weight, irony, or symbolism**  
+- Christmas may frame key scenes or the tone  
+- The plot and resolution **do not depend on Christmas obligations, timing, or rules**
+
+In short:  
+Christmas is doing *work*, but it is **not governing events**.
+
+---
+
+### Tier 3 Exclusions (What Keeps It Out of Tier 4)
+
+A Tier 3 film must **not** qualify if:
+
+- Christmas is only background decoration  
+- A tree, carol, or party appears with **zero impact on characters or themes**  
+- Christmas imagery could be removed without *any* tonal or emotional change  
+
+If Christmas is purely incidental, the film belongs in **Tier 4**, not here.
+
+---
+
 ### Tier 3 Examples
 
 - **Love Actually**  
   Set at Christmas, heavy festive iconography, emotional beats boosted by the season.  
   Remove Christmas and the stories still function.
-
-  - **Look Who’s Talking Now**  
-  The animals are introduced as Christmas presents, making the holiday essential to the setup.  
-  Once the premise is established, the story no longer depends on Christmas.
 
 - **Just Friends**  
   Christmas provides the setting and awkwardness, not the cause.  
@@ -220,9 +242,6 @@ These films *feel* like Christmas films, but the story still functions if the ho
 - **Iron Man 3** & **Hawkeye**
   Christmas backdrop and tone, recovery and isolation themes.  
   Plot does not require the holiday.
-
-- **On Her Majesty’s Secret Service**  
-  Christmas appears, matters emotionally, but is not structurally required.
 
 - **Edward Scissorhands**  
   Christmas heightens the tragedy and imagery.  
@@ -241,10 +260,11 @@ These films *feel* like Christmas films, but the story still functions if the ho
   Seasonal chapter, not a Christmas engine.
 
 - **The Lion, the Witch and the Wardrobe**  
-  Eternal winter and an explicit Father Christmas appearance.  
-  Christmas functions as symbolism and a turning point, not the cause of the story.
+  Eternal winter contrasted with the *return* of Christmas.  
+  Christmas is symbolic of hope, not the cause of victory.
 
 These are Christmas films by **association**, not causation.
+
 
 ---
 
