@@ -279,7 +279,7 @@ That’s the argument.
 ### Other Tier 4 Greatest Hits
 
 - **American Psycho**  
-  Explicit Christmas parties, decorations, and the line “Have a holly jolly Christmas.”  
+  Explicit Christmas parties, decorations, and the line “Hey Hamilton, Have a holly jolly Christmas.”  
   Christmas is present, but completely irrelevant to the plot.
 
 - **The Godfather**  
