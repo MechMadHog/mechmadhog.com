@@ -201,6 +201,10 @@ These films *feel* like Christmas films, but the story still functions if the ho
   Set at Christmas, heavy festive iconography, emotional beats boosted by the season.  
   Remove Christmas and the stories still function.
 
+  - **Look Who’s Talking Now**  
+  The animals are introduced as Christmas presents, making the holiday essential to the setup.  
+  Once the premise is established, the story no longer depends on Christmas.
+
 - **Just Friends**  
   Christmas provides the setting and awkwardness, not the cause.  
   The conflict exists independently of the holiday.
