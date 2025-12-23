@@ -278,6 +278,10 @@ That’s the argument.
 
 ### Other Tier 4 Greatest Hits
 
+- **American Psycho**  
+  Explicit Christmas parties, decorations, and the line “Have a holly jolly Christmas.”  
+  Christmas is present, but completely irrelevant to the plot.
+
 - **The Godfather**  
   Has a Christmas scene. Absolutely not a Christmas film.
 
@@ -288,6 +292,12 @@ That’s the argument.
 - **Heat**  
   Christmas decorations appear briefly in LA.  
   This is where the argument fully implodes.
+
+- **Jumanji**  
+  Ends with explicit Christmas imagery and decorations.  
+  Christmas is present, but has no relevance to the story itself.
+
+
 
 This is what “*Die Hard* isn’t a Christmas movie” sounds like when taken to its logical conclusion.
 
