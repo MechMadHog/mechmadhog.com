@@ -217,7 +217,7 @@ These films *feel* like Christmas films, but the story still functions if the ho
   Entirely set at Christmas, soaked in winter imagery.  
   Themes are amplified by the season, but not dependent on it.
 
-- **Iron Man 3**  
+- **Iron Man 3** & **Hawkeye**
   Christmas backdrop and tone, recovery and isolation themes.  
   Plot does not require the holiday.
 
