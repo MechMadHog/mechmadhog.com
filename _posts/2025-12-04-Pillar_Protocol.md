@@ -11,48 +11,66 @@ image: /assets/images/blog/Pillar-Protocol.png
 # 🏛️ The Pillar Protocol  
 ### *Sandbag Strength · Calisthenics · Rucking · Mobility*
 
-This is a simple 3–day rotation built around the movements humans were supposed to be good at:
+A simple **3-day rotating system** built around the movements humans are designed to be competent at:
 
-- lifting heavy awkward weight  
-- carrying it  
-- pushing and pulling with our own bodyweight  
+- lifting awkward, unstable weight  
+- carrying loads over distance  
+- pushing and pulling with bodyweight  
 - walking long distances under load  
 - moving through water  
-- developing balance, posture, and durability  
+- maintaining balance, posture, and joint integrity  
 
-This program leans into farmer strength, strongman mechanics, and monk-like consistency.  
-It isn’t for aesthetics... but aesthetics will happen anyway (the yoked look) because the movements hit the body the way nature intends.
+This protocol leans into **farmer strength**, **strongman mechanics**, and **monk-like consistency**.
 
----
-
-# 💪 Why This Works for My Frame
-
-I’m not built like a gymnast.  
-I’m not built like a shredded men’s physique model.
-
-I’m built like:
-
-- a forward in rugby  
-- a stone lifter  
-- a grappler  
-- a worker who carries weight instead of machines  
-
-My body responds best to:
-
-- compression work (sandbag squeezes, carries)  
-- front-loaded weight (bear hugs, floor presses)  
-- pulling strength (rows, pull-ups, high pulls)  
-- torque (wrist, forearm, biceps rotation)  
-- big compound effort rather than isolated machine movements  
-
-This protocol embraces that frame instead of fighting it.  
-It builds a dense, thick, capable upper body; not a dehydrated, competition-ready one.
+It is not designed for aesthetics.  
+**Aesthetics emerge as a side-effect** (the yoked look) because these movements load the body the way nature intended.
 
 ---
 
-# 🏛 What Is a “Yoke”?
+## 🧱 Training Philosophy
 
-The yoke refers to everything across the upper frame:
+- compound effort over isolation  
+- awkward objects over machines  
+- density and durability over leanness  
+- consistency over novelty  
+
+The outcome is a body that is:
+- solid  
+- capable  
+- resilient  
+- difficult to injure  
+- visibly strong without posturing  
+
+---
+
+## 💪 Why This Protocol Fits a Thick, Load-Bearing Frame
+
+This protocol is not built for:
+- gymnast-style physiques  
+- men’s physique competition builds  
+
+It is built for frames resembling:
+- rugby forwards  
+- stone lifters  
+- grapplers  
+- workers who carry weight instead of outsourcing it to machines  
+
+Such frames respond best to:
+- compression work (sandbags, carries)  
+- front-loaded resistance (bear hugs, floor presses)  
+- heavy pulling (rows, pull-ups, high pulls)  
+- rotational torque (forearms, biceps, wrists)  
+- large compound patterns over isolated machine work  
+
+This protocol **embraces that structure instead of fighting it**.
+
+The result is a **dense, thick, capable upper body** rather than a dehydrated, competition-ready one.
+
+---
+
+## 🏛 What the “Yoke” Refers To
+
+The **yoke** describes the entire upper frame functioning as a unit:
 
 - traps  
 - rear delts  
@@ -62,159 +80,149 @@ The yoke refers to everything across the upper frame:
 - long head of the triceps  
 - scapular thickness  
 
-When these grow together, you get the yoked silhouette:
-
+When developed together, this creates a silhouette that is:
 - wider  
 - thicker  
 - taller-looking  
 - harder  
-- more solid  
-- intimidating without trying  
+- imposing without effort  
 
-Sandbags, dips, carries, high pulls, and pull-ups hit the yoke better than any bodybuilding split because they develop:
-
-- stability strength  
+Sandbags, carries, dips, high pulls, and pull-ups build the yoke because they develop:
 - postural dominance  
 - compression strength  
-- explosive pulling  
-- functional shoulder integrity  
+- shoulder integrity  
+- stability under load  
+- explosive pulling capacity  
 
-This is the look rugby forwards, wrestlers, stone lifters, hockey enforcers, and warriors develop naturally because their training demands it.
+This is the look seen in rugby forwards, wrestlers, stone lifters, and enforcers because their work *demands it*.
 
-This protocol recreates those demands at home.
+The Pillar Protocol recreates those demands at home.
 
 ---
 
-# 🧬 Muscles Targeted (Full Breakdown)
+## 🧬 Movement and Muscle Logic
 
-### **PULL DAY**
-**Vertical Pull (Pull-Ups)**  
+### **PULL PATTERNS**
+
+**Vertical Pull – Pull-Ups**
 - Lats  
 - Teres major  
-- Biceps (long and short head)  
+- Biceps  
 - Forearms  
 - Lower traps  
 - Core stabilisers  
 
-**Horizontal Pull (Archimedes Row)** 
-*Origin of the Movement (Why I Call It the Archimedes Row)*  
-This variation didn’t exist as a single movement. I combined the deep stretch and leverage of the classic Meadows Row with single-leg contralateral balance work used in physio. The result is a horizontal pull that loads the mid-back brutally while forcing anti-rotation stability for perfect posture.  
-I call it the Archimedes Row because the bar acts like a lever and makes the weight feel heavier than it is. Using physics to turn a small plate into a larger load.
+**Horizontal Pull – Archimedes Row**  
+*A leveraged, contralateral Meadows-style row*
 
-- Mid-back  
-- Rhomboids  
-- Rear delts  
-- Lower and mid traps  
-- Grip strength  
-- Posture and anti-rotation stability  
+This movement combines:
+- the deep stretch and leverage of a Meadows row  
+- single-leg, contralateral stability patterns from physiotherapy  
 
-The Archimedes Row is a single-arm, single-leg variation of a Meadows row where the bar acts like a long lever.  
-This makes the weight feel heavier than it actually is, which forces real tension through the mid-back.
+The bar acts as a **lever**, making lighter plates feel significantly heavier.
 
-The stance is the key.  
-Right arm with left leg. Left arm with right leg.  
-That cross-pattern forces the body to stabilise against rotation and collapse.
+Primary effects:
+- mid-back thickness  
+- rhomboids  
+- rear delts  
+- lower and mid traps  
+- grip strength  
+- anti-rotation stability  
 
-For someone with dyspraxia this is incredibly useful.  
-It naturally improves posture because the movement punishes any sloppiness. The body must stay aligned or the lift fails. This teaches:
-
-- pelvis level positioning  
-- ribs down  
+The cross-pattern stance (right arm with left leg, and vice versa) forces:
+- pelvic control  
+- ribs down positioning  
 - neutral spine  
-- shoulder packed  
-- scapula doing the work instead of the arm  
+- scapular dominance over arm pulling  
 
-It also wakes up the core, obliques, glutes, and foot stabilisers in a way standard rows never touch.  
-So this becomes strength work and nervous system training at the same time.
+Any breakdown in alignment immediately degrades the lift, enforcing efficient organisation under load.
 
-You’re not just rowing.  
-You’re retraining how your body organises itself under load.
+This is not merely rowing; it is **postural and neurological retraining under resistance**.
 
-**Power Pull (Sandbag High-Pull)**  
+**Power Pull – Sandbag High Pull**
 - Upper traps  
 - Rear delts  
-- Hamstrings  
 - Glutes  
+- Hamstrings  
 - Spinal erectors  
 - Explosive hip extension  
 
-**Loaded Carry (Bear-Hug Carry)**  
+**Loaded Carry – Bear-Hug Carry**
 - Entire back  
 - Traps  
-- Biceps tendon  
 - Chest compression musculature  
+- Biceps tendon  
 - Forearms  
-- Core  
-- Gait stabilisers  
+- Core and gait stabilisers  
 
-**Torque Grind**  
-- Wrist flexors  
-- Wrist extensors  
+**Torque Grind**
+- Wrist flexors and extensors  
 - Brachioradialis  
-- Biceps (distal)  
+- Distal biceps  
 - Grip endurance  
 
 ---
 
-### **PUSH DAY**
-**Dips**  
+### **PUSH PATTERNS**
+
+**Dips**
 - Triceps (all heads)  
 - Lower and mid chest  
 - Front delts  
 - Serratus anterior  
 
-**OHP - Over-head Press (Dumbbells)**  
+**Overhead Press – Dumbbells**
 - Shoulders (all heads)  
 - Upper chest  
 - Triceps  
-- Rotator cuff stability  
+- Rotator cuff stabilisation  
 
-**Sandbag Floor Press**  
-- Horizontal chest strength  
+**Sandbag Floor Press**
+- Horizontal pressing strength  
 - Triceps  
 - Shoulder stability  
-- Compression strength  
+- Compression tolerance  
 
-**Sandbag Squeeze-Holds**  
-- Chest fibres that machines cannot reach  
+**Sandbag Squeeze Holds**
+- Deep chest fibres  
 - Internal shoulder rotators  
-- Upper back bracing  
+- Upper-back bracing  
 - Grip and compression synergy  
 
-**Lateral Raises**  
+**Lateral Raises**
 - Medial delts  
 - Upper traps (secondary)  
 - Scapular control  
 
 ---
 
-### **PILGRIMAGE DAY**
-**Rucking**  
+### **PILGRIMAGE / CORE WORK**
+
+**Rucking**
 - Glutes  
 - Hamstrings  
 - Calves  
 - Lower back  
-- Core  
-- Stabiliser muscles for posture  
+- Postural stabilisers  
 
-**Pool Work**  
-- Hip flexors  
+**Pool Work**
+- Hips  
 - Abs  
-- Shoulders (low impact)  
-- Mobility around the spine  
+- Shoulders (low-impact)  
+- Spinal mobility  
 
-**Ab Wheel**  
+**Ab Wheel**
 - Entire anterior chain  
 - Deep core  
-- Lats (eccentric)  
+- Eccentric lat loading  
 - Shoulder stability  
 
-**Balance Board**  
+**Balance Board**
 - Ankles  
 - Neuromuscular control  
-- Surf and skateboard stability  
+- Surf and skateboard transfer  
 
-**Neck Work**  
+**Neck Work**
 - SCM  
 - Traps  
 - Deep cervical extensors  
@@ -222,53 +230,54 @@ You’re retraining how your body organises itself under load.
 
 ---
 
-# 🏛️ The Pillar Protocol 
+## 🏛️ Weekly Structure
 
-## **DAY 01 - PULL**
+### **DAY 01 – PULL**
 1. Pull-Ups  
 2. Archimedes Row  
 3. Sandbag High Pulls  
-4. Bear Hug Carries  
+4. Bear-Hug Carries  
 5. Torque Grind  
 
 ---
 
-## **DAY 02 - PUSH**
+### **DAY 02 – PUSH**
 1. Dips  
-2. Dumbbell OHP  
+2. Dumbbell Overhead Press  
 3. Sandbag Floor Press  
 4. Sandbag Squeeze Holds  
 5. Lateral Raises  
 
 ---
 
-## **DAY 03 - PILGRIMAGE / CORE**
-1. Ruck (35 minutes)  
+### **DAY 03 – PILGRIMAGE / CORE**
+1. Ruck – 35 minutes  
 2. Pool Lengths and Leg Raises  
-3. Ruck back (35 minutes)  
+3. Ruck Back – 35 minutes  
 4. Ab Wheel  
 5. Huku Balance Board  
-6. Neck Strength (4 Directions)  
+6. Neck Strength (four directions)  
 
 ---
 
-# 🌄 Why This Will Work: Consistency Over Complexity
+## 🌄 Why This Works
 
 This rotation:
-
-- hits every major muscle group  
+- trains every major muscle group  
 - improves posture and gait  
-- builds stone strength instead of gym strength  
-- reduces joint issues  
-- increases mobility  
-- burns calories without ruining recovery  
-- makes you solid, which changes how people treat you  
+- builds *stone strength* rather than gym-specific strength  
+- reduces joint irritation  
+- increases usable mobility  
+- burns calories without destroying recovery  
+- creates physical solidity, which alters social perception  
 
-This is a physique built from effort, not aesthetics.  
-A look that you earn instead of pose.  
-A body that feels like it belongs to you.
+This is a physique built from effort rather than posing.  
+A body that feels owned rather than assembled.
 
-This is the foundation.
+---
 
-Stronger. Thicker. Harder.  
-A warrior monk build. Functional, durable, unapologetically solid.
+### Final Outcome
+
+**Stronger. Thicker. Harder.**  
+A **warrior-monk build** – functional, durable, unapologetically solid.
+
