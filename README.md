@@ -2,7 +2,7 @@
 
 **Source code for my personal website:** [mechmadhog.com](https://mechmadhog.com)
 
-This is my **personal and informal site** — a running record of my interests, artwork, comedy, and adventures.  
+This is my **informal site** — a record of my interests, artwork, comedy, and adventures.  
 It’s where I collect the things that make me who I am: projects, ideas, sketches, and stories that don’t belong on my professional site.
 
 ---
