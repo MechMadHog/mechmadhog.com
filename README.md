@@ -1,47 +1,54 @@
-# 🐗 mechmadhog.com
+# mechmadhog.com
 
-**Source code for my personal website:** [mechmadhog.com](https://mechmadhog.com)
+This is my **personal site**.
 
-This is my **personal and informal site** — a running record of my interests, artwork, comedy, and adventures.  
-It’s where I collect the things that make me who I am: projects, ideas, sketches, and stories that don’t belong on my professional site.
-
----
-
-## 🧠 About the Site
-
-A blend of a **personal blog**, **creative lab**, and **digital diary**, built with:
-
-- **Jekyll** — static site generator for Markdown-based posts  
-- **GitHub Pages** — simple, versioned, and free hosting  
-- **Markdown** — everything written in plain text  
-- **Custom Theme** — clean layout with experimental visual touches inspired by 16-bit and cyberpunk aesthetics  
+It exists so I have somewhere to think in public without having to sanitise the process.
+This is where ideas are allowed to be unfinished.
 
 ---
 
-## 🎭 What’s Inside
+## What This Site Is
 
-- ✍️ **Blog** — thoughts, updates, and reflections from everyday life  
-- 🎨 **Artwork** — digital paintings, sketches, and design experiments  
-- 🎭 **Comedy** — ideas, scripts, and side projects from my humor work  
-- ⚙️ **Projects & Experiments** — small builds and creative tech tests  
-- 🌍 **Adventures** — snapshots of experiences and explorations  
+- A place for experiments
+- Writing that is still forming
+- Projects that are rough, strange, or incomplete
+- Notes that would not belong on a formal portfolio
 
-Everything here is written and designed by hand — it’s a space to be authentic, weird, and curious.
+This site reflects how I actually work before things are cleaned up.
 
 ---
 
-## 🚀 Run Locally
+## What This Site Is Not
 
-To view or edit this site on your own machine:
+- A professional portfolio
+- A CV site
+- A filtered view of my work
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/MechMadHog/MechMadHog.github.io.git
-cd MechMadHog.github.io
+That role is handled elsewhere.
 
-# 2. Install Jekyll (if you haven’t already)
-gem install bundler jekyll
+For finished projects and formal presentation, see:
+👉 [michaelmacdonagh.net](https://michaelmacdonagh.net)
 
-# 3. Install dependencies and run the server
-bundle install
-bundle exec jekyll serve
+---
+
+## Standard
+
+This site prioritises:
+- honesty
+- iteration
+- speed over polish
+- documenting process rather than outcomes
+
+Some things here will stabilise.
+Some things will disappear.
+That is expected.
+
+---
+
+## Technical Notes
+
+The site is built as a lightweight static project.
+Content is written directly in Markdown.
+Structure is kept loose enough to evolve without friction.
+
+This site changes as I do.
