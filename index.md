@@ -68,19 +68,20 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
       <a href="{{ '/journal/' | relative_url }}" class="home-card-link">Read entries →</a>
     </article>
     <article class="home-card">
-      <h3>🤖 AI Tools</h3>
-      <p>Agents, scripts, and small utilities I am building to automate boring work and amplify the fun stuff.</p>
-      <a href="{{ '/ai-tools/' | relative_url }}" class="home-card-link">Explore builds →</a>
+      <h3>🧭 Now</h3>
+      <p>What I am focused on right now. Rehab, learning, projects, and priorities.</p>
+      <a href="{{ '/now/' | relative_url }}" class="home-card-link">Current state →</a>
     </article>
     <article class="home-card">
-      <h3>🏋️ Training</h3>
-      <p>Weight loss, strength, sandbags, calisthenics, walking... and how I am trying to become hard to push around.</p>
-      <a href="{{ '/training/' | relative_url }}" class="home-card-link">Training log →</a>
+      <h3>🎨 Art</h3>
+      <p>Sketches, layouts, UI experiments, and visual ideas feeding the MechMadHog system.</p>
+      <a href="{{ '/art/' | relative_url }}" class="home-card-link">View gallery →</a>
     </article>
     <article class="home-card">
-      <h3>🎨 Art & Design</h3>
-      <p>Sketches, layouts, UI experiments, and visual ideas that feed back into the rest of the system.</p>
-      <a href="{{ '/art/' | relative_url }}" class="home-card-link">See the work →</a>
+      <h3>👤 About</h3>
+      <p>Who I am, what MechMadHog is, and why this site exists.</p>
+      <a href="{{ '/about/' | relative_url }}" class="home-card-link">Read profile →</a>
     </article>
   </div>
 </section>
+
