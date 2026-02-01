@@ -21,7 +21,8 @@
         >Portfolio ⇨</a>
       </li>
     </ul>
-    <button
+    <button 
+      id="navToggle" 
       class="nav-toggle"
       type="button"
       aria-controls="mobileNav"
@@ -35,7 +36,7 @@
   <!-- Mobile menu (Tailwind controls hidden) -->
   <div
     id="mobileNav"
-    class="hidden md:hidden border-t"
+    class="border-t" hidden
     style="border-color: var(--border-soft); background: rgba(11,11,19,0.95); backdrop-filter: blur(8px); box-shadow: var(--glow);"
   >
     <ul class="nav-links flex flex-col items-start px-4 py-3 gap-3">
