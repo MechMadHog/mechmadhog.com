@@ -4,14 +4,14 @@
       <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Site logo">
     </a>
 
-    <ul class="nav-links">
+    <!-- Desktop nav (your styling) -->
+    <ul class="nav-links hidden md:flex">
       <li><a href="{{ '/' | relative_url }}">Home</a></li>
       <li><a href="{{ '/about/' | relative_url }}">About</a></li>
       <li><a href="{{ '/art/' | relative_url }}">Art</a></li>
       <li><a href="{{ '/now/' | relative_url }}">Now</a></li>
       <li><a href="{{ '/journal/' | relative_url }}">Journal</a></li>
       <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-
       <li>
         <a
           class="nav-cta"
@@ -21,7 +21,68 @@
         >Portfolio ⇨</a>
       </li>
     </ul>
+
+    <!-- Hamburger (Tailwind handles visibility) -->
+    <button
+      id="navToggle"
+      class="md:hidden inline-flex items-center justify-center rounded-lg border px-3 py-2"
+      style="border-color: var(--border-soft); box-shadow: var(--glow); background: rgba(0,0,0,0.25);"
+      aria-controls="mobileNav"
+      aria-expanded="false"
+      aria-label="Open menu"
+      type="button"
+    >
+      <span class="sr-only">Menu</span>
+
+      <!-- 3 bars (keep in theme via inline vars) -->
+      <span class="block w-5 h-[2px]" style="background: var(--text-main)"></span>
+      <span class="block w-5 h-[2px] mt-1" style="background: var(--text-main)"></span>
+      <span class="block w-5 h-[2px] mt-1" style="background: var(--text-main)"></span>
+    </button>
   </nav>
+
+  <!-- Mobile menu (Tailwind controls hidden) -->
+  <div
+    id="mobileNav"
+    class="hidden md:hidden border-t"
+    style="border-color: var(--border-soft); background: rgba(11,11,19,0.95); backdrop-filter: blur(8px); box-shadow: var(--glow);"
+  >
+    <ul class="nav-links flex flex-col items-start px-4 py-3 gap-3">
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+      <li><a href="{{ '/art/' | relative_url }}">Art</a></li>
+      <li><a href="{{ '/now/' | relative_url }}">Now</a></li>
+      <li><a href="{{ '/journal/' | relative_url }}">Journal</a></li>
+      <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+      <li>
+        <a
+          class="nav-cta"
+          href="https://michaelmacdonagh.net"
+          target="_blank"
+          rel="noopener"
+        >Portfolio ⇨</a>
+      </li>
+    </ul>
+  </div>
+
+  <script>
+    (function () {
+      const btn = document.getElementById("navToggle");
+      const panel = document.getElementById("mobileNav");
+      if (!btn || !panel) return;
+
+      btn.addEventListener("click", () => {
+        const isOpen = btn.getAttribute("aria-expanded") === "true";
+        btn.setAttribute("aria-expanded", String(!isOpen));
+        panel.classList.toggle("hidden");
+      });
+
+      // close after tapping a link
+      panel.addEventListener("click", (e) => {
+        if (!e.target.closest("a")) return;
+        btn.setAttribute("aria-expanded", "false");
+        panel.classList.add("hidden");
+      });
+    })();
+  </script>
 </header>
-
-
