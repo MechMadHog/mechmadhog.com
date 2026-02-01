@@ -57,25 +57,42 @@
   </div>
 
   <script>
-  (function () {
-    const btn = document.querySelector(".nav-toggle");
-    const panel = document.getElementById("mobileNav");
-    if (!btn || !panel) return;
+    (function () {
+      const btn = document.querySelector(".nav-toggle");
+      const panel = document.getElementById("mobileNav");
+      if (!btn || !panel) return;
 
-    const icon = btn.querySelector("i");
+      const icon = btn.querySelector("i");
 
-    btn.addEventListener("click", () => {
-      const isOpen = btn.getAttribute("aria-expanded") === "true";
+      function setOpen(open) {
+        btn.setAttribute("aria-expanded", String(open));
+        panel.hidden = !open;
 
-      btn.setAttribute("aria-expanded", String(!isOpen));
-      panel.hidden = isOpen;
-
-      if (icon) {
-        icon.classList.toggle("fa-bars", isOpen);
-        icon.classList.toggle("fa-xmark", !isOpen);
+        if (icon) {
+          icon.classList.toggle("fa-bars", !open);
+          icon.classList.toggle("fa-xmark", open);
+        }
       }
-    });
-  })();
+
+      btn.addEventListener("click", function () {
+        const isOpen = btn.getAttribute("aria-expanded") === "true";
+        setOpen(!isOpen);
+      });
+
+      // Close when a link is clicked
+      panel.addEventListener("click", function (e) {
+        const link = e.target.closest("a");
+        if (!link) return;
+        setOpen(false);
+      });
+
+      // Close when clicking outside
+      document.addEventListener("click", function (e) {
+        const clickedInside = e.target.closest("#navbar");
+        const isOpen = btn.getAttribute("aria-expanded") === "true";
+        if (!clickedInside && isOpen) setOpen(false);
+      });
+    })();
   </script>
 
 </header>
