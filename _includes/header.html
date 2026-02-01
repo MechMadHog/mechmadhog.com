@@ -56,43 +56,48 @@
     </ul>
   </div>
 
-  <script>
-    (function () {
-      const btn = document.querySelector(".nav-toggle");
-      const panel = document.getElementById("mobileNav");
-      if (!btn || !panel) return;
+ <script>
+  (function () {
+    const btn = document.getElementById("navToggle");
+    const panel = document.getElementById("mobileNav");
 
-      const icon = btn.querySelector("i");
+    // If either element is missing, do nothing.
+    if (!btn || !panel) return;
 
-      function setOpen(open) {
-        btn.setAttribute("aria-expanded", String(open));
-        panel.hidden = !open;
+    const icon = btn.querySelector("i");
 
-        if (icon) {
-          icon.classList.toggle("fa-bars", !open);
-          icon.classList.toggle("fa-xmark", open);
-        }
+    function setOpen(open) {
+      btn.setAttribute("aria-expanded", String(open));
+      panel.hidden = !open;
+
+      // Icon swap is optional (only if the <i> exists)
+      if (icon) {
+        icon.classList.remove(open ? "fa-bars" : "fa-xmark");
+        icon.classList.add(open ? "fa-xmark" : "fa-bars");
       }
+    }
 
-      btn.addEventListener("click", function () {
-        const isOpen = btn.getAttribute("aria-expanded") === "true";
-        setOpen(!isOpen);
-      });
+    // Ensure a known starting state
+    setOpen(false);
 
-      // Close when a link is clicked
-      panel.addEventListener("click", function (e) {
-        const link = e.target.closest("a");
-        if (!link) return;
-        setOpen(false);
-      });
+    btn.addEventListener("click", function (e) {
+      e.preventDefault();
+      const isOpen = btn.getAttribute("aria-expanded") === "true";
+      setOpen(!isOpen);
+    });
 
-      // Close when clicking outside
-      document.addEventListener("click", function (e) {
-        const clickedInside = e.target.closest("#navbar");
-        const isOpen = btn.getAttribute("aria-expanded") === "true";
-        if (!clickedInside && isOpen) setOpen(false);
-      });
-    })();
-  </script>
+    // Close after clicking any link inside the mobile menu
+    panel.addEventListener("click", function (e) {
+      if (e.target.closest("a")) setOpen(false);
+    });
+
+    // Close when resizing up to desktop (prevents odd states)
+    window.addEventListener("resize", function () {
+      // match your CSS breakpoint; change 760 if your breakpoint differs
+      if (window.innerWidth > 760) setOpen(false);
+    });
+  })();
+</script>
+
 
 </header>
