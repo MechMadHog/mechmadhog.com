@@ -6,21 +6,20 @@
 
   <body class="bg-[#0b0b13] text-neutral-100 antialiased">
 
-    <!-- GRID ONLY BEHIND HEADER + MAIN -->
-    <div id="grid-shell" class="relative overflow-hidden">
-      <div class="grid-lines pointer-events-none"></div>
+  <div id="grid-shell" class="relative overflow-hidden min-h-screen flex flex-col">
+    <div class="grid-lines pointer-events-none"></div>
 
-      <div class="relative z-10 flex min-h-screen flex-col">
-        {% include header.html %}
+    <div class="relative z-10 flex flex-col flex-1">
+      {% include header.html %}
 
-        <main class="flex-1">
-          {{ content }}
-        </main>
-      </div>
+      <main class="flex-1">
+        {{ content }}
+      </main>
+
+      {% include footer.html %}
     </div>
-    <div class="relative z-10 flex min-h-screen flex-col">
-    <!-- FOOTER OUTSIDE (NO GRID BEHIND) -->
-    {% include footer.html %}
-    </div>
-  </body>
+  </div>
+
+</body>
+
 </html>
