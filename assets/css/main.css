@@ -139,6 +139,11 @@ a:hover {
   padding: calc(var(--space) * 2) var(--space);
 }
 
+/* Hero should not inherit the generic panel padding */
+.panel--welcome {
+  padding: 0;
+}
+
 /* section titles */
 .section-title {
   font-family: var(--font-head);
