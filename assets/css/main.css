@@ -154,10 +154,9 @@ a:hover {
 
 /* welcome hero */
 #welcome-section.panel--welcome {
-  position: relative;
-  padding-top: calc(var(--space) * 3);
-  padding-bottom: calc(var(--space) * 3);
   min-height: 100vh;
+  padding-top: calc(var(--space) * 1.25);
+  padding-bottom: calc(var(--space) * 1.25);
   display: grid;
   place-items: center;
 }
