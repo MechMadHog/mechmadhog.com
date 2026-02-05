@@ -4,7 +4,7 @@ title: "Mechanical Mad Hog"
 description: "Live log of my training, AI tools, drawing, and rebuilding my systems in public."
 ---
 
-<section id="welcome-section" class="panel panel--welcome">
+<section id="welcome-section" class="panel--welcome">
   <div class="welcome-content">
     <img
       class="head-icon"
