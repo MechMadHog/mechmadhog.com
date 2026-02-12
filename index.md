@@ -62,15 +62,10 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
 
 <section class="panel panel--overview">
   <div class="home-grid">
-    <article class="home-card">
-      <h3>📝 Journal</h3>
-      <p>Day to day notes on training, food experiments, tech, and whatever I am debugging in my life.</p>
-      <a href="{{ '/journal/' | relative_url }}" class="home-card-link">Read entries →</a>
-    </article>
-    <article class="home-card">
-      <h3>🧭 Now</h3>
-      <p>What I am focused on right now. Rehab, learning, projects, and priorities.</p>
-      <a href="{{ '/now/' | relative_url }}" class="home-card-link">Current state →</a>
+      <article class="home-card">
+      <h3>👤 About</h3>
+      <p>Who I am, what MechMadHog is, and why this site exists.</p>
+      <a href="{{ '/about/' | relative_url }}" class="home-card-link">Read profile →</a>
     </article>
     <article class="home-card">
       <h3>🎨 Art</h3>
@@ -78,9 +73,14 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
       <a href="{{ '/art/' | relative_url }}" class="home-card-link">View gallery →</a>
     </article>
     <article class="home-card">
-      <h3>👤 About</h3>
-      <p>Who I am, what MechMadHog is, and why this site exists.</p>
-      <a href="{{ '/about/' | relative_url }}" class="home-card-link">Read profile →</a>
+      <h3>🧭 Now</h3>
+      <p>What I am focused on right now. Rehab, learning, projects, and priorities.</p>
+      <a href="{{ '/now/' | relative_url }}" class="home-card-link">Current state →</a>
+    </article>
+    <article class="home-card">
+      <h3>📝 Journal</h3>
+      <p>Day to day notes on training, food experiments, tech, and whatever I am debugging in my life.</p>
+      <a href="{{ '/journal/' | relative_url }}" class="home-card-link">Read entries →</a>
     </article>
   </div>
 </section>
