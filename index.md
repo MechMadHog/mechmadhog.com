@@ -74,7 +74,7 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
     </article>
     <article class="home-card">
       <h3>🧭 Now</h3>
-      <p>What I am focused on right now. Rehab, learning, projects, and priorities.</p>
+      <p>What I am focused on right now. Rehab (Healing my ankle), learning, projects, and priorities.</p>
       <a href="{{ '/now/' | relative_url }}" class="home-card-link">Current state →</a>
     </article>
     <article class="home-card">
