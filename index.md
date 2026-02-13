@@ -11,7 +11,7 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
       src="{{ '/assets/images/avatar.png' | relative_url }}"
       alt="Mechanical Mad Hog avatar"
     >
-    <h1>Mike / Mech</h1>
+    <h1>Mike</h1>
     <p class="tagline">Building Myself In Public</p>
     <p class="sub">Training • AI Tools • Systems • Art</p>
     <p class="about">
