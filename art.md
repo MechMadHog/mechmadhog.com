@@ -6,89 +6,117 @@ description: "Sketches, branding, experiments, visual stuff I'm making."
 ---
 
 <section class="art-page">
-  <h1 class="section-title">Art / Visual Work</h1>
+  <header class="art-hero">
+    <h1 class="section-title">Art</h1>
+    <p class="art-lede">
+      These are the main buckets of visual work. Each block will become its own gallery.
+      More categories will be added over time.
+    </p>
+  </header>
 
-  <div class="art-grid">
-    <!-- Piece 1: MechMadHog branding -->
-    <article class="art-piece">
-      <div class="art-main">
+  <div class="art-feed-list">
+    <article class="art-entry">
+      <figure class="art-entry-media">
         <img
           src="{{ '/assets/images/logo.png' | relative_url }}"
-          alt="Mechanical Mad Hog logo mark"
+          alt="Art category placeholder image"
           class="art-main-img"
+          loading="lazy"
         >
-      </div>
-      <div class="art-meta">
-        <h2 class="art-title">Mechanical Mad Hog Branding</h2>
-        <p class="art-kind">Branding · Logo · Identity</p>
+      </figure>
+      <div class="art-entry-body">
+        <header class="art-entry-header">
+          <h2 class="art-title">Logos</h2>
+          <span class="art-status draft">Gallery coming soon</span>
+        </header>
+        <p class="art-kind">Branding · Marks · Identity</p>
         <p class="art-description">
-          Logo work / icon tests for the “Mechanical Mad Hog” identity. I want it to feel a bit
-          industrial, a bit bootleg / DIY. This is the mark you'll see around the site.
+          Logo exploration, identity systems, badge layouts, and variations built for web and print.
         </p>
-        <p class="muted" style="font-size:0.8rem;">
-          Direction: cyberpunk + scrapyard + DIY badge you’d stencil on gear.
-        </p>
-        <!-- Optional gallery: add more views here when you have them -->
-        <!--
-        <div class="art-thumbs">
-          <button class="art-thumb" type="button"
-                  data-full="{{ '/assets/images/logo-alt1.png' | relative_url }}"
-                  data-alt="Mechanical Mad Hog logo alt layout">
-            <img src="{{ '/assets/images/logo-alt1-thumb.png' | relative_url }}"
-                 alt="Mechanical Mad Hog logo alt layout (thumb)">
-          </button>
-          <button class="art-thumb" type="button"
-                  data-full="{{ '/assets/images/logo-alt2.png' | relative_url }}"
-                  data-alt="Mechanical Mad Hog logo badge">
-            <img src="{{ '/assets/images/logo-alt2-thumb.png' | relative_url }}"
-                 alt="Mechanical Mad Hog logo badge (thumb)">
-          </button>
-        </div>
-        -->
         <ul class="art-tags">
           <li>Branding</li>
           <li>Logo</li>
-          <li>Cyberpunk</li>
-        </ul>
-      </div>
-    </article>
-    <!-- Piece 2: “Other work” bucket (placeholder for now) -->
-    <article class="art-piece">
-      <div class="art-main">
-        <img
-          src="{{ '/assets/images/art/placeholder-sketch.jpg' | relative_url }}"
-          alt="Placeholder sketch area for upcoming work"
-          class="art-main-img"
-        >
-      </div>
-      <div class="art-meta">
-        <h2 class="art-title">Other Work</h2>
-        <p class="art-kind">Sketches · Studies · Experiments</p>
-        <p class="art-description">
-          I’ll start dropping sketches, studies, UI layouts, paint tests, typography ideas,
-          and random bits I like here. This is allowed to be rough.
-        </p>
-        <p class="muted" style="font-size:0.8rem;">
-          I am not pretending this stuff is finished.
-        </p>
-        <!-- Add thumbs later if you want small detail shots -->
-        <!--
-        <div class="art-thumbs">
-          <button class="art-thumb" type="button"
-                  data-full="{{ '/assets/images/art/sketch-detail-1.jpg' | relative_url }}"
-                  data-alt="Sketch detail">
-            <img src="{{ '/assets/images/art/sketch-detail-1-thumb.jpg' | relative_url }}"
-                 alt="Sketch detail (thumb)">
-          </button>
-        </div>
-        -->
-        <ul class="art-tags">
-          <li>Sketches</li>
-          <li>Studies</li>
-          <li>Experiments</li>
+          <li>Identity</li>
         </ul>
       </div>
     </article>
 
+    <article class="art-entry">
+      <figure class="art-entry-media">
+        <img
+          src="{{ '/assets/images/logo.png' | relative_url }}"
+          alt="Art category placeholder image"
+          class="art-main-img"
+          loading="lazy"
+        >
+      </figure>
+      <div class="art-entry-body">
+        <header class="art-entry-header">
+          <h2 class="art-title">Illustrations</h2>
+          <span class="art-status draft">Gallery coming soon</span>
+        </header>
+        <p class="art-kind">Digital · Vector · Mixed</p>
+        <p class="art-description">
+          Finished pieces and ongoing studies. Characters, icons, poster ideas, and experiments.
+        </p>
+        <ul class="art-tags">
+          <li>Illustration</li>
+          <li>Digital</li>
+          <li>Studies</li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="art-entry">
+      <figure class="art-entry-media">
+        <img
+          src="{{ '/assets/images/logo.png' | relative_url }}"
+          alt="Art category placeholder image"
+          class="art-main-img"
+          loading="lazy"
+        >
+      </figure>
+      <div class="art-entry-body">
+        <header class="art-entry-header">
+          <h2 class="art-title">Sketches ... Portraits</h2>
+          <span class="art-status draft">Gallery coming soon</span>
+        </header>
+        <p class="art-kind">Pencil · Pen · Face studies</p>
+        <p class="art-description">
+          Portrait reps, head studies, anatomy practice, and sketchbook pages worth keeping.
+        </p>
+        <ul class="art-tags">
+          <li>Sketches</li>
+          <li>Portraits</li>
+          <li>Practice</li>
+        </ul>
+      </div>
+    </article>
+
+    <article class="art-entry">
+      <figure class="art-entry-media">
+        <img
+          src="{{ '/assets/images/logo.png' | relative_url }}"
+          alt="Art category placeholder image"
+          class="art-main-img"
+          loading="lazy"
+        >
+      </figure>
+      <div class="art-entry-body">
+        <header class="art-entry-header">
+          <h2 class="art-title">Paintings</h2>
+          <span class="art-status draft">Gallery coming soon</span>
+        </header>
+        <p class="art-kind">Acrylic · Oil · Traditional</p>
+        <p class="art-description">
+          Finished paintings and works in progress. Texture, color, and composition studies.
+        </p>
+        <ul class="art-tags">
+          <li>Paint</li>
+          <li>Traditional</li>
+          <li>WIP</li>
+        </ul>
+      </div>
+    </article>
   </div>
 </section>
