@@ -16,10 +16,10 @@ description: "Get in touch."
       </p>
       <ul>
         <li>
-          <strong>mechmadhog.com</strong> ... this one. Personal. Training, art, systems, experiments, journal.
+          <strong>mechmadhog.com</strong> ... the lab. Training logs. Art. Systems. Experiments. Occasional controlled chaos. If something breaks, it was intentional.
         </li>
         <li>
-          <strong>michaelmacdonagh.net</strong> ... the more professional side. CV, skills, cleaner presentation.
+          <strong>michaelmacdonagh.net</strong> ... the suit. CV. Skills. Clean lines. Polite typography. This is the version you show employers so they don’t ask uncomfortable questions.
         </li>
       </ul>
       <p class="muted small-note">
