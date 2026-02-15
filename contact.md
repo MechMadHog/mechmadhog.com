@@ -12,14 +12,16 @@ description: "Get in touch."
     <article class="contact-card contact-card--intro">
       <h2>Before You Send Anything</h2>
       <p>
-        I run two sites:
+        Just know that I run two sites:
       </p>
       <ul>
         <li>
-          <strong>mechmadhog.com</strong> ... the lab. Training logs. Art. Systems. Experiments. Occasional controlled chaos. If something breaks, it was intentional.
+          <strong title="you are already here">mechmadhog.com</strong> ... the lab. Training logs. Art. Systems. Experiments. Occasional controlled chaos. If something breaks, it was intentional.
         </li>
         <li>
-          <strong>michaelmacdonagh.net</strong> ... the suit. CV. Skills. Clean lines. Polite typography. This is the version you show employers so they don’t ask uncomfortable questions.
+          <a href="https://michaelmacdonagh.net" target="_blank" rel="noopener noreferrer">
+            <strong>michaelmacdonagh.net</strong>
+          </a> ... the suit. CV. Skills. Clean lines. Polite typography. This is the version you show employers so they don’t ask uncomfortable questions.
         </li>
       </ul>
       <p class="muted small-note">
