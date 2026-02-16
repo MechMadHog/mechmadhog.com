@@ -97,7 +97,7 @@ description: "Get in touch."
             class="consent-checkbox"
           >
           <span>
-            I'm happy for you to contact me about this message.
+            Tick this if you want a reply to this message.
           </span>
         </label>
         <div class="form-actions">
