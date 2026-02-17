@@ -28,8 +28,6 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
     </p>
   </div>
 </section>
-
-
 <section id="name-anagram" class="panel panel--anagram">
   <div class="anagram-layout">
     <div class="anagram-copy">
