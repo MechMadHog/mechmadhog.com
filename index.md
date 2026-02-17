@@ -12,11 +12,11 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
       alt="Mechanical Mad Hog avatar"
     >
     <h1>Mike</h1>
-    <p class="tagline">Building Myself In Public</p>
+    <p class="tagline">Building Myself In Public… Apparently</p>
     <p class="sub">Training • AI Tools • Systems • Art</p>
     <p class="about">
-      This site is my informal site... training, experiments, AI tools, design work, and general problem solving.
-      Nothing here is ever finished. I just keep shipping small updates to the public.
+      This is the informal side. Training logs, experiments, AI tools, design work, and whatever problem annoyed me enough to fix.
+      Nothing here is finished. Things just get slightly less broken over time.
     </p>
     <div class="hero-cta-row">
       <a class="cta" href="{{ '/journal/' | relative_url }}">Open the Journal</a>
@@ -24,10 +24,11 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
     </div>
     <p class="now-line">
       <span class="now-label">Now:</span>
-      refining my training, rebuilding my systems, and teaching AI to be a better sidekick.
+      refining training, rebuilding systems, and teaching AI how to be useful instead of impressive.
     </p>
   </div>
 </section>
+
 
 <section id="name-anagram" class="panel panel--anagram">
   <div class="anagram-layout">
