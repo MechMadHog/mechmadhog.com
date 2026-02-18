@@ -19,8 +19,8 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
       Nothing here is finished. Things just get slightly less broken over time.
     </p>
     <div class="hero-cta-row">
-      <a class="cta" href="{{ '/journal/' | relative_url }}">Open the Journal</a>
-      <a class="cta cta--ghost" href="{{ '/projects/' | relative_url }}">View Projects</a>
+      <a class="cta" href="{{ '/journal/' | relative_url }}">Read through my Blog</a>
+      <a class="cta cta--ghost" href="{{ '/projects/' | relative_url }}">Check out my Projects</a>
     </div>
     <p class="now-line">
       <span class="now-label">Now:</span>
