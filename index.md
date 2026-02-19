@@ -64,22 +64,22 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
       <article class="home-card">
       <h3>👤 About</h3>
       <p>Who I am, what MechMadHog is, and why this site exists.</p>
-      <a href="{{ '/about/' | relative_url }}" class="home-card-link">Read profile →</a>
+      <a href="{{ '/about/' | relative_url }}" class="home-card-link">Read my profile →</a>
     </article>
     <article class="home-card">
       <h3>🎨 Art</h3>
       <p>Sketches, layouts, UI experiments, and visual ideas feeding the MechMadHog system.</p>
-      <a href="{{ '/art/' | relative_url }}" class="home-card-link">View gallery →</a>
+      <a href="{{ '/art/' | relative_url }}" class="home-card-link">Look through the gallery →</a>
     </article>
     <article class="home-card">
       <h3>🧭 Now</h3>
-      <p>What I am focused on right now. Rehab (Healing my ankle), learning, projects, and priorities.</p>
-      <a href="{{ '/now/' | relative_url }}" class="home-card-link">Current state →</a>
+      <p>What I am focused on right now. Rehab (Healing my ankle), learning, projects, and other priorities moving forward.</p>
+      <a href="{{ '/now/' | relative_url }}" class="home-card-link">My current state of affairs →</a>
     </article>
     <article class="home-card">
       <h3>📝 Journal</h3>
       <p>Day to day notes on training, food experiments, tech, and whatever I am debugging in my life.</p>
-      <a href="{{ '/journal/' | relative_url }}" class="home-card-link">Read entries →</a>
+      <a href="{{ '/journal/' | relative_url }}" class="home-card-link">Read some of my entries →</a>
     </article>
   </div>
 </section>
