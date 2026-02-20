@@ -21,23 +21,23 @@ description: "Who I am, what I'm doing, and what this site actually is."
           >
         </div>
         <p class="about-photo-note muted">
-          I am not pretending this is my final form. This is the version in progress.
+          I’m not presenting this as a finished product. It’s a live build ... version control for my life.
         </p>
       </div>
       <div class="about-main-text">
-        <h2>Who I Am</h2>
+       <h2>Who I Am</h2>
         <p>
-          I'm <strong>Mike MacDonagh</strong>, based in Mullingar. Online I go by
+          I'm <strong>Mike MacDonagh</strong> ... Mullingar based. Online I go by
           <strong>Mechanical Mad Hog</strong> or <strong>MechMadHog</strong>.
         </p>
         <p>
-          I work with tech, fix broken things, design interfaces, and build systems so life
-          is less chaotic. This site is where I track the rebuild of my body, my routines,
-          and my tools.
+          I work in tech. I fix broken systems, build better ones, and design interfaces that don’t fight back.
+          Most problems are just messy inputs and unclear structure. I prefer structure.
         </p>
         <p>
-          Right now my focus is simple: get lighter, get stronger, clear the clutter, and
-          build a setup that future me can run without burning out.
+          This site documents the rebuild ... body, habits, tools, mindset. Less noise. More leverage.
+          The current objective is simple: drop the excess, regain strength, clear the clutter,
+          and build an environment future-me can operate without friction.
         </p>
       </div>
     </article>
@@ -53,13 +53,12 @@ description: "Who I am, what I'm doing, and what this site actually is."
           <li><strong>Tinkerer</strong> ... fixing setups that are almost great but not quite there yet.</li>
         </ul>
       </article>
-
       <article class="about-card">
         <h2>Right Now</h2>
         <ul class="about-list">
           <li>Dropping weight and rebuilding shoulders, back, neck.</li>
           <li>Dialing in food that works for my body without constant pain.</li>
-          <li>Finishing FreeCodeCamp tracks and building real projects.</li>
+          <li>Finishing FreeCodeCamp &amp; ZTM tracks and building real projects.</li>
           <li>Building <strong>Walter</strong>, my own AI assistant / workflow brain.</li>
           <li>Simplifying gear, apps and routines so there are fewer moving parts.</li>
         </ul>
