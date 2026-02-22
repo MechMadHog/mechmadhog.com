@@ -7,93 +7,102 @@ description: "What I'm focused on right now."
 
 <section class="panel panel--projects">
   <h1 class="section-title">Now</h1>
-
   <div class="projects-grid">
     <article class="card">
       <h3>🧩 Quest 1... The Machine</h3>
       <p>
-        I am building the machine I live inside. New custom PC, tuned for deep work, creative output, and shipping code.
-        This is where I revisit the skill sets from my degree... but with better tools, better taste, and zero permission needed.
+        I’m building the environment I operate from. The box, the desk, the workflow, the stack.
+        If I’m going to think for a living, the machine has to be deliberate.
+      </p>
+      <p>
+        This is a rebuild of the foundations... better hardware, cleaner Linux setup,
+        tighter workflows. No bloat. No chaos. Just leverage.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Custom PC setup as a long-term workstation</li>
-        <li>Linux migration and workflow hardening</li>
-        <li>Walter as the place I think in... vault structure, friction removal, automation</li>
-        <li>Web dev environment that supports shipping, not tinkering forever</li>
+        <li>Custom PC as long-term command centre</li>
+        <li>Linux migration... friction removal, fewer distractions</li>
+        <li>Walter as second brain... structured vault, automation later</li>
+        <li>Dev environment designed for shipping, not endless tweaking</li>
       </ul>
     </article>
     <article class="card">
       <h3>⚙️ Quest 2... Year of Code</h3>
       <p>
-        This is my Kaizen run... the daily output loop. FreeCodeCamp progress, building sites, building the brand,
-        and meeting real frontend requirements instead of collecting tutorials.
+        This is the consistency play. Daily commits. Real builds.
+        No tutorial hoarding. Output over consumption.
+      </p>
+      <p>
+        FreeCodeCamp, React, fundamentals tightened properly.
+        Formal brand and informal brand running in parallel.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Consistent GitHub commits as the baseline</li>
-        <li>FreeCodeCamp journey... projects that actually stand on their own</li>
-        <li>Formal vs informal brand... michaelmacdonagh.net and mechmadhog.com</li>
-        <li>Frontend readiness... React, JS fundamentals, UI polish, deployment</li>
+        <li>GitHub streak as non-negotiable baseline</li>
+        <li>Projects that stand on their own</li>
+        <li>michaelmacdonagh.net vs mechmadhog.com... dual identity</li>
+        <li>Frontend readiness... React, JS depth, UI polish, deployment</li>
       </ul>
       <p class="muted" style="font-size:0.8rem; margin-top:1rem;">
-        Year of Code completes: 3 August (age 36... locked in)
+        Year of Code completes: 3 August (36... locked)
       </p>
     </article>
     <article class="card">
       <h3>🛠 Quest 3... Body & Base</h3>
       <p>
-        Recovering from a broken ankle while rebuilding the supply lines... diet, routines, kitchen, pantry.
-        The goal is simple... get back to walking, then build past my old baseline.
+        Rebuilding from a broken ankle. Slower than I’d like. Still happening.
+      </p>
+      <p>
+        The aim is simple... walk properly again, then surpass the old baseline.
+        Reduce load. Increase strength. No ego lifts. No stupid setbacks.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Ankle recovery... patient work, no stupid setbacks</li>
-        <li>Food system... Walter vault for meals, tolerances, and repeatable recipes</li>
-        <li>Kitchen and pantry planning... making good choices easier</li>
-        <li>Conqueror challenges as structured “super ego training”</li>
+        <li>Ankle rehab... patient, structured progression</li>
+        <li>Food system... repeatable meals logged in Walter</li>
+        <li>Kitchen setup... make good choices the default</li>
+        <li>Conqueror challenges as accountability framework</li>
       </ul>
     </article>
     <article class="card">
       <h3>🎨 Quest 4... Output</h3>
       <p>
-        The rule is production. Keep shipping... sites, React apps, small games, and creative work that loops back into the system.
-        This is where the personality stays alive, not just the productivity.
+        Rule: produce. Sites, small apps, experiments, art.
+        The personality stays alive through output, not theory.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Maintaining the sites... keeping them clean and real</li>
-        <li>More React apps... practical, portfolio-friendly builds</li>
-        <li>JavaScript games... draw assets, build mechanics, ship playable versions</li>
-        <li>Art and design... tablet drawing, UI experiments, 3D exploration</li>
+        <li>Maintain and refine both sites</li>
+        <li>React apps... practical, portfolio-ready</li>
+        <li>JavaScript games... mechanics first, polish second</li>
+        <li>Tablet drawing, UI experiments, light 3D exploration</li>
       </ul>
     </article>
     <article class="card">
-      <h3>🧠 Quest 5... The Self Rewrite</h3>
+      <h3>🧠 Quest 5... Internal Refactor</h3>
       <p>
-        Psychological and philosophical work... not in a soft way.
-        More like cleaning the internal filesystem... what stays, what goes, and what I actually stand for.
+        Less “self help”, more system audit.
+        What stays. What goes. What actually matters.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Stoicism as a discipline tool... less noise, more control</li>
-        <li>Exploring religion... not for aesthetics, for meaning and structure</li>
-        <li>Discovering the brand... what I am, what I am not</li>
-        <li>Marie Kondo my life... downsizing hard, simplifying the environment</li>
+        <li>Stoicism as discipline tool</li>
+        <li>Exploring religion for structure, not aesthetics</li>
+        <li>Clarifying the brand... what I am, what I’m not</li>
+        <li>Hard downsizing... reduce physical and cognitive clutter</li>
       </ul>
     </article>
     <article class="card">
-      <h3>🚀 Quest 6... The 37-Year Target</h3>
+      <h3>🚀 Quest 6... 37-Year Target</h3>
       <p>
-        The horizon. What I want done by 37... not “goals”, targets.
-        The year of code closes in August, and the next phase is career + independence.
+        Not vague goals. Targets.
+        By 37 the direction should be undeniable.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Complete the Year of Code on 3 August</li>
-        <li>Secure the new career path... interviews, positioning, proof of work</li>
-        <li>Back to walking properly... then pushing distance again</li>
-        <li>Driving closer... more freedom, less dependency</li>
-        <li>Buy the flight deck... build the cockpit setup</li>
+        <li>Complete Year of Code (3 August)</li>
+        <li>Secure next career step... proof over promises</li>
+        <li>Walk properly... then extend distance again</li>
+        <li>Drive independently... reduce reliance</li>
+        <li>Build the cockpit... full creative / dev flight deck</li>
       </ul>
       <p class="muted" style="font-size:0.8rem; margin-top:1rem;">
         Last updated: February 2026
       </p>
     </article>
-
   </div>
 </section>
