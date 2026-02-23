@@ -96,9 +96,8 @@ description: "What I'm focused on right now."
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
         <li>Complete Year of Code (3 August)</li>
         <li>Secure next career step... proof over promises</li>
-        <li>Walk properly... then extend distance again</li>
+        <li>Walk properly... then extend distance again - through my <b>Conqueror Challenges</b></li>
         <li>Drive independently... reduce reliance</li>
-        <li>Build the cockpit... full creative / dev flight deck</li>
       </ul>
       <p class="muted" style="font-size:0.8rem; margin-top:1rem;">
         Last updated: February 2026
