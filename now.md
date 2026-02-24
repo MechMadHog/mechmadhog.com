@@ -7,11 +7,12 @@ description: "What I'm focused on right now."
 
 <section class="panel panel--projects">
   <h1 class="section-title">Now</h1>
+
   <div class="projects-grid">
     <article class="card">
       <h3>🧩 Quest 1... The Machine</h3>
       <p>
-        I’m building the environment I operate from. The box, the desk, the workflow, the stack.
+        I’m building the environment I operate from... the box, the desk, the workflow, the stack.
         If I’m going to think for a living, the machine has to be deliberate.
       </p>
       <p>
@@ -28,7 +29,7 @@ description: "What I'm focused on right now."
     <article class="card">
       <h3>⚙️ Quest 2... Year of Code</h3>
       <p>
-        This is the consistency play. Daily commits. Real builds.
+        This is the consistency play... daily commits. Real builds.
         No tutorial hoarding. Output over consumption.
       </p>
       <p>
@@ -75,16 +76,20 @@ description: "What I'm focused on right now."
       </ul>
     </article>
     <article class="card">
-      <h3>🧠 Quest 5... Internal Refactor</h3>
+      <h3>🧠 Quest 5... Social Dynamics</h3>
       <p>
-        Less “self help”, more system audit.
-        What stays. What goes. What actually matters.
+        Discovery through social dynamics... not “be nicer”, not “self help”.
+        More like recalibrating my internal model of the world.
+      </p>
+      <p>
+        TRT changed how I think and what I notice. That means I need to relearn who I am in motion...
+        standards, boundaries, confidence, attraction, status, all of it. No coping. No pretending.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Stoicism as discipline tool</li>
-        <li>Exploring religion for structure, not aesthetics</li>
-        <li>Clarifying the brand... what I am, what I’m not</li>
-        <li>Hard downsizing... reduce physical and cognitive clutter</li>
+        <li>Relearning my baseline... behaviour, boundaries, presence</li>
+        <li>Exposure reps... small real-world tests, not theory</li>
+        <li>Social calibration... what works, what doesn’t, what’s actually me</li>
+        <li>Identity rewrite... values, standards, and the direction I’m aiming at</li>
       </ul>
     </article>
     <article class="card">
@@ -94,9 +99,9 @@ description: "What I'm focused on right now."
         By 37 the direction should be undeniable.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Complete Year of Code (3 August)</li>
-        <li>Secure next career step... proof over promises</li>
-        <li>Walk properly... then extend distance again - through my <b>Conqueror Challenges</b></li>
+        <li>Have completed my Year of Code (3rd of August)</li>
+        <li>Secure my next career step... proof over promises</li>
+        <li>Walk properly... then extend distance again... through my <b>Conqueror Challenges</b></li>
         <li>Drive independently... reduce reliance</li>
       </ul>
       <p class="muted" style="font-size:0.8rem; margin-top:1rem;">
