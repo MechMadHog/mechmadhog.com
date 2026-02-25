@@ -21,9 +21,9 @@ description: "What I'm focused on right now."
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
         <li>Custom PC as long-term command centre</li>
-        <li>Linux migration... friction removal, fewer distractions</li>
+        <li>Full Linux migration... friction removal, fewer distractions</li>
         <li>Walter as second brain... structured vault, automation later</li>
-        <li>Dev environment designed for shipping, not endless tweaking</li>
+        <li>A dev environment designed for shipping</li>
       </ul>
     </article>
     <article class="card">
