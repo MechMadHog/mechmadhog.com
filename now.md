@@ -10,7 +10,7 @@ description: "What I'm focused on right now."
 
   <div class="projects-grid">
     <article class="card">
-      <h3>🧩 Quest 1... The Machine</h3>
+      <h3>🧩 Quest 1 - The Machine</h3>
       <p>
         I’m building the environment I operate from... the box, the desk, the workflow, the stack.
         If I’m going to think for a living, the machine has to be deliberate.
@@ -27,7 +27,7 @@ description: "What I'm focused on right now."
       </ul>
     </article>
     <article class="card">
-      <h3>⚙️ Quest 2... Year of Code</h3>
+      <h3>⚙️ Quest 2 - Year of Code</h3>
       <p>
         This is the consistency play... daily commits. Real builds.
         No tutorial hoarding. Output over consumption.
@@ -47,13 +47,16 @@ description: "What I'm focused on right now."
       </p>
     </article>
     <article class="card">
-      <h3>🛠 Quest 3... Body & Base</h3>
+      <h3>🛠 Quest 3 - Body & Base</h3>
       <p>
         Rebuilding from a broken ankle. Slower than I’d like. Still happening.
       </p>
       <p>
         The aim is simple... walk properly again, then surpass the old baseline.
         Reduce load. Increase strength. No ego lifts. No stupid setbacks.
+      </p>
+      <p>
+        Right now I’m hitting <b>2km a day</b>... sometimes more. That is a vast improvement.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
         <li>Ankle rehab... patient, structured progression</li>
@@ -63,7 +66,7 @@ description: "What I'm focused on right now."
       </ul>
     </article>
     <article class="card">
-      <h3>🎨 Quest 4... Output</h3>
+      <h3>🎨 Quest 4 - Output</h3>
       <p>
         Rule: produce. Sites, small apps, experiments, art.
         The personality stays alive through output, not theory.
@@ -76,27 +79,35 @@ description: "What I'm focused on right now."
       </ul>
     </article>
     <article class="card">
-      <h3>🧠 Quest 5... Social Dynamics</h3>
+      <h3>🧠 Quest 5 - Social Dynamics</h3>
       <p>
-        Discovery through social dynamics... not “be nicer”, not “self help”.
-        More like recalibrating my internal model of the world.
+        Back into social dynamics... learning the rules people pretend don’t exist.
+        Not to manipulate anyone... to communicate cleanly and protect my bandwidth.
       </p>
       <p>
-        TRT changed how I think and what I notice. That means I need to relearn who I am in motion...
-        standards, boundaries, confidence, attraction, status, all of it. No coping. No pretending.
+        TRT changed how I think and what I notice. So I’m relearning who I am in motion...
+        standards, boundaries, confidence, attraction, status, all of it.
+      </p>
+      <p>
+        I’m also learning to use <b>white hat subterfuge</b>... social torque, not social violence.
+        Better tools. Better outcomes. Less unnecessary friction.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
         <li>Relearning my baseline... behaviour, boundaries, presence</li>
         <li>Exposure reps... small real-world tests, not theory</li>
-        <li>Social calibration... what works, what doesn’t, what’s actually me</li>
-        <li>Identity rewrite... values, standards, and the direction I’m aiming at</li>
+        <li>Calibration... what works, what doesn’t, what’s actually me</li>
+        <li>White hat subterfuge... defuse, redirect, reframe, disengage</li>
       </ul>
     </article>
     <article class="card">
-      <h3>🚀 Quest 6... 37-Year Target</h3>
+      <h3>🚀 Quest 6 - 37-Year Target</h3>
       <p>
         Not vague goals. Targets.
         By 37 the direction should be undeniable.
+      </p>
+      <p>
+        The method is boring on purpose... a little bit every day, for everything.
+        Kaizen applied to my whole life.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
         <li>Have completed my Year of Code (3rd of August)</li>
@@ -105,7 +116,7 @@ description: "What I'm focused on right now."
         <li>Drive independently... reduce reliance</li>
       </ul>
       <p class="muted" style="font-size:0.8rem; margin-top:1rem;">
-        Last updated: February 2026
+        Last updated: March 2026
       </p>
     </article>
   </div>
