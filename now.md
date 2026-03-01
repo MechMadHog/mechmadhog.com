@@ -10,114 +10,118 @@ description: "What I'm focused on right now."
 
   <div class="projects-grid">
     <article class="card">
-      <h3>🧩 Quest 1 - The Machine</h3>
+      <h3>🧩 Quest 1: The Machine</h3>
       <p>
         I’m building the environment I operate from... the box, the desk, the workflow, the stack.
-        If I’m going to think for a living, the machine has to be deliberate.
+        If I’m going to think for a living, the machine has to make sense.
       </p>
       <p>
-        This is a rebuild of the foundations... better hardware, cleaner Linux setup,
-        tighter workflows. No bloat. No chaos. Just leverage.
+        Rebuilding the foundations... better hardware, cleaner Linux setup,
+        tighter workflows. Less friction. Fewer excuses.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
         <li>Custom PC as long-term command centre</li>
-        <li>Full Linux migration... friction removal, fewer distractions</li>
+        <li>Full Linux migration... remove noise</li>
         <li>Walter as second brain... structured vault, automation later</li>
         <li>A dev environment designed for shipping</li>
       </ul>
     </article>
     <article class="card">
-      <h3>⚙️ Quest 2 - Year of Code</h3>
+      <h3>⚙️ Quest 2: Year of Code</h3>
       <p>
-        This is the consistency play... daily commits. Real builds.
-        No tutorial hoarding. Output over consumption.
+        The consistency play... daily commits. Real builds.
+        No tutorial hoarding. No collecting certificates for decoration.
       </p>
       <p>
         FreeCodeCamp, React, fundamentals tightened properly.
-        Formal brand and informal brand running in parallel.
+        Formal and informal brands running in parallel.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>GitHub streak as non-negotiable baseline</li>
+        <li>GitHub streak as baseline</li>
         <li>Projects that stand on their own</li>
         <li>michaelmacdonagh.net vs mechmadhog.com... dual identity</li>
-        <li>Frontend readiness... React, JS depth, UI polish, deployment</li>
+        <li>Frontend readiness... depth over flash</li>
       </ul>
       <p class="muted" style="font-size:0.8rem; margin-top:1rem;">
         Year of Code completes: 3 August (36... locked)
       </p>
     </article>
     <article class="card">
-      <h3>🛠 Quest 3 - Body & Base</h3>
+      <h3>🛠 Quest 3: Body & Base</h3>
       <p>
-        Rebuilding from a broken ankle. Slower than I’d like. Still happening.
+        Rebuilding from a broken ankle. Slower than I’d like. Still moving.
       </p>
       <p>
-        The aim is simple... walk properly again, then surpass the old baseline.
-        Reduce load. Increase strength. No ego lifts. No stupid setbacks.
+        Currently hitting <b>2km a day</b>... sometimes more.
+        That’s a significant jump from where I was.
       </p>
       <p>
-        Right now I’m hitting <b>2km a day</b>... sometimes more. That is a vast improvement.
+        The aim is simple... walk properly, then exceed the old baseline.
+        No ego lifts. No dramatic comebacks. Just steady progression.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Ankle rehab... patient, structured progression</li>
+        <li>Ankle rehab... structured progression</li>
         <li>Food system... repeatable meals logged in Walter</li>
-        <li>Kitchen setup... make good choices the default</li>
-        <li>Conqueror challenges as accountability framework</li>
+        <li>Kitchen setup... make good choices easier</li>
+        <li>Conqueror challenges... measurable progress</li>
       </ul>
     </article>
     <article class="card">
-      <h3>🎨 Quest 4 - Output</h3>
+      <h3>🎨 Quest 4: Output</h3>
       <p>
-        Rule: produce. Sites, small apps, experiments, art.
-        The personality stays alive through output, not theory.
+        Produce. Maintain the sites. Build things. Ship them.
+        Personality through output, not declarations.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
         <li>Maintain and refine both sites</li>
-        <li>React apps... practical, portfolio-ready</li>
-        <li>JavaScript games... mechanics first, polish second</li>
-        <li>Tablet drawing, UI experiments, light 3D exploration</li>
+        <li>React apps... practical builds</li>
+        <li>JavaScript games... mechanics first</li>
+        <li>Tablet drawing and UI experiments</li>
       </ul>
     </article>
     <article class="card">
-      <h3>🧠 Quest 5 - Social Dynamics</h3>
+      <h3>🧠 Quest 5: Social Dynamics</h3>
       <p>
-        Back into social dynamics... learning the rules people pretend don’t exist.
-        Not to manipulate anyone... to communicate cleanly and protect my bandwidth.
+        Back into social dynamics... not to become slick,
+        but to stop using a hammer on screws.
       </p>
       <p>
-        TRT changed how I think and what I notice. So I’m relearning who I am in motion...
-        standards, boundaries, confidence, attraction, status, all of it.
+        TRT shifted perception. That means recalibrating how I move...
+        boundaries, tone, confidence, signal.
       </p>
       <p>
-        I’m also learning to use <b>white hat subterfuge</b>... social torque, not social violence.
-        Better tools. Better outcomes. Less unnecessary friction.
+        Learning to use what I’d call <b>white hat subterfuge</b>...
+        defuse, redirect, reframe. Torque instead of impact.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Relearning my baseline... behaviour, boundaries, presence</li>
-        <li>Exposure reps... small real-world tests, not theory</li>
-        <li>Calibration... what works, what doesn’t, what’s actually me</li>
-        <li>White hat subterfuge... defuse, redirect, reframe, disengage</li>
+        <li>Daily exposure reps... small, controlled</li>
+        <li>Calibrating signal instead of escalating</li>
+        <li>Better tooling for ambiguous environments</li>
+        <li>Applying kaizen... a little improvement everywhere</li>
       </ul>
     </article>
     <article class="card">
-      <h3>🚀 Quest 6 - 37-Year Target</h3>
+      <h3>🚀 Quest 6: 37 Year Target</h3>
       <p>
-        Not vague goals. Targets.
-        By 37 the direction should be undeniable.
+        Not vague goals. Just checkpoints.
       </p>
       <p>
-        The method is boring on purpose... a little bit every day, for everything.
-        Kaizen applied to my whole life.
+        By 37 I should at least look like I know what I’m doing.
+      </p>
+      <p>
+        The method is deliberately boring... small improvements,
+        applied daily, across everything.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Have completed my Year of Code (3rd of August)</li>
-        <li>Secure my next career step... proof over promises</li>
-        <li>Walk properly... then extend distance again... through my <b>Conqueror Challenges</b></li>
+        <li>Complete Year of Code (3 August)</li>
+        <li>Secure next career step... evidence over promises</li>
+        <li>Extend walking distance... through Conqueror Challenges</li>
         <li>Drive independently... reduce reliance</li>
       </ul>
       <p class="muted" style="font-size:0.8rem; margin-top:1rem;">
         Last updated: March 2026
       </p>
     </article>
+
   </div>
 </section>
