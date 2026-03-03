@@ -19,13 +19,13 @@ description: "Who I am, what I'm doing, and what this site actually is."
           >
         </div>
         <p class="about-photo-note muted">
-          Not a final form. Ongoing build ... version control for a person.
+          Not a final form. Ongoing build... version control for a person.
         </p>
       </div>
       <div class="about-main-text">
         <h2>Who I Am</h2>
         <p>
-          I’m <strong>Mike MacDonagh</strong> ... based in Mullingar.
+          I’m <strong>Mike MacDonagh</strong>... based in Mullingar.
           Online I go by <strong>Mechanical Mad Hog</strong> or <strong>MechMadHog</strong>.
         </p>
         <p>
@@ -35,7 +35,7 @@ description: "Who I am, what I'm doing, and what this site actually is."
           I prefer structure.
         </p>
         <p>
-          This site tracks the rebuild ... body, habits, tools, thinking.
+          This site tracks the rebuild... body, habits, tools, thinking.
           Less noise. Fewer moving parts. More leverage.
         </p>
       </div>
@@ -44,11 +44,11 @@ description: "Who I am, what I'm doing, and what this site actually is."
       <article class="about-card">
         <h2>Roles</h2>
         <ul class="about-list">
-          <li><strong>Builder</strong> ... systems, workflows, small tools that compound.</li>
-          <li><strong>Artist</strong> ... drawing, layout, logos, visual experiments.</li>
-          <li><strong>Lifter (in progress)</strong> ... sandbags, long walks, getting joints to cooperate.</li>
-          <li><strong>World brain</strong> ... cyberpunk D&amp;D arcs, playlists, long-form ideas.</li>
-          <li><strong>Tinkerer</strong> ... refining things that are almost right.</li>
+          <li><strong>Builder</strong>... systems, workflows, small tools that compound.</li>
+          <li><strong>Artist</strong>... drawing, layout, logos, visual experiments.</li>
+          <li><strong>Lifter (in progress)</strong>... sandbags, long walks, getting joints to cooperate.</li>
+          <li><strong>World brain</strong>... cyberpunk D&amp;D arcs, playlists, long-form ideas.</li>
+          <li><strong>Tinkerer</strong>... refining things that are almost right.</li>
         </ul>
       </article>
       <article class="about-card">
@@ -56,8 +56,8 @@ description: "Who I am, what I'm doing, and what this site actually is."
         <ul class="about-list">
           <li>Dropping weight and rebuilding shoulders, back, neck.</li>
           <li>Dialling in food that works without constant friction.</li>
-          <li>Finishing FreeCodeCamp &amp; ZTM properly ... not just starting them.</li>
-          <li>Building <strong>Walter</strong> ... my AI assistant / workflow brain.</li>
+          <li>Finishing FreeCodeCamp &amp; ZTM properly... not just starting them.</li>
+          <li>Building <strong>Walter</strong>... my AI assistant / workflow brain.</li>
           <li>Reducing gear, apps, and unnecessary complexity.</li>
         </ul>
       </article>
@@ -67,11 +67,11 @@ description: "Who I am, what I'm doing, and what this site actually is."
     <article class="about-card">
       <h2>What I Care About</h2>
       <ul class="about-list">
-        <li><strong>Strength</strong> ... being able to handle my own bodyweight again.</li>
-        <li><strong>Creative work</strong> ... typography, layouts, visual systems.</li>
-        <li><strong>Systems</strong> ... Obsidian vaults, automation, templates that remove friction.</li>
-        <li><strong>Music</strong> ... heavy blues, desert rock, metal, cinematic sound.</li>
-        <li><strong>Long arcs</strong> ... character development, alternate timelines, big “what if” thinking.</li>
+        <li><strong>Strength</strong>... being able to handle my own bodyweight again.</li>
+        <li><strong>Creative work</strong>... typography, layouts, visual systems.</li>
+        <li><strong>Systems</strong>... Obsidian vaults, automation, templates that remove friction.</li>
+        <li><strong>Music</strong>... heavy blues, desert rock, metal, cinematic sound.</li>
+        <li><strong>Long arcs</strong>... character development, alternate timelines, big “what if” thinking.</li>
       </ul>
     </article>
     <article class="about-card">
