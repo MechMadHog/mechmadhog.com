@@ -44,10 +44,10 @@ description: "Who I am, what I'm doing, and what this site actually is."
       <article class="about-card">
         <h2>Roles</h2>
         <ul class="about-list">
-          <li><strong>Builder</strong>... systems, workflows, small tools that compound.</li>
-          <li><strong>Artist</strong>... drawing, layout, logos, visual experiments.</li>
+          <li><strong>Builder</strong>... systems, workflows, small tools, and reusable components</li>
+          <li><strong>Artist</strong>... drawing people, planning Paintigs, logos, crt designs and css art.</li>
           <li><strong>Lifter (in progress)</strong>... sandbags, long walks, getting joints to cooperate.</li>
-          <li><strong>World brain</strong>... cyberpunk D&amp;D arcs, playlists, long-form ideas.</li>
+          <li><strong>World brain</strong>... cyberpunk D&amp;D arcs, playlists, long-form ideas, developing my persona for the stage and real life.</li>
           <li><strong>Tinkerer</strong>... refining things that are almost right.</li>
         </ul>
       </article>
