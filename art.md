@@ -40,7 +40,6 @@ description: "Sketches, branding, experiments, visual stuff I'm making."
         </ul>
       </div>
     </article>
-
     <article class="art-entry">
       <figure class="art-entry-media">
         <img
@@ -66,7 +65,6 @@ description: "Sketches, branding, experiments, visual stuff I'm making."
         </ul>
       </div>
     </article>
-
     <article class="art-entry">
       <figure class="art-entry-media">
         <img
@@ -92,7 +90,6 @@ description: "Sketches, branding, experiments, visual stuff I'm making."
         </ul>
       </div>
     </article>
-
     <article class="art-entry">
       <figure class="art-entry-media">
         <img

@@ -87,7 +87,7 @@ description: "Who I am, what I'm doing, and what this site actually is."
         <li>thinking in public when useful</li>
       </ul>
       <p class="muted about-note">
-        Not everything goes online. Only what I’m comfortable attaching to my name.
+        Not everything goes online. Only what I’m comfortable attaching to my name to.
       </p>
     </article>
     <article class="about-card about-card--social">
