@@ -13,7 +13,6 @@ description: "Sketches, branding, experiments, visual stuff I'm making."
       More categories will be added over time.
     </p>
   </header>
-
   <div class="art-feed-list">
     <article class="art-entry">
       <figure class="art-entry-media">
@@ -29,7 +28,7 @@ description: "Sketches, branding, experiments, visual stuff I'm making."
           <h2 class="art-title">Logos</h2>
           <span class="art-status draft">Gallery coming soon</span>
         </header>
-        <p class="art-kind">Branding · Marks · Identity</p>
+        <p class="art-kind">Branding | Marks | Identity</p>
         <p class="art-description">
           Logo exploration, identity systems, badge layouts, and variations built for web and print.
         </p>
@@ -54,7 +53,7 @@ description: "Sketches, branding, experiments, visual stuff I'm making."
           <h2 class="art-title">Illustrations</h2>
           <span class="art-status draft">Gallery coming soon</span>
         </header>
-        <p class="art-kind">Digital · Vector · Mixed</p>
+        <p class="art-kind">Digital | Vector | Mixed</p>
         <p class="art-description">
           Finished pieces and ongoing studies. Characters, icons, poster ideas, and experiments.
         </p>
@@ -79,7 +78,7 @@ description: "Sketches, branding, experiments, visual stuff I'm making."
           <h2 class="art-title">Sketches ... Portraits</h2>
           <span class="art-status draft">Gallery coming soon</span>
         </header>
-        <p class="art-kind">Pencil · Pen · Face studies</p>
+        <p class="art-kind">Pencil | Pen | Face studies</p>
         <p class="art-description">
           Portrait reps, head studies, anatomy practice, and sketchbook pages worth keeping.
         </p>
@@ -104,7 +103,7 @@ description: "Sketches, branding, experiments, visual stuff I'm making."
           <h2 class="art-title">Paintings</h2>
           <span class="art-status draft">Gallery coming soon</span>
         </header>
-        <p class="art-kind">Acrylic · Oil · Traditional</p>
+        <p class="art-kind">Acrylic | Oil | Traditional</p>
         <p class="art-description">
           Finished paintings and works in progress. Texture, color, and composition studies.
         </p>
