@@ -67,11 +67,11 @@ description: "Who I am, what I'm doing, and what this site actually is."
     <article class="about-card">
       <h2>What I Care About</h2>
       <ul class="about-list">
-        <li><strong>Strength</strong>... being able to handle my own bodyweight again.</li>
+        <li><strong>Strength</strong>... Being able to handle my own bodyweight again, Sandbag training.</li>
         <li><strong>Creative work</strong>... typography, layouts, visual systems.</li>
-        <li><strong>Systems</strong>... Obsidian vaults, automation, templates that remove friction.</li>
-        <li><strong>Music</strong>... heavy blues, desert rock, metal, cinematic sound.</li>
-        <li><strong>Long arcs</strong>... character development, alternate timelines, big “what if” thinking.</li>
+        <li><strong>Systems</strong>... RDB: Obsidian, Workflows, Plan of Action.</li>
+        <li><strong>Music</strong>... Desert Rock, Minimal Techno and Progressive &amp; Thrash Metal.</li>
+        <li><strong>Long arcs</strong>... Character development, alternate timelines, big “what if” thinking.</li>
       </ul>
     </article>
     <article class="about-card">
@@ -98,7 +98,7 @@ description: "Who I am, what I'm doing, and what this site actually is."
           <p class="muted">Looser. Less filtered.</p>
           <ul class="about-list">
             <li>
-              <a href="https://x.com/MechMadHog" target="_blank" rel="noopener">X / Twitter</a>
+              <a href="https://x.com/MechMadHog" target="_blank" rel="noopener">Twitter</a>
             </li>
             <li>
               <a href="https://www.instagram.com/mechanicalmadhog/" target="_blank" rel="noopener">Instagram</a>
