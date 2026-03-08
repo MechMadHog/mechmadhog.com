@@ -5,7 +5,7 @@ permalink: /about/
 description: "Who I am, what I'm doing, and what this site actually is."
 ---
 
-<section class="panel panel--about">
+<<section class="panel panel--about">
   <h1 class="section-title">About</h1>
 
   <div class="about-layout">
@@ -19,24 +19,26 @@ description: "Who I am, what I'm doing, and what this site actually is."
           >
         </div>
         <p class="about-photo-note muted">
-          Not a final form. Ongoing build... version control for a person.
+          Not a finished product. Just documenting the process.
         </p>
       </div>
       <div class="about-main-text">
         <h2>Who I Am</h2>
         <p>
-          I’m <strong>Mike MacDonagh</strong>... based in Mullingar.
+          I'm <strong>Mike MacDonagh</strong>... based in Mullingar.
           Online I go by <strong>Mechanical Mad Hog</strong> or <strong>MechMadHog</strong>.
         </p>
         <p>
-          I work in tech. I fix broken systems, build cleaner ones,
-          and design interfaces that don’t argue back.
-          Most problems are messy inputs and unclear structure.
-          I prefer structure.
+          I work in tech. Mostly fixing things that shouldn't have been built badly
+          in the first place.
         </p>
         <p>
-          This site tracks the rebuild... body, habits, tools, thinking.
-          Less noise. Fewer moving parts. More leverage.
+          I build small tools, websites, and systems that make life a bit simpler.
+          When something annoys me enough... I usually try to build a better version.
+        </p>
+        <p>
+          This site is basically a log of what I'm working on...
+          code, training, ideas, experiments.
         </p>
       </div>
     </article>
@@ -44,21 +46,21 @@ description: "Who I am, what I'm doing, and what this site actually is."
       <article class="about-card">
         <h2>Roles</h2>
         <ul class="about-list">
-          <li><strong>Builder</strong>... systems, workflows, small tools, and reusable components</li>
-          <li><strong>Artist</strong>... drawing people, planning Paintigs, logos, crt designs and css art.</li>
-          <li><strong>Lifter (in progress)</strong>... sandbags, long walks, getting joints to cooperate.</li>
-          <li><strong>World brain</strong>... cyberpunk D&amp;D arcs, playlists, long-form ideas, developing my persona for the stage and real life.</li>
-          <li><strong>Tinkerer</strong>... refining things that are almost right.</li>
+          <li><strong>Builder</strong>... websites, tools, and small useful systems.</li>
+          <li><strong>Artist</strong>... drawing, painting, CRT inspired designs.</li>
+          <li><strong>Lifter (in progress)</strong>... rebuilding strength after injury.</li>
+          <li><strong>World builder</strong>... cyberpunk stories, playlists, ideas.</li>
+          <li><strong>Tinkerer</strong>... fixing and improving things that almost work.</li>
         </ul>
       </article>
       <article class="about-card">
         <h2>Right Now</h2>
         <ul class="about-list">
-          <li>Dropping weight and rebuilding shoulders, back, neck.</li>
-          <li>Dialling in food that works without constant friction.</li>
-          <li>Finishing FreeCodeCamp &amp; ZTM properly... not just starting them.</li>
-          <li>Building <strong>Walter</strong>... my AI assistant / workflow brain.</li>
-          <li>Reducing gear, apps, and unnecessary complexity.</li>
+          <li>Losing weight and rebuilding strength.</li>
+          <li>Sorting out food and habits that actually stick.</li>
+          <li>Finishing FreeCodeCamp and ZTM properly.</li>
+          <li>Building <strong>Walter</strong>... my AI assistant project.</li>
+          <li>Reducing clutter... both digital and physical.</li>
         </ul>
       </article>
     </aside>
@@ -67,27 +69,27 @@ description: "Who I am, what I'm doing, and what this site actually is."
     <article class="about-card">
       <h2>What I Care About</h2>
       <ul class="about-list">
-        <li><strong>Strength</strong>... Being able to handle my own bodyweight again, Sandbag training.</li>
-        <li><strong>Creative work</strong>... typography, layouts, visual systems.</li>
-        <li><strong>Systems</strong>... RDB: Obsidian, Workflows, Plan of Action.</li>
-        <li><strong>Music</strong>... Desert Rock, Minimal Techno and Progressive &amp; Thrash Metal.</li>
-        <li><strong>Long arcs</strong>... Character development, alternate timelines, big “what if” thinking.</li>
+        <li><strong>Strength</strong>... being able to move well and carry heavy things.</li>
+        <li><strong>Creative work</strong>... typography, layouts, visual design.</li>
+        <li><strong>Systems</strong>... Obsidian, workflows, organised thinking.</li>
+        <li><strong>Music</strong>... desert rock, techno, metal.</li>
+        <li><strong>Long projects</strong>... things that take years to build properly.</li>
       </ul>
     </article>
     <article class="about-card">
       <h2>What Lives Here</h2>
       <p>
-        This is not a sales page. It’s a working log.
+        This isn't a sales page. It's a working log.
       </p>
       <ul class="about-list">
-        <li>training notes and recomposition attempts</li>
-        <li>AI experiments and tooling</li>
-        <li>sketches, branding tests, UI layouts</li>
-        <li>systems tested in real life</li>
-        <li>thinking in public when useful</li>
+        <li>training progress</li>
+        <li>AI experiments</li>
+        <li>design sketches and UI ideas</li>
+        <li>tools I'm building</li>
+        <li>notes worth sharing</li>
       </ul>
       <p class="muted about-note">
-        Not everything goes online. Only what I’m comfortable attaching to my name to.
+        Not everything goes online. Only the parts I'm comfortable sharing.
       </p>
     </article>
     <article class="about-card about-card--social">
@@ -95,7 +97,7 @@ description: "Who I am, what I'm doing, and what this site actually is."
       <div class="about-social">
         <div>
           <h3>The informal</h3>
-          <p class="muted">Looser. Less filtered.</p>
+          <p class="muted">Less filtered.</p>
           <ul class="about-list">
             <li>
               <a href="https://x.com/MechMadHog" target="_blank" rel="noopener">Twitter</a>
@@ -107,7 +109,7 @@ description: "Who I am, what I'm doing, and what this site actually is."
         </div>
         <div>
           <h3>The formal</h3>
-          <p class="muted">Work, code, presentable output.</p>
+          <p class="muted">Work and projects.</p>
           <ul class="about-list">
             <li>
               <a href="https://linkedin.com/in/michaelmacdonagh/" target="_blank" rel="noopener">LinkedIn</a>
@@ -122,8 +124,8 @@ description: "Who I am, what I'm doing, and what this site actually is."
         </div>
       </div>
       <p class="muted about-note">
-        If you actually want to talk, use the <a href="/contact/">contact page</a> or email.
-        DMs are unreliable at best.
+        If you want to contact me, use the <a href="/contact/">contact page</a> or email.
+        DMs are hit or miss.
       </p>
     </article>
 
