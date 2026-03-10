@@ -61,25 +61,47 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
 
 <section class="panel panel--overview">
   <div class="home-grid">
-      <article class="home-card">
+    <article class="home-card">
       <h3>👤 About</h3>
-      <p>Who I am, what MechMadHog is, and why this site exists.</p>
-      <a href="{{ '/about/' | relative_url }}" class="home-card-link">Read my profile →</a>
+      <p>
+        Who I am, what <strong>MechMadHog</strong> is,
+        and why this Site exists.
+      </p>
+      <a href="{{ '/about/' | relative_url }}" class="home-card-link">
+        Read my Profile →
+      </a>
     </article>
     <article class="home-card">
       <h3>🎨 Art</h3>
-      <p>Sketches, layouts, UI experiments, and visual ideas feeding the MechMadHog system.</p>
-      <a href="{{ '/art/' | relative_url }}" class="home-card-link">Look through the gallery →</a>
+      <p>
+        Sketches, Designs, UI Experiments,
+        and Visual Ideas.
+      </p>
+      <a href="{{ '/art/' | relative_url }}" class="home-card-link">
+        Browse the Gallery →
+      </a>
     </article>
     <article class="home-card">
       <h3>🧭 Now</h3>
-      <p>What I am focused on right now. Rehab (Healing my ankle), learning, projects, and other priorities moving forward.</p>
-      <a href="{{ '/now/' | relative_url }}" class="home-card-link">My current state of affairs →</a>
+      <p>
+        What I'm focused on right now...
+        Ankle Rehab, Learning, Projects,
+        and whatever comes next.
+      </p>
+      <a href="{{ '/now/' | relative_url }}" class="home-card-link">
+        Current Status →
+      </a>
     </article>
     <article class="home-card">
       <h3>📝 Journal</h3>
-      <p>Day to day notes on training, food experiments, tech, and whatever I am debugging in my life.</p>
-      <a href="{{ '/journal/' | relative_url }}" class="home-card-link">Read some of my entries →</a>
+      <p>
+        Day to day Notes on Training,
+        Food Experiments, Tech,
+        and things I'm figuring out.
+      </p>
+      <a href="{{ '/journal/' | relative_url }}" class="home-card-link">
+        Read the Journal →
+      </a>
     </article>
   </div>
 </section>
