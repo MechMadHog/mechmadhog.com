@@ -13,18 +13,28 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
     >
     <h1>Mike</h1>
     <p class="tagline">Building Myself In Public… Apparently</p>
-    <p class="sub">Training • AI Tools • Systems • Art</p>
+    <p class="sub">
+      Training | AI Tools | Systems | Art
+    </p>
     <p class="about">
-      This is the informal side. Training logs, experiments, AI tools, design work, and whatever problem annoyed me enough to fix.
-      Nothing here is finished. Things just get slightly less broken over time.
+      This is the Informal Side.
+      Training Logs, Experiments, AI Tools, Design Work,
+      and whatever Problem annoyed me enough to fix.
+      Nothing here is finished... things just get slightly
+      less broken over time.
     </p>
     <div class="hero-cta-row">
-      <a class="cta" href="{{ '/journal/' | relative_url }}">Read through my Blog</a>
-      <a class="cta cta--ghost" href="{{ '/projects/' | relative_url }}">Check out my Projects</a>
+      <a class="cta" href="{{ '/journal/' | relative_url }}">
+        Read the Blog
+      </a>
+      <a class="cta cta--ghost" href="{{ '/projects/' | relative_url }}">
+        Look at the Projects
+      </a>
     </div>
     <p class="now-line">
       <span class="now-label">Now:</span>
-      refining training, rebuilding systems, and teaching AI how to be useful instead of impressive.
+      Training, rebuilding Systems, and teaching AI
+      how to be Useful instead of Impressive.
     </p>
   </div>
 </section>
