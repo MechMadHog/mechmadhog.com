@@ -51,7 +51,7 @@ description: "What I'm focused on right now."
         Rebuilding from a broken Ankle. Slower than I'd like... still moving.
       </p>
       <p>
-        Currently hitting <b>2km a day</b>... sometimes more.
+        Currently hitting <b>4 - 5km a day</b>... sometimes more.
         That's a big jump from where I was.
       </p>
       <p>
