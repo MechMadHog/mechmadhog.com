@@ -7,40 +7,39 @@ description: "What I'm focused on right now."
 
 <section class="panel panel--projects">
   <h1 class="section-title">Now</h1>
-
   <div class="projects-grid">
     <article class="card">
       <h3>🧩 Quest 1: The Machine</h3>
       <p>
-        I’m building the environment I operate from... the box, the desk, the workflow, the stack.
-        If I’m going to think for a living, the machine has to make sense.
+        I'm building the Environment I operate from... the Box, the Desk, the Workflow, the Stack.
+        If I'm going to think for a living, the Machine needs to make sense.
       </p>
       <p>
-        Rebuilding the foundations... better hardware, cleaner Linux setup,
-        tighter workflows. Less friction. Fewer excuses.
+        Rebuilding the Foundations... better Hardware, cleaner Linux Setup,
+        tighter Workflows. Less Friction. Fewer excuses.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Custom PC as long-term command centre</li>
-        <li>Full Linux migration... remove noise</li>
-        <li>Walter as second brain... structured vault, automation later</li>
-        <li>A dev environment designed for shipping</li>
+        <li>Custom PC as the long-term Command Centre</li>
+        <li>Full Linux Migration... remove Noise</li>
+        <li>Walter as my second Brain... structured Vault first, Automation later</li>
+        <li>A Dev Environment built for actual Output</li>
       </ul>
     </article>
     <article class="card">
       <h3>⚙️ Quest 2: Year of Code</h3>
       <p>
-        The consistency play... daily commits. Real builds.
-        No tutorial hoarding. No collecting certificates for decoration.
+        The Consistency Play... daily Commits. Real Builds.
+        No Tutorial Hoarding. No collecting Certificates to feel productive.
       </p>
       <p>
-        FreeCodeCamp, React, fundamentals tightened properly.
-        Formal and informal brands running in parallel.
+        FreeCodeCamp, React, and Fundamentals done properly.
+        Formal and Informal Brands running side by side.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>GitHub streak as baseline</li>
-        <li>Projects that stand on their own</li>
-        <li>michaelmacdonagh.net vs mechmadhog.com... dual identity</li>
-        <li>Frontend readiness... depth over flash</li>
+        <li>GitHub Streak as the baseline</li>
+        <li>Projects that can stand on their own</li>
+        <li>michaelmacdonagh.net and mechmadhog.com... two sides of the same thing</li>
+        <li>Frontend Readiness... Substance over Flash</li>
       </ul>
       <p class="muted" style="font-size:0.8rem; margin-top:1rem;">
         Year of Code completes: 3 August (36... locked)
@@ -49,79 +48,78 @@ description: "What I'm focused on right now."
     <article class="card">
       <h3>🛠 Quest 3: Body & Base</h3>
       <p>
-        Rebuilding from a broken ankle. Slower than I’d like. Still moving.
+        Rebuilding from a broken Ankle. Slower than I'd like... still moving.
       </p>
       <p>
         Currently hitting <b>2km a day</b>... sometimes more.
-        That’s a significant jump from where I was.
+        That's a big jump from where I was.
       </p>
       <p>
-        The aim is simple... walk properly, then exceed the old baseline.
-        No ego lifts. No dramatic comebacks. Just steady progression.
+        The aim is simple... walk properly, then go past the old baseline.
+        No Ego Lifts. No fake Comeback Story. Just Progress.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Ankle rehab... structured progression</li>
-        <li>Food system... repeatable meals logged in Walter</li>
-        <li>Kitchen setup... make good choices easier</li>
-        <li>Conqueror challenges... measurable progress</li>
+        <li>Ankle Rehab... structured Progression</li>
+        <li>Food System... repeatable Meals logged in Walter</li>
+        <li>Kitchen Setup... make decent choices easier</li>
+        <li>Conqueror Challenges... measurable Progress</li>
       </ul>
     </article>
     <article class="card">
       <h3>🎨 Quest 4: Output</h3>
       <p>
-        Produce. Maintain the sites. Build things. Ship them.
-        Personality through output, not declarations.
+        Produce. Maintain the Sites. Build Things. Ship them.
+        Personality through Output... not declarations.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Maintain and refine both sites</li>
-        <li>React apps... practical builds</li>
-        <li>JavaScript games... mechanics first</li>
-        <li>Tablet drawing and UI experiments</li>
+        <li>Maintain and refine both Sites</li>
+        <li>React Apps... practical Builds</li>
+        <li>JavaScript Games... Mechanics first</li>
+        <li>Tablet Drawing and UI Experiments</li>
       </ul>
     </article>
     <article class="card">
       <h3>🧠 Quest 5: Social Dynamics</h3>
       <p>
-        Back into social dynamics... not to become slick,
-        but to stop using a hammer on screws.
+        Back working on Social Dynamics... not to become slick,
+        just to stop using the wrong Tool for the job.
       </p>
       <p>
-        TRT shifted perception. That means recalibrating how I move...
-        boundaries, tone, confidence, signal.
+        TRT shifted my Perception a bit. That means recalibrating how I move...
+        Boundaries, Tone, Confidence, Signal.
       </p>
       <p>
-        Learning to use what I’d call <b>white hat subterfuge</b>...
-        defuse, redirect, reframe. Torque instead of impact.
+        Learning what I'd call <b>White Hat Subterfuge</b>...
+        defuse, redirect, reframe. Torque instead of Impact.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Daily exposure reps... small, controlled</li>
-        <li>Calibrating signal instead of escalating</li>
-        <li>Better tooling for ambiguous environments</li>
-        <li>Applying kaizen... a little improvement everywhere</li>
+        <li>Daily Exposure Reps... small and controlled</li>
+        <li>Calibrating Signal instead of escalating</li>
+        <li>Better Tools for vague environments</li>
+        <li>Applying Kaizen... small improvements everywhere</li>
       </ul>
     </article>
     <article class="card">
       <h3>🚀 Quest 6: 37 Year Target</h3>
       <p>
-        Not vague goals. Just checkpoints.
+        Not vague Goals. Just Checkpoints.
       </p>
       <p>
-        By 37 I should at least look like I know what I’m doing.
+        By 37 I should at least look like I know what I'm doing.
       </p>
       <p>
-        The method is deliberately boring... small improvements,
+        The method is deliberately boring... small Improvements,
         applied daily, across everything.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
         <li>Complete Year of Code (3 August)</li>
-        <li>Secure next career step... evidence over promises</li>
-        <li>Extend walking distance... through Conqueror Challenges</li>
+        <li>Secure the next Career Step... evidence over promises</li>
+        <li>Extend Walking Distance through Conqueror Challenges</li>
         <li>Drive independently... reduce reliance</li>
       </ul>
       <p class="muted" style="font-size:0.8rem; margin-top:1rem;">
         Last updated: March 2026
       </p>
     </article>
-
   </div>
 </section>
