@@ -7,7 +7,6 @@ description: "Who I am, what I'm doing, and what this site actually is."
 
 <section class="panel panel--about">
   <h1 class="section-title">About</h1>
-
   <div class="about-layout">
     <article class="about-main">
       <div class="about-photo-block">
@@ -33,11 +32,11 @@ description: "Who I am, what I'm doing, and what this site actually is."
           in the first place.
         </p>
         <p>
-          I build small Tools, Websites, and Systems that make life simpler.
+          I build Tools, Websites, and Systems that make things simpler.
           If something annoys me enough... I usually build a better version.
         </p>
         <p>
-          This Site is basically a log of what I'm working on...
+          This Site is a log of what I'm working on...
           Code, Training, Ideas, and Experiments.
         </p>
       </div>
@@ -60,7 +59,7 @@ description: "Who I am, what I'm doing, and what this site actually is."
           <li>Dialling in Food and Habits that actually stick.</li>
           <li>Finishing FreeCodeCamp and ZTM properly.</li>
           <li>Building <strong>Walter</strong>... my AI Assistant Project.</li>
-          <li>Reducing Clutter... both Digital and Physical.</li>
+          <li>Reducing Clutter... Digital and Physical.</li>
         </ul>
       </article>
     </aside>
