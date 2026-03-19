@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WTF Fasting"
-description: "A weekly 72-hour fast, why I do it, how it works, and how fixing hunger signals changed everything."
+description: "A weekly 72-hour fast, why I do it, and how fixing hunger signals changed everything."
 categories: [Fitness, Nutrition, Fasting]
 tags: [Fasting, Ketosis, Autophagy, Ozempic, TRT, Nebido, Fat Loss]
 featured: true
@@ -11,66 +11,56 @@ image: /assets/images/blog/WTF-Fasting.png
 # WTF Fasting 🧠🔥
 ### *Tuesday 6pm → Friday 6pm*
 
-This is my **weekly 72-hour fast**.
+This is my **weekly 72-Hour Fast**.
 
-I start **Tuesday evening at 6pm** and I don’t eat again until **Friday evening**.  
-No tricks. No snacks. No “just a bite”.
+I start **Tuesday at 6pm** and don’t eat again until **Friday evening**.  
+No snacks. No “just a bite”.
 
-Water 💧, electrolytes ⚡, black coffee ☕ if needed. That’s it.
+Water 💧, electrolytes ⚡, black coffee ☕ if needed.
+That’s it.
 
 This isn’t about suffering.  
-It’s about **shutting off hunger**, letting the body do what it already knows how to do, and clearing the mental and metabolic noise that constant eating creates.
+It’s about **removing hunger** and letting things settle.
 
 ---
 
 ## The Phases ⏱️
 
-### Phase 1: Catabolic (0–24 hours) 🧹
+### Phase 1: Catabolic (0–24 Hours) 🧹
 
-This is the clean-up phase.
-
-- Stored glycogen is burned through  
+- Glycogen gets used up  
 - Insulin drops  
-- The body switches from *incoming fuel* to *stored fuel*  
+- The body switches to stored fuel  
 
 This is where most people panic.
 
-Hunger spikes because the system is used to constant feeding, not because you actually *need* food.
+Hunger spikes... not because you need food, but because you’re used to eating.
 
-Push through this once and it permanently loses power.
+Get through this once and it loses most of its power.
 
 ---
 
-### Phase 2: Fat Burning (24–48 hours) 🔥
+### Phase 2: Fat Burning (24–48 Hours) 🔥
 
-Now things get interesting.
-
-- Fat becomes the primary fuel source  
+- Fat becomes the main fuel  
 - Energy stabilises  
-- Hunger begins to fade  
+- Hunger starts to drop  
 
-This is where you realise most hunger is **habit**, not biology.
-
-Mental clarity starts creeping in.  
-Inflammation drops.  
-The body relaxes.
+This is where it clicks:
+Most hunger is **habit**, not need.
+Things feel quieter.  
+Less noise.
 
 ---
 
-### Phase 3: Ketosis (48–72 hours) ⚙️
+### Phase 3: Ketosis (48–72 Hours) ⚙️
 
-This is the sweet spot.
-
-- Deep ketosis  
-- Hunger goes to near zero  
-- Calm focus replaces food noise  
-
-By this point I feel *lighter* mentally than physically.
+- Deeper ketosis  
+- Hunger close to zero  
+- Focus improves  
 
 No cravings.  
-No obsession.  
-No bargaining with myself.
-
+No bargaining.  
 Just clarity.
 
 ---
@@ -79,215 +69,161 @@ Just clarity.
 
 ### Autophagy ♻️
 
-Cells finally get the signal to **clean house**.
-
-Damaged proteins, old cellular junk, metabolic debris… gone.
-
-This is maintenance mode, not starvation.
+The body gets time to clean up.
+Not magic.  
+Just maintenance.
 
 ---
 
-### HGH Increase 📈
+### Hormones 📈
 
-Human Growth Hormone spikes during extended fasting.
+Fasting supports:
 
-- Muscle preservation  
-- Fat mobilisation  
-- Recovery  
+- fat use  
+- muscle retention  
+- recovery  
 
-This matters when the goal is **fat loss without shrinking**.
-
----
-
-### Brain Fog Disappears 🧠✨
-
-This is one of the biggest benefits.
-
-Food noise is real.  
-Blood sugar swings are real.
-
-When both disappear, the brain feels… quiet.
-
-Focused.  
-Calm.  
-Sharp.
+That matters when the goal is **losing fat without shrinking**.
 
 ---
 
-### Stomach Shrinkage 🍽️⬇️
+### Brain Fog Drops 🧠✨
 
-Hunger isn’t infinite.
+Food noise is real.
 
-Stretch receptors adapt.  
-Appetite hormones recalibrate.
+When it’s gone:
 
-After a few weeks of this protocol, **normal portions feel large again**.
-
----
-
-### Cravings Vanish 🚫🍩
-
-Sugar cravings.  
-Salt cravings.  
-Late-night nonsense cravings.
-
-They don’t get resisted… they **disappear**.
-
-That’s the difference.
+- thinking is easier  
+- decisions are simpler  
+- focus improves  
 
 ---
 
-## Nebido, Hunger, and Reality 💉
+### Appetite Reset 🍽️⬇️
 
-Nebido **pushes my hunger through the roof**.
+Hunger adapts.
 
-Not emotionally.  
-Not psychologically.
+After a few weeks:
 
-Physiologically.
-
-It’s like someone turned the volume knob to maximum.
-
-That isn’t willpower failure.  
-That’s chemistry.
+- portions feel bigger  
+- cravings drop  
+- eating becomes more controlled  
 
 ---
 
-## Why Ozempic Comes In ⚖️
+### Cravings Fade 🚫🍩
 
-A **low dose of Ozempic** does one thing for me.
+Sugar.  
+Salt.  
+Late-night nonsense.
+You don’t fight them...
+they just stop showing up.
 
-It neutralises the hunger spike caused by Nebido.
+---
+
+## Nebido and Hunger 💉
+
+Nebido **ramps my hunger up hard**.
+
+Not emotional.  
+Not psychological.
+Physical.
+
+Like the signal is turned up too high.
+
+---
+
+## Where Ozempic Fits ⚖️
+
+A **low dose of Ozempic** brings that signal back down.
 
 That’s it.
 
-Most people experience a **minus one** on Ozempic.
+Most people go:
 
-- Appetite suppression  
-- Food aversion  
-- Disinterest in eating  
+- normal → suppressed  
 
-I don’t.
+I go:
 
-Nebido puts me at **plus one**.  
-Ozempic brings me back to **zero**.
-
-Normal hunger.  
-Normal signals.  
-Normal control.
+- high → normal  
 
 No nausea.  
-No misery.  
-No zombie effect.
+No food aversion.  
+Just baseline.
 
 ---
 
-## This Actually Matters 🧠
+## What Was Actually Wrong 🧠
 
-I haven’t been in a calorie deficit.
+I wasn’t failing discipline.
+I was dealing with **broken signals**.
+I was:
 
-I’ve been *trying* to eat healthy.
+- eating constantly  
+- rarely actually hungry  
+- unable to go even 8 hours without food  
 
-But I was **over-eating constantly**, almost compulsively.  
-Like I was brainwashed.
+A 24-hour fast felt impossible.  
+72 hours wasn’t even an option.
 
-I could barely go longer than **8 hours** without food, and that was while I was asleep.
-
-A 24-hour fast?  
-Not a chance.
-
-A 72-hour fast?  
-It would have been **impossible**.
-
-There was no willpower issue.  
-There was no discipline issue.
-
-There was a **signal issue**.
+That wasn’t willpower.
+That was biology.
 
 ---
 
-## Who 72-Hour Fasts Are *For* 🚨
+## Who This Is For 🚨
 
-I don’t recommend a 72-hour fast if you don’t need it.
-
+This isn’t for everyone.
 Some people need structure.  
 Some people need moderation.
 
-I’m **strapped to a fridge**.
-
-I don’t need reminders to eat.  
-I need the opposite.
-
-Body fat isn’t there for aesthetics.
-
-If electrolytes are covered, and hunger is truly shut off, the body can run for **months**, not days.
-
-Willpower isn’t required when biology is finally aligned.
+I need **distance from food**.
+If you’re constantly pulled toward eating, this works.
+If you’re not, you don’t need it.
 
 ---
 
 ## Hangovers & Impulse Control 🍺⚠️
 
-Drinking isn’t the problem.
+Drinking isn’t the issue.
+The problem is the next day.
+Hungover “hunger” is just chasing:
 
-I’m a heavyweight, no pun intended.  
-I can handle my drink.
+- salt  
+- sugar  
+- grease  
 
-The issue is **impulse control when hungover**.
+Fasting removes the decision.
 
-Hungover hunger isn’t real hunger.  
-It’s dopamine chasing.
-
-Salty food.  
-Sugary food.  
-Greasy nonsense.
-
-That’s where damage happens.
-
-Fasting removes the decision entirely.
-
-No bargaining.  
-No “sure it’s only today”.  
-No sliding back into old loops.
+No negotiation.  
+No “just today”.
 
 ---
 
 ## This Isn’t Cheating 🧩
 
-Fixing a broken signal isn’t cheating.
-
-It’s calibration.
-
+Fixing a bad signal isn’t cheating.
+It’s correction.
 The goal isn’t suffering.
-
-The goal is **results with clarity**.
-
-And clarity changes everything.
+It’s making things work properly.
 
 ---
 
-## The Point of WTF Fasting 🏁
+## The Point 🏁
 
-This isn’t extremism.
-
-It’s about:
-
-- Removing friction  
-- Eliminating hunger  
-- Creating momentum  
-- Letting biology work *with* you  
+- remove friction  
+- reduce hunger  
+- build momentum  
+- stay consistent  
 
 Three days.  
 Once a week.
 
 Simple.  
-Brutal.  
 Effective.
 
-And once you feel what zero hunger actually feels like…
+---
 
-you never want to go back.
-
-Once a normal size has been reached once again,
-
-This can all be maintained with regular training.
+Once hunger is under control, everything else gets easier.
+And once you reach a stable weight, you don’t need this as often.
+Training and normal eating take over.
