@@ -25,35 +25,37 @@ So this phase is about control.
 
 ---
 
-## Environment First
+## 🧱 Environment First
 
 Before discipline... environment.
 
 I can plan this properly now:
-- Clear out the junk food
-- Stock food that actually fits the plan
-- Remove friction instead of relying on willpower
+
+- Clear out the junk food 🗑️  
+- Stock food that actually fits the plan 🥩  
+- Remove friction instead of relying on willpower  
 
 No heroics. Just fewer bad options.
 
 ---
 
-## Eating Windows
+## 🍽️ Eating Windows
 
 I’ll be running roughly 1600 kcal once I start.
 So now I taper down into it instead of falling off a cliff on day one.
 
 Structure will be simple:
-- 1 eating window per day
-- 2 to 3 course meals
-- Built to fit within calories, not guessed at
+
+- 1 eating window per day  
+- 2 to 3 course meals  
+- Built to fit within calories, not guessed at  
 
 Same foods most days. Boring is fine. Predictable is better.
 The goal is not variety. The goal is compliance.
 
 ---
 
-## Movement... One Step at a Time
+## 🚶 Movement... One Step at a Time
 
 Walking is mandatory.
 So I’m tying it to something that doesn’t feel like a chore.
@@ -69,35 +71,35 @@ That’s fine. It counts all the same.
 
 ---
 
-## Sleep... The Reset Button
+## 🛌 Sleep... The Reset Button
 
 Sleep fixes more than people want to admit.
 So I’ll be tightening that up too:
 
-- Earlier nights
-- Reasonable mornings
-- Less drifting
+- Earlier nights 🌙  
+- Reasonable mornings ☀️  
+- Less drifting  
 
 Nothing extreme. Just consistent.
 
 ---
 
-## The Actual Plan
+## 📋 The Actual Plan
 
 This phase is not the transformation.
 This is the setup.
 
-- Lower intake gradually
-- Clean the environment
-- Lock in walking
-- Fix sleep
+- Lower intake gradually  
+- Clean the environment  
+- Lock in walking  
+- Fix sleep  
 
 So when April 29th hits, I’m not negotiating with myself.
 I’m already in motion.
 
 ---
 
-## The Point
+## 🎯 The Point
 
 Last time, 70 days felt long.
 But I remember how it ended.
@@ -108,7 +110,7 @@ Sharper.
 
 ---
 
-## Now
+## ⚙️ Now
 
 Right now... I’m just getting back under 20 stone.
 Everything else comes after.
