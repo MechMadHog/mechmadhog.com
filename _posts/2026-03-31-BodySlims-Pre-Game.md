@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Run-Up to Bodyslims... Getting Back Under 20 Stone"
+title: "Bodyslims Pre-Game... Getting Back To My Previous Starting Position"
 description: "Preparation phase before Bodyslims 2026. Clean slate, controlled intake, and removing friction before the real work starts."
 categories: [Training, Weight Loss]
 tags: [bodyslims, weight-loss, systems, preparation, discipline]
-image: /assets/images/blog/bodyslims-2026-runup.png
 ---
 
 # Run-Up to Bodyslims... Getting Back Under 20 Stone
