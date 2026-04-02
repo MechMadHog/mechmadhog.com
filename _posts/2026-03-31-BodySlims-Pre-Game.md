@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Bodyslims Pre-Game... Getting Back To My Previous Starting Position"
-description: "Preparation phase before Bodyslims 2026. Clean slate, controlled intake, and removing friction before the real work starts."
+description: "Preparation phase before Bodyslims 2026 (Round 2). Clean slate, controlled intake, and removing friction before the real work starts."
 categories: [Training, Weight Loss]
 tags: [bodyslims, weight-loss, systems, preparation, discipline]
 ---
 
-# Run-Up to Bodyslims... Getting Back Under 20 Stone
+# Bodyslims Pre-Game... Getting Back To My Previous Starting Position
+*I was 19st 11lbs the first time round - pre TRT body composition*
 
 I’m booked in for Bodyslims starting April 29th, 2026.
 That gives me a clear runway.
