@@ -10,8 +10,6 @@ tags: [bodyslims, weight-loss, systems, preparation, discipline]
 *I was 19st 11lbs the first time round - pre TRT body composition*
 
 I’m booked in for Bodyslims starting April 29th, 2026.
-That gives me a clear runway.
-
 The goal before I even step in the door... get back under 20 stone.
 Not because it’s required. Because it makes sense.
 
