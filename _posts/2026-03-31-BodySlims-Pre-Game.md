@@ -13,14 +13,12 @@ I’m booked in for Bodyslims starting April 29th, 2026.
 The goal before I even step in the door... get back under 20 stone.
 Not because it’s required. Because it makes sense.
 
-Last time I did Bodyslims in 2023, I started around that point and dropped fast. That was before I knew I had Klinefelter’s. Before TRT. Before understanding what my baseline actually is.
+Last time I did Bodyslims in 2023, I started around that point and dropped fast. That was before I knew I had Klinefelter’s. Before TRT. Before understanding what my baseline actually is. It is strange looking at my before photos from back then versus how I am now. There are obvious differences, likely more obvious to me than to others.
 
-Now the system is different.
-TRT improves everything... but it comes with appetite. Real appetite. The kind that doesn’t negotiate.
-Ozempic handles that... to a point.
+As a result the system will likely be somewhat different.
+TRT improves everything... but it comes with appetite. Real appetite. The kind that doesn’t negotiate; a noise in my head that was nearly impossible to ignore.
 
-If I overeat, even slightly, the whole thing stops working. It’s not a safety net. It’s a padlock... and I’m the one leaving the gate open.
-So this phase is about control.
+Ozempic handles that... to a point, I don't get the standard effects of it. I am on the lowest dose, just enought to bring my hunger leves back to a normal range. If I overeat, even slightly, the whole thing unravels. It’s not a safety net. It’s a padlock... and I’m the one leaving the gate open. So this phase is about control.
 
 ---
 
