@@ -20,10 +20,9 @@ Looking back at photos from then versus now... there are differences. Subtle to 
 So the system this time won’t be identical.
 TRT improves everything... but it comes with appetite. Real appetite. The kind that doesn’t negotiate. A constant noise.
 
-Ozempic keeps that in check... but only just. I’m on a low dose... enough to bring hunger back to normal, not suppress it.
-If I overeat, even slightly, the whole thing unravels.
-It’s not a safety net. It’s a padlock... and I’m the one leaving the gate open.
+Ozempic keeps that in check... but only just. I’m on the lowest possible dose... enough to bring hunger back to normal, not suppress it; I am not diabetic, it is simply a counter measure to the negative side effect of my hormone replacement therapy. 
 
+If I overeat, even slightly, the whole thing unravels. It’s not a safety net. It’s a padlock... and I’m the one leaving the gate open.
 So this phase is about control.
 
 ---
