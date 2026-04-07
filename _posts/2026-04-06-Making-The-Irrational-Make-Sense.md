@@ -125,5 +125,11 @@ Then it’s not solid.
 You can’t make something true by insisting on it.
 And you can’t build something real on top of something that doesn’t make sense.
 
+Truth doesn’t care how popular something is.
+Logic doesn’t bend because something feels right.
+
+If a position is solid, it can be explained cleanly from the ground up.
+
 Foundations matter.
-Always.
+Always... and If it can’t… it probably wasn’t finished.
+And unfinished ideas shouldn’t be treated like final answers.
