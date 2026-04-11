@@ -85,7 +85,7 @@ Now:
 - everything is “violence”  
 - everything is “problematic”  
 
-Stretch a definition far enough and:
+Stretch a definition far enough and...
 > it stops meaning anything.
 
 Like:
