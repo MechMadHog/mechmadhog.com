@@ -21,8 +21,9 @@ Engineering → physics.
 Biology → reality.
 Logic → consistency.
 
-If the base doesn’t hold… nothing built on top of it will.
-Stacking more arguments on something unstable doesn’t fix it. It just delays the collapse.
+If the base doesn’t hold… nothing that is ever built on top of it will.
+Stacking more arguments on something unstable doesn’t fix it. 
+It just delays the inevitable collapse.
 
 ---
 
