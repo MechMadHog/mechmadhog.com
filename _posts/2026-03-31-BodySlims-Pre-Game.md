@@ -4,6 +4,7 @@ title: "Bodyslims Pre-Game... Getting Back To My Previous Starting Position"
 description: "Preparation phase before Bodyslims 2026 (Round 2). Clean slate, controlled intake, and removing friction before the real work starts."
 categories: [Training, Weight Loss]
 tags: [bodyslims, weight-loss, systems, preparation, discipline]
+image: /assets/images/blog/PreGame.png
 ---
 
 # Bodyslims Pre-Game... Getting Back To My Previous Starting Position

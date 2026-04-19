@@ -4,6 +4,7 @@ title: "Nice, Lies, and the Collapse of Meaning"
 description: "How comfort replaces truth, how narratives compound, and why reality always wins in the end."
 categories: [Thinking, Philosophy]
 tags: [truth, systems, language, psychology, reality]
+image: /assets/images/blog/Kindness.png
 ---
 
 # Nice, Lies, and the Collapse of Meaning
