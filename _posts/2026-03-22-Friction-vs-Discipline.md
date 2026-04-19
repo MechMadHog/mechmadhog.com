@@ -4,6 +4,7 @@ title: "Friction vs Discipline: Most People Solve the Wrong Problem"
 description: "Why trying to force discipline fails, and how reducing friction makes consistency automatic."
 categories: [Systems, Training]
 tags: [discipline, systems, friction, habits, consistency]
+image: /assets/images/blog/Friction.png
 ---
 
 # Friction vs Discipline ⚙️
