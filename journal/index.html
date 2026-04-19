@@ -1,29 +1,107 @@
 ---
 layout: default
-title: "Journal"
-description: "Short updates: training, progress, ideas, experiments."
+title: Journal
 ---
 
-<section class="panel panel--overview">
-  <h1 class="section-title">Journal</h1>
+<section class="journal-page">
+  <header class="journal-header">
+    <h1>Journal</h1>
+    <p>Thoughts, fixes, experiments, and whatever else was worth documenting.</p>
+  </header>
 
-  <div class="home-grid">
-    {% for post in site.posts %}
-      <article class="home-card">
-        <h3>{{ post.title }}</h3>
+  {% assign sorted_posts = site.posts %}
 
-        <p class="muted">
-          {{ post.excerpt | strip_html | truncate: 180 }}
-        </p>
-
-        <p class="muted" style="font-size:0.8rem; margin:0.25rem 0 0.75rem;">
-          {{ post.date | date: "%B %d, %Y" }}
-        </p>
-
-        <a class="home-card-link" href="{{ post.url | relative_url }}">
-          Read entry →
+  <div id="journal-list" class="journal-list">
+    {% for post in sorted_posts %}
+      <article class="journal-card {% cycle '', 'reverse' %} journal-page-item">
+        <a href="{{ post.url }}" target="_blank" rel="noopener noreferrer" class="journal-image-link">
+          <div class="journal-image">
+            {% if post.image %}
+              <img src="{{ post.image }}" alt="{{ post.title }}">
+            {% else %}
+              <div class="journal-image-placeholder">No Image Yet</div>
+            {% endif %}
+          </div>
         </a>
+
+        <div class="journal-content">
+          <p class="journal-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+
+          <h2 class="journal-title">
+            <a href="{{ post.url }}" target="_blank" rel="noopener noreferrer">
+              {{ post.title }}
+            </a>
+          </h2>
+
+          <p class="journal-excerpt">
+            {% if post.description %}
+              {{ post.description }}
+            {% elsif post.excerpt %}
+              {{ post.excerpt | strip_html | truncate: 220 }}
+            {% endif %}
+          </p>
+
+          <a href="{{ post.url }}" target="_blank" rel="noopener noreferrer" class="journal-read-link">
+            Read entry
+          </a>
+        </div>
       </article>
     {% endfor %}
   </div>
+
+  <nav class="journal-pagination" id="journal-pagination"></nav>
 </section>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const itemsPerPage = 5;
+    const items = Array.from(document.querySelectorAll(".journal-page-item"));
+    const pagination = document.getElementById("journal-pagination");
+
+    if (!items.length || !pagination) return;
+
+    let currentPage = 1;
+    const totalPages = Math.ceil(items.length / itemsPerPage);
+
+    function renderPage(page) {
+      currentPage = page;
+
+      items.forEach((item, index) => {
+        const start = (page - 1) * itemsPerPage;
+        const end = start + itemsPerPage;
+        item.style.display = index >= start && index < end ? "grid" : "none";
+      });
+
+      renderPagination();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+
+    function renderPagination() {
+      pagination.innerHTML = "";
+
+      if (totalPages <= 1) return;
+
+      const prev = document.createElement("button");
+      prev.textContent = "Previous";
+      prev.disabled = currentPage === 1;
+      prev.addEventListener("click", () => renderPage(currentPage - 1));
+      pagination.appendChild(prev);
+
+      for (let i = 1; i <= totalPages; i++) {
+        const btn = document.createElement("button");
+        btn.textContent = i;
+        if (i === currentPage) btn.classList.add("active");
+        btn.addEventListener("click", () => renderPage(i));
+        pagination.appendChild(btn);
+      }
+
+      const next = document.createElement("button");
+      next.textContent = "Next";
+      next.disabled = currentPage === totalPages;
+      next.addEventListener("click", () => renderPage(currentPage + 1));
+      pagination.appendChild(next);
+    }
+
+    renderPage(1);
+  });
+</script>
