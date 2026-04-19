@@ -4,6 +4,7 @@ title: "Making The Irrational Make Sense"
 description: "A look at backwards reasoning, weak foundations, and the difference between justification and denial."
 categories: [Thinking, Philosophy]
 tags: [logic, reasoning, systems, foundations, truth]
+image: /assets/images/blog/Irrational.png
 ---
 
 # Foundations, Logic, and Half-Baked Thinking
