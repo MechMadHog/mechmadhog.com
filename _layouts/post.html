@@ -2,33 +2,35 @@
 layout: default
 ---
 
-<article class="py-5">
-  <div class="container" style="max-width: 860px;">
-    <header class="mb-4">
-      <h1 class="mb-1">{{ page.title }}</h1>
-      <div class="text-muted small">
-        {{ page.date | date: "%B %d, %Y" }}
+<article class="post-shell">
+  <div class="post-container">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <div class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
         {% if page.categories and page.categories.size > 0 %}
-          · in
+          <span class="post-meta-sep">·</span>
+          <span>in
           {% for c in page.categories %}
             <a href="{{ '/categories/' | relative_url }}#{{ c | slugify }}">{{ c }}</a>{% unless forloop.last %}, {% endunless %}
           {% endfor %}
+          </span>
         {% endif %}
       </div>
       {% if page.image %}
-        <img class="mt-3 img-fluid rounded" src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+        <img class="post-image" src="{{ page.image | relative_url }}" alt="{{ page.title }}">
       {% endif %}
     </header>
 
-    <div class="content">
+    <div class="post-content">
       {{ content }}
     </div>
 
     {% if page.tags and page.tags.size > 0 %}
-      <footer class="mt-4">
-        <div class="d-flex flex-wrap gap-2">
+      <footer class="post-footer">
+        <div class="post-tags">
           {% for t in page.tags %}
-            <a class="btn btn-sm btn-outline-secondary" href="{{ '/tags/' | relative_url }}#tag-{{ t | slugify }}">{{ t }}</a>
+            <a class="post-tag" href="{{ '/tags/' | relative_url }}#tag-{{ t | slugify }}">{{ t }}</a>
           {% endfor %}
         </div>
       </footer>
