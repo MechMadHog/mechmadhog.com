@@ -13,12 +13,13 @@ image: /assets/images/blog/White-Lantern-Knot.png
 
 I have a **White Lantern** tattoo that I designed myself.
 
-The entire Design is one single woven Knot. No breaks. No shortcuts.  
-It took ages to plan and even longer to tattoo, but it's completely unique.
-
-That makes it worth it.
+The entire Design is one single woven Knot, it was fairly complicated. 
+It took ages to map it all out, but as a result it's completely unique.
+That made it worth it.
 
 Like the Tattoo, the meaning behind it is woven from different parts of who I am.
+I knew I wanted a white Lantern Tattoo; but I was watching Vikings at the time, 
+so I thought that I'd make it sort of irish or a celtic design.
 
 ---
 
@@ -43,25 +44,23 @@ The Design itself is simple in principle but complicated in execution.
 - **A Pattern built from Complexity.**
 - **Something whole created from constant weaving.**
 
-It took patience to design and even more patience to tattoo.
-
+The design took patience.
+Patience holds everything altogether.
 That's part of the point.
 
 ---
 
 ## How It Fits My Archetype
 
-I've written before about the **Grey Archetype**.
-
+Another example of my **Grey Archetype**.
 The idea of standing somewhere between opposites...  
 between Sheep and Wolf, between Jedi and Sith.
 
 The **White Lantern** concept fits beside that.
-
 Grey is the burden side of things.  
 White is the synthesis... turning the mess into something usable.
 
-Not purity. Integration.
+I'm not perfect I am just adaptable, I can Integrate.
 
 ---
 
