@@ -7,113 +7,113 @@ tags: [bodyslims, weight-loss, systems, preparation, discipline]
 image: /assets/images/blog/PreGame.png
 ---
 
-# Bodyslims Pre-Game... Getting Back To My Previous Starting Position
-*I was 19st 11lbs the first time round - pre TRT body composition*
 
-I’m booked in for Bodyslims starting April 29th, 2026.
-The goal before I even step in the door... get back under 20 stone.
-Not because it’s required. Because it makes sense.
+# Bodyslims Pre-Game... Locking In Control Before Day One
 
-Last time I did Bodyslims in 2023, I started around that point and dropped fast. That was before I knew I had Klinefelter’s. Before TRT. Before I understood what my baseline actually is.
+I will be starting Bodyslims on April 29th, 2026.
+I’m currently sitting close to 20 stone.
+Maybe I dip under before I start… maybe I don’t... It doesn’t matter.
 
-Looking back at photos from then versus now... there are differences. Subtle to most people. Obvious to me.
+The last time I started at 19st 11lbs and dropped fast.
+Different body. Different setup. No TRT. No understanding of what was actually going on.
 
-So the system this time won’t be identical.
-TRT improves everything... but it comes with appetite. Real appetite. The kind that doesn’t negotiate. A constant noise.
-
-Ozempic keeps that in check... but only just. I’m on the lowest possible dose... enough to bring hunger back to normal, not suppress it; I am not diabetic, it is simply a counter measure to the negative side effect of my hormone replacement therapy. 
-
-If I overeat, even slightly, the whole thing unravels. It’s not a safety net. It’s a padlock... and I’m the one leaving the gate open.
-So this phase is about control.
+This time is different.
 
 ---
 
-## 🧱 Environment First
+## 🧠 Appetite Is The Variable
 
-Before discipline... environment.
+Nebido does what it’s supposed to do… but it comes with appetite.
+Not mild hunger, a constant background noise that chemically nags and nags until I innevitably give in.
+Ozempic keeps that in check… but only just at the current dose (0.25mg which is the lowest dose available).
 
-I can plan this properly now:
+So going into this, I will likely request to increase it.
+Not to suppress hunger into the ground…
+Just to bring it back to something manageable while I adjust to:
 
-- Clear out the junk food 🗑️  
-- Stock food that actually fits the plan 🥩  
-- Remove friction instead of relying on willpower  
+- higher protein (Satiating, makes food filling)
+- higher fibre (The best way to achieve volume eating)
+- lower calories (1600kcal daily)
 
-No heroics. Just fewer bad options.
-
----
-
-## 🍽️ Eating Windows
-
-I’ll be running roughly 1600 kcal once I start.
-So now I taper down into it instead of falling off a cliff on day one.
-
-Structure will be simple:
-
-- 1 eating window per day  
-- 2 to 3 course meals  
-- Built to fit within calories, not guessed at  
-
-Same foods most days. Boring is fine. Predictable is better.
-The goal is not variety. The goal is compliance.
+This isn’t a shortcut.
+It’s removing friction at the exact point where failure usually happens.
 
 ---
 
-## 🚶 Movement... One Step at a Time
+## 🧱 This Phase Is About Control
 
-Walking is mandatory.
-So I’m tying it to something that doesn’t feel like a chore.
-I’ll be continuing the Lord of the Rings Conqueror Challenges.
-I’ve just about finished The Shire.
-Next step... somewhere further down the road to Mordor.
+Not weight / Not speed / Not results
+Control.
 
-Doesn’t matter which one I pick. What matters is that I keep moving.
-Each day is just a little closer.
-
-Right now I’m still rebuilding from injury. Walking properly is still something I’m earning back.
-That’s fine. It counts all the same.
+Because if I can’t control intake now… nothing else matters in 70 days.
 
 ---
 
-## 🛌 Sleep... The Reset Button
+## 🍽️ Structure Over Guesswork
 
-Sleep fixes more than people want to admit.
-So I’ll be tightening that up too:
+* ~1600 kcal target (not negotiable)
+* One eating window
+* 2–3 structured meals
+* Same foods, repeated
 
-- Earlier nights 🌙  
-- Reasonable mornings ☀️  
-- Less drifting  
-
-Nothing extreme. Just consistent.
+No variation for the sake of it.
+No “what do I feel like?”
+Just execution.
 
 ---
 
-## 📋 The Actual Plan
+## 🚶 Movement Is Already Decided
 
-This phase is not the transformation.
-This is the setup.
+Walking isn’t optional.
+So I don’t treat it like one.
 
-- Lower intake gradually  
-- Clean the environment  
-- Lock in walking  
-- Fix sleep  
+- Daily movement
+- Gradually reintroducing load (rucking)
+- Tied to something I’ll actually complete
 
-So when April 29th hits, I’m not negotiating with myself.
-I’m already in motion.
+It’s not about pushing hard.
+It’s about not stopping.
+
+---
+
+## 🛌 Sleep Stops The Drift
+
+Sleep is where everything either holds… or falls apart.
+
+So:
+- earlier nights
+- consistent wake time
+- no random schedule
+
+Nothing extreme. Just predictable.
+
+---
+
+## 📋 What This Phase Actually Is
+
+This isn’t the transformation.
+It’s the removal of excuses.
+
+- appetite → managed
+- food → controlled
+- movement → locked in
+- sleep → stabilised
+
+So when April 29th hits…
+There’s nothing left to figure out.
 
 ---
 
 ## 🎯 The Point
 
-Last time, 70 days felt long.
-But I remember how it ended.
-Different energy. Different mindset. Different person.
-That’s what I’m aiming at again.
-Not just lighter.
-Sharper.
+Last time worked because I followed the system.
+This time will work the same way…
+just with fewer gaps.
 
 ---
 
 ## ⚙️ Now
 
-Right now... I’m just getting back under 20 stone.
-Everything else comes after.
+Right now I’m not trying to force progress.
+I’m making sure that when I start…
+> **there’s nothing left that can derail me**
