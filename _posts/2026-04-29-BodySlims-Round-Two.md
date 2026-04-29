@@ -37,9 +37,9 @@ Not the focus right now.
 
 ## What This Run Looks Like
 
-- **1700 kcal limit**
+- **1700 kcal limit** (not a target)
 - **OMAD at night** (after the pool)
-- Daily walking
+- Daily walking (1 hour straight)
 - Pool routine is back in
 
 ---
@@ -66,7 +66,7 @@ Last time was Ger’s program.
 
 This time:
 - It’s Carla’s version  
-- All the content is new  
+- All the content is new to me, well a variant of what I consumed before.
 
 Same system... different delivery.
 
@@ -75,22 +75,22 @@ Same system... different delivery.
 ## What I Forgot
 
 The mental side.
-
 That’s the system.
 
 Not the food.  
 Not the walking.
-
+Altthough I had stopped taking the action.
 > The thinking.
+This is the WHY I stropped taking the action.
 
 ---
 
 ## Day 1
 
 Took Jasper out for the hour.
-
 Simple.  
 No overthinking.
+We walked to the Dog Park
 
 ---
 
@@ -102,7 +102,6 @@ The app handles everything this time:
 - progression  
 
 So I don’t need to build anything.
-
 > I just need to follow it.
 
 ---
@@ -121,7 +120,6 @@ That’s it.
 ## Reality
 
 I don’t need a new plan.
-
 I need to **use the one I already have**.
 
 ---
@@ -129,5 +127,4 @@ I need to **use the one I already have**.
 ## Closing
 
 No chasing motivation.
-
 > Just show up and run the system.
