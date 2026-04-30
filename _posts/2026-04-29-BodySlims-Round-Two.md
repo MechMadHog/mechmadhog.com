@@ -67,6 +67,9 @@ Last time was Ger’s program.
 This time:
 - It’s Carla’s version  
 - All the content is new to me, well a variant of what I consumed before.
+- it's the airplane method once again, right now is lift off...
+
+> Lift off is the hard part, once I'm in the air; all that I will need to do is glide.
 
 Same system... different delivery.
 
