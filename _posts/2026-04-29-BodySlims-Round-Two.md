@@ -77,14 +77,22 @@ Same system... different delivery.
 
 ## What I Forgot
 
-The mental side.
+The **mental side**.
 That’s the system.
 
-Not the food.  
-Not the walking.
-Altthough I had stopped taking the action.
+Not just the food.  
+Not just the walking.
+Although I had stopped taking the action.
+
 > The thinking.
-This is the WHY I stropped taking the action.
+is the WHY behind when I stopped taking the action.
+All three must be in sync with each other for this to work.
+
+Knowlewdge isn't the problem, and its not about the amount of exercise,
+If it was, I could do it all in a row.
+It's the consistency of doing a little bit every day...
+
+and most importantly I need to be willing to do it everyday, with know exception; and that requires the **mental side**.
 
 ---
 
