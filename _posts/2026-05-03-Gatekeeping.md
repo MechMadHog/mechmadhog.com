@@ -8,10 +8,6 @@ image: /assets/images/blog/GateKeeping.png
 featured: false
 ---
 
-Here’s your version, merged with your original edge kept intact… tightened where needed, but not softened:
-
----
-
 # Gatekeeping, Posers, and the Collapse of Subculture
 
 I’m a millennial.
