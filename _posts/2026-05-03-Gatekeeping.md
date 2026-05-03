@@ -128,12 +128,17 @@ I used to **love** them because they stood for something.
 Now it feels like the image is louder than the substance...
 which is exactly the problem.
 
-Tom Morello is one of the biggest posers, and the sad part is he used to be the costume that he is wearing.
+Tom Morello is one of the biggest posers, and the sad part is... 
+That he used to be the costume that he is wearing.
+
 RATM were always left-wing, but since the goalposts have gotten moved everything that they stood for now sits in the middle.
 Once that layer was ignored, All that is left is branding.
 
 They are still using their message but it is all out of context,
 and in some ways being used to support the very things they stood against in the first place.
+
+I still **love** the music and probably always will,
+but I am ashamed of what they have become.
 
 ---
 
