@@ -10,112 +10,94 @@ featured: false
 
 # Gatekeeping, Posers, and the Collapse of Subculture
 
-I’m a millennial.
+I’m a millennial... which means I grew up in a time where **being a poser actually mattered**.
+Something that goes unaddressed today.
 
-Which means I grew up in a time where **being a poser actually mattered**.
-
-Something that goes unaddressed…
-
-When I was younger, you got bullied for being fake.
-
-“The hip” used to gatekeep music and political subcultures.
-And you had to prove you were actually part of it.
+When I was younger, you would have gotten bullied for being fake.
+“The hip” used to gatekeep music and political subcultures and you had to prove you were actually part of it.
 
 ---
 
 ## When Authenticity Was Enforced
 
 Subcultures used to have boundaries.
-
-Music scenes… political movements… even niche hobbies.
-
+Music scenes, political movements, even niche hobbies.
 If you said you were part of something, there was an implicit expectation:
-
 > you could back it up.
 
-* You knew the bands
-* You understood the ideas
-* You could explain *why* you were there
+- You knew the bands
+- You understood the ideas
+- You could explain *why- you were there
 
-If you couldn’t… you got called out.
-
-Not always politely. But it worked.
+If you couldn’t... you got called out.
+and not always politely. But it worked.
 
 > Gatekeeping wasn’t about exclusion.
 > It was about coherence.
+
+Everything was vetted, everything was legit.
 
 ---
 
 ## The Shift
 
 Somewhere along the line, that mechanism disappeared.
-
-What replaced it wasn’t broader access… it was **surface-level participation**.
+What replaced it wasn’t broader access... it was **surface-level participation**.
 
 Later millennials and everything after leaned into this fully.
-
 People didn’t need to understand something to belong to it anymore.
 They just needed to **look like they did**.
 
-* aesthetics replaced substance
-* signalling replaced understanding
-* identity replaced participation
+- aesthetics replaced substance
+- signalling replaced understanding
+- identity replaced participation
 
 The result:
-
-> subcultures stopped being cultures… and became costumes.
+> subcultures stopped being cultures... and became costumes.
 
 ---
 
 ## The Rise of Performance
 
 Once appearance becomes the entry requirement, everything downstream changes.
-
-This is where the “poser” stops being called out… and starts becoming the norm.
+This is where the “poser” stops being called out... and starts becoming the norm.
 
 People become obsessed with how they are perceived.
-But can’t articulate why they like what they like… or believe what they believe.
-
-Belief becomes secondary.
-Consistency becomes optional.
+But can’t articulate why they like what they like... or believe what they believe.
+Belief becomes secondary and consistency becomes optional.
 
 What matters is:
-
-* how it looks
-* how it’s received
-* how it positions you socially
+- how it looks
+- how it’s received
+- how it positions you socially
 
 This creates a feedback loop:
-
 > the audience becomes the reference point.
 
-Not truth.
-Not principles.
-Not even personal taste.
-
+Not truth, not out of principle, or not even personal taste.
 Just perception.
+
+I don't really understand the point of this.
 
 ---
 
 ## Hollowing Out the Structure
 
 When enough people engage at that level, the structure itself starts to degrade.
-
 Subcultures rely on shared standards.
-Remove those… and the identity still exists, but the meaning doesn’t.
+Remove those... and the identity still exists, but the meaning doesn’t.
 
 Punk got co-opted.
 Goth got co-opted.
 
 Same pattern every time.
 
-They move in… adopt the aesthetic… strip out the substance… then move on.
+They move in... adopt the aesthetic... strip out the substance... then move on.
 
 Like locusts.
-
-* Punk without rebellion
-* Goth without introspection
-* Activism without risk
+- Punk without rebellion
+- Goth without introspection
+- Activism without risk
 
 They keep the *form*.
 They lose the *function*.
@@ -124,53 +106,51 @@ They lose the *function*.
 
 ## Example: Symbol Without Substance
 
-Take Nirvana.
+Lets use Nirvana as the big example:
 
 ![Image](https://images.openai.com/static-rsc-4/DdeHFtPZUL5nNkNCI40Mm5mvPvhe-UftkzECHwmX2gwT3JUt9svVP5U2JC6aZ_lke11PvPKAJAA92cgjDpaAgzTnKKWO4szl1t0WAhfJgZHiffE1jPoCTvgwEEKPzfLuR4y5LkIk1PpZ96TmknY6nG3u09k1cV8CaQtbn7lZHuVwPFb0qwXMdeSmrbGPq056?purpose=fullsize)
 
 The logo is everywhere.
 
-People say they love it… but don’t listen to the band.
-
+People say they love it... but in a lot of cases have never even listen to the band.
 So what do they actually love?
 
 Not the music.
 Not the message.
-
 > The perceived “coolness”.
 
 It’s become so normal that the detachment is unconscious.
 The denial is built in.
 
 The same thing applies to Rage Against the Machine.
+I used to **love** them because they stood for something.
 
-I used to like them because they stood for something.
-
-Now it feels like the image is louder than the substance…
+Now it feels like the image is louder than the substance...
 which is exactly the problem.
 
-Once that layer is ignored, what’s left is branding.
+Tom Morello is one of the biggest posers, and the sad part is he used to be the costume that he is wearing.
+RATM were always left-wing, but since the goalposts have gotten moved everything that they stood for now sits in the middle.
+Once that layer was ignored, All that is left is branding.
+
+They are still using their message but it is all out of context,
+and in some ways being used to support the very things they stood against in the first place.
 
 ---
 
-## Tattoos Became Surface-Level
+## Tattoos Have Become Surface-Level
 
 Tattoos used to mean something.
-
-They were permanent… so the decision carried weight:
-
-* identity
-* experience
-* commitment
+They were permanent... 
+so the decision carried weight:
+- identity
+- experience
+- commitment
 
 Now the same symbols are picked like menu items.
-
-Fandom… subculture… ideology…
-
+Fandom... subculture... ideology...
 Flattened into aesthetics.
 
-What used to be **representation** is now **flash art**.
-
+What used to be **representation*- is now **flash art**.
 You don’t need to stand over it.
 You just need to like how it looks.
 
@@ -179,18 +159,16 @@ You just need to like how it looks.
 ## What Was Gatekeeping Actually Doing?
 
 Gatekeeping gets framed as elitism.
-
-Sometimes it was. But that’s not the full picture.
+Sometimes it was. 
+But that’s not the full picture.
 
 At its core, it acted as:
-
-* **quality control**
-* **cultural memory**
-* **meaning preservation**
+- **quality control**
+- **cultural memory**
+- **meaning preservation**
 
 It forced a basic question:
-
-> *Do you actually care about this… or just how it looks?*
+> *Do you actually care about this... or just how it looks?*
 
 Without that question, everything trends toward dilution.
 
@@ -199,14 +177,11 @@ Without that question, everything trends toward dilution.
 ## The Trade-Off
 
 Removing gatekeeping feels inclusive.
-
 In practice, it trades:
+- **depth → accessibility**
+- **meaning → scale**
 
-* **depth → accessibility**
-* **meaning → scale**
-
-That’s fine… if the goal is reach.
-
+That’s fine... if the goal is reach.
 But if the goal is **maintaining something distinct**, it doesn’t hold.
 
 ---
@@ -214,20 +189,15 @@ But if the goal is **maintaining something distinct**, it doesn’t hold.
 ## The Personal Angle
 
 I built a battle jacket.
-
-Not as fashion… but as a filter.
+Not as fashion... but as a filter.
 
 I had to choose what went on it.
-
-Every band… every patch… had to justify its place.
-
+Every band... every patch... had to justify its place.
 It was a reflection of what I actually listened to.
 What I actually liked.
 
 That only works if the symbols still mean something.
-
-If everything becomes interchangeable…
-
+If everything becomes interchangeable...
 then the whole exercise is pointless.
 
 ---
@@ -235,14 +205,11 @@ then the whole exercise is pointless.
 ## The Question
 
 If a subculture no longer requires:
-
-* understanding
-* commitment
-* or even interest
+- understanding
+- commitment
+- or even interest
 
 What is it, exactly?
-
 And more importantly:
-
-> Is it still worth identifying with… or is it just another costume?
+> Is it still worth identifying with... or is it just another costume?
 
