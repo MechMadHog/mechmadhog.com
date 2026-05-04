@@ -11,30 +11,23 @@ image: /assets/images/blog/The-Wizards-Feet.png
 # Seeing the Wizard’s Feet
 
 There’s a moment in *The Wizard of Oz* that stuck with me.
-Not the colours. Not the songs. Not even the reveal.
-It’s the feet.
+It wasn't all of the colours, the songs or even the reveal at the end.
+It was the wizards feet.
 
-The ordinary, very human feet of the wizard, sticking out behind the curtain.
-
-Once you see them, you can’t unsee them.
-And that’s strangely… comforting.
+Ordinary, human feet of the wizard, sticking out behind the curtain.
+Once you see them, you can’t unsee them and that’s a strangely… comforting thought.
 
 ---
 
 ## The comfort of seeing the mechanism 🧵🔧
 
 Most people prefer the front of the tapestry.
-The clean picture. The version that makes sense at a glance.
+The clean picture, the version that makes sense at a glance.
 I’ve always been more interested in the back.
 
-The knots.  
-The crossed threads.  
-The awkward joins holding everything together.
-
+The knots, crossed threads; awkward joins holding everything together.
 How something is built matters more to me than how it looks finished.
-
-It doesn’t ruin the magic.  
-It just changes what the magic is.
+It doesn’t ruin the magic, it just changes what the magic is.
 
 ---
 
