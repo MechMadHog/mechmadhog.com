@@ -66,25 +66,21 @@ You just see it for what it is.
 
 ## Looking behind the curtain 🎭🧠
 
-Seeing the wizard’s feet isn’t cynicism.
-It’s just noticing how things are put together.
-Once you see the strings and seams, you stop expecting things to be perfect.
+Seeing the wizard’s feet isn’t cynicism; It’s just noticing how things are put together, how everything interacts. Once you can see the strings and seams, you stop expecting things to be perfect, the mess jut becomes more obvious.
 
 You start preferring things to be honest.
-Messy honesty is easier to deal with than polished illusion.
+Messy honesty is easier to deal with than the polished illusion.
 
 ---
 
 ## Why this is comforting 🛠️😌
 
 When you accept that:
-
 - rules are often arbitrary  
 - fairness is sometimes performative  
 - meaning is put together, not discovered  
 
 things get quieter.
-
 You stop waiting for everything to make sense.
 You stop needing it to.
 
@@ -94,5 +90,4 @@ You stop needing it to.
 
 Some people want the illusion to hold.
 I want to see how it’s built.
-Not to tear it down,
-just to understand it.
+Not to tear it down, just to understand it.
