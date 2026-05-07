@@ -66,17 +66,17 @@ This phase isn’t about comfort food, it’s about efficiency.
 So the fatty meat got swapped out for leaner protein sources that actually support the goal.
 
 The Staple:  
-* Tuna
+- Tuna
 
 Tuna is the foundation protein source and the rest is rotated so that it's a little different everyday.
 
 Current rotation:
-* Sardines
-* Mackerel
-* Herring
-* Haddock
-* Wild Pink Salmon
-* Skinless Chicken Thigh
+- Sardines
+- Mackerel
+- Herring
+- Haddock
+- Wild Pink Salmon
+- Skinless Chicken Thigh
 
 And then the secret weapon:
 > 4 diced anchovies.
@@ -112,19 +112,19 @@ Not just for nutrition...
 but texture & satiety.
 
 Current additions:
-* Pickles
-* Grated carrot
-* Pickled Granny Smith apples
-* Mushrooms
-* Peas
-* Not fibre but I like to add 30g of Protein Cheese (**77kcal** but worth it)
+- Pickles
+- Grated carrot
+- Pickled Granny Smith apples
+- Mushrooms
+- Peas
+- Not fibre but I like to add 30g of Protein Cheese (**77kcal*- but worth it)
 
 Still experimenting with this side of things.
 The goal is finding combinations that:
-* addding volume
-* making it crunchy
-* increase fullness
-* keep calories low
+- addding volume
+- making it crunchy
+- increase fullness
+- keep calories low
 
 SMASH Bowls will probably evolve over the next few weeks.
 But the core idea is staying.
@@ -148,9 +148,9 @@ The more I eat like this...
 the more obvious it becomes why ultra-processed food is such a trap.
 
 Most of it is:
-* high calorie
-* low satiety
-* easy to overeat
+- high calorie
+- low satiety
+- easy to overeat
 
 Basically the exact opposite of what you want during fat loss.
 
