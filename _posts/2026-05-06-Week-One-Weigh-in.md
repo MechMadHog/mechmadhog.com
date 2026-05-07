@@ -172,7 +172,7 @@ The structure is simple.
 
 The plan is to add:
 > 1kg per week
-Provided I can handle it seamlessly without issues.
+Provided that I can handle it seamlessly without issues.
 
 And by the time I get home my t-shirts are absolutely soaked.
 But that’s the whole point; more output, conditioning and adaptation.
@@ -186,11 +186,8 @@ Walking is actually sustainable and that matters more than intensity.
 The biggest thing I’ve learned this week is this:
 > satiety is the entire game.
 
-If you can stay full consistently...
-everything becomes easier.
-
-And high protein low calorie meals genuinely solve that problem better than almost anything else I’ve tried.
+If you can stay full consistently, then everything will become easier.
+High protein, low calorie meals genuinely solve that problem better than almost anything else I’ve tried.
 
 The funny part is:
-the SMASH Bowl tastes better to me than a lot of the junk food that helped get me overweight in the first place.
-That’s probably the biggest surprise of week one.
+the SMASH Bowl tastes better to me than a lot of the junk food that helped get me overweight in the first place. That’s probably the biggest surprise of week one.
