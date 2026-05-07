@@ -175,15 +175,9 @@ The plan is to add:
 Provided I can handle it seamlessly without issues.
 
 And by the time I get home my t-shirts are absolutely soaked.
-But that’s kind of the point.
-
-More output.
-More conditioning.
-More adaptation.
-
+But that’s the whole point; more output, conditioning and adaptation.
 And unlike random cardio sessions...
-walking is sustainable.
-That matters more than intensity.
+Walking is actually sustainable and that matters more than intensity.
 
 ---
 
