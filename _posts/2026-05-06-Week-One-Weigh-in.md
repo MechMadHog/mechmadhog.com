@@ -89,27 +89,21 @@ It turns a “diet meal” into something you actually look forward to eating.
 
 ## The Sauce & Spice Discovery
 
-Another thing I underestimated:
+Another thing that most people underestimate:
 > sauces matter more than the base.
 
 The bowl can completely change personality depending on what gets added.
 Zero kcal sauces have become a cheat code during this phase.
 
-Different spices.
-Different sauce combinations.
-Different fish.
+Different spices, different sauce combinations and swapping out the type of  fish that gets added daily.
 
-Completely different meal experience without changing calories much at all.
-That’s important psychologically.
-Because repetition kills diets faster than hunger does.
+It becomes a completely different meal everytime I experience it without changing the calories all that much at all, and that’s important psychologically. Because repetition kills diets faster than hunger does.
 
 ---
 
 ## Fibre, Crunch & Volume
 
-The extra ingredients are doing a lot of work too.
-Not just for nutrition...
-but texture & satiety.
+The extra ingredients are doing a lot of work too, and not just for nutrition... they add texture & satiety to each and every bite.
 
 Current additions:
 - Pickles
@@ -119,12 +113,11 @@ Current additions:
 - Peas
 - Not fibre but I like to add 30g of Protein Cheese (**77kcal*- but worth it)
 
-Still experimenting with this side of things.
-The goal is finding combinations that:
-- addding volume
-- making it crunchy
-- increase fullness
-- keep calories low
+Still experimenting with this side of things; the goal is finding combinations that:
+- add volume
+- making it crunchier
+- increase how full I get to feel
+- while most importantly keep the calories low
 
 SMASH Bowls will probably evolve over the next few weeks.
 But the core idea is staying.
