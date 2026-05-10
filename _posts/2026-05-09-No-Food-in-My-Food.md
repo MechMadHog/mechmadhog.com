@@ -81,7 +81,7 @@ No wonder I am so overweight; I have been overconsuming energy, when that isn't 
 
 ---
 
-The average overweight diet is usually:
+The average diet that usually results in being overweight consists of:
 - high calorie
 - low satiety
 - moderate-to-low protein relative to calories
@@ -92,6 +92,8 @@ Which explains why things like crisps never made me full.
 They’re energy dense, without actually satisfying what the body is looking for.
 
 ---
+
+## My Final Thoughts:
 
 What surprised me most wasn’t even the protein itself.
 It was the satiety.
