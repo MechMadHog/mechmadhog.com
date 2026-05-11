@@ -8,6 +8,8 @@ image: /assets/images/blog/NoFood-in-MyFood.png
 featured: false
 ---
 
+## Turns of there is a difference between food & energy
+
 > “There is no food in your food.”
 > — Joan Cusack in Say Anything...
 >
