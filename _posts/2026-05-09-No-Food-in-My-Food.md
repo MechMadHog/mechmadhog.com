@@ -74,14 +74,14 @@ I was hungry for food:
 My body already has excess stored energy, that’s literally what body fat is.
 I haven't been storing it for aesthetic purposes, to intensionally look out of shape.
 
-For years I had been eating highly processed, moderate-to-low protein, low satiety foods and wondering why I was always hungry.
+I have been eating highly processed for years, food that  contains low-to-moderate protein at best, all low satiety foods and still wondering why I was always hungry.
 
-Now the logic seems absurd in hindsight.
-No wonder I am so overweight; I have been overconsuming energy, when that isn't what I was low on.
+It just seems absurd in hindsight, no wonder I am so overweight; 
+I have been overconsuming energy, when that isn't what I was low on.
 
 ---
 
-The average diet that usually results in being overweight consists of:
+The average diet that results in being overweight usually consists of:
 - high calorie
 - low satiety
 - moderate-to-low protein relative to calories
@@ -96,9 +96,7 @@ They’re energy dense, without actually satisfying what the body is looking for
 ## My Final Thoughts:
 
 What surprised me most wasn’t even the protein itself.
-It was the satiety.
-
-I originally thought I needed:
+It was the satiety, I originally thought I needed:
 > volume.
 
 But volume was just a tool I was using to chase fullness.
@@ -115,6 +113,4 @@ And satiety came from:
 
 That’s why the SMASH bowls started working:
 Pollock, Tuna, Anchovies, Mushrooms, Fermented apples, Jalapeños, Pickled slaw and Low Kcal Sauce / Spice mixes.
-
-The bowls stopped feeling like “diet food.”
-They started feeling like actual meals.
+The bowls stopped feeling like “diet food” and started feeling like actual meals.
