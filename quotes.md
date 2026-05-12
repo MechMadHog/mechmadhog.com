@@ -27,28 +27,24 @@ description: "A digital wisdom wall of favourite quotes from films, books, TV, g
 
   <div class="quotes-grid" id="quotesGrid">
     {% for quote in quotes %}
-      <article class="quote-card" data-author="{{ quote.author | slugify }}">
-        <blockquote>
-          <p>“{{ quote.text }}”</p>
-        </blockquote>
+      <article class="quote-card" data-author="{{ item.author | slugify }}">
+        <blockquote>{{ item.quote }}</blockquote>
 
-        <footer class="quote-meta">
-          <strong>{{ quote.author }}</strong>
-          {% if quote.source %}
-            <span>{{ quote.source }}</span>
-          {% endif %}
-        </footer>
+        <div class="quote-meta">
+          <span class="quote-author">{{ item.author }}</span>
+          <span class="quote-source">{{ item.source }}</span>
+        </div>
 
-        {% if quote.note %}
-          <p class="quote-note">{{ quote.note }}</p>
+        {% if item.note %}
+          <p class="quote-note">{{ item.note }}</p>
         {% endif %}
 
-        {% if quote.tags %}
-          <ul class="quote-tags" aria-label="Quote tags">
-            {% for tag in quote.tags %}
-              <li>{{ tag }}</li>
+        {% if item.tags %}
+          <div class="quote-tags">
+            {% for tag in item.tags %}
+              <span>{{ tag }}</span>
             {% endfor %}
-          </ul>
+          </div>
         {% endif %}
       </article>
     {% endfor %}
