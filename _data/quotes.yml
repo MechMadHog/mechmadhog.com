@@ -9,23 +9,27 @@
 # - tags: lower-case keywords/categories
 # - note: optional personal context
 
-- text: "There is no food in your food."
-  author: "Joan Cusack"
-  source: "Say Anything..."
+- text: "For certain you have to be lost to find the places that can’t be found. Else wise, everyone would know where it was."
+  author: "Hector Barbossa"
+  source: "Pirates of the Caribbean: At World's End"
   source_type: "film"
-  tags: [film, food, satire, culture]
-  note: "Useful shorthand for processed food pretending to be actual food."
+  tags: [film, journey, mystery, philosophy]
+  note: "It fits that type of Lewis Carroll logic, that tries to make sense out of nonsense."
 
-- text: "Do, or do not. There is no try."
-  author: "Yoda"
-  source: "Star Wars: The Empire Strikes Back"
-  source_type: "film"
-  tags: [film, discipline, action, mindset]
-  note: "A classic. Annoyingly useful."
+- text: "Sometimes science is more art than science morty. A lot of people don't get that."
+  author: "Rick Sanchez"
+  source: "Rick and Morty"
+  source_type: "tv"
+  tags: [tv, science, experimentation, creativity]
+  note: "The important part is the idea that discovery is messy and intuitive, not purely procedural."
 
-- text: "The impediment to action advances action. What stands in the way becomes the way."
-  author: "Marcus Aurelius"
-  source: "Meditations"
-  source_type: "book"
-  tags: [book, stoicism, discipline, friction]
-  note: "Good fit for friction vs discipline thinking."
+- text: "Your boos mean nothing to me. I've seen what makes you cheer."
+  author: "Rick Sanchez"
+  source: "Rick and Morty"
+  source_type: "tv"
+  tags: [tv, cynicism, society, independence]
+  note: "One of the best lines about separating popularity from value."
+
+
+
+
