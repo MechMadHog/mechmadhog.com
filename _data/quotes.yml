@@ -1,0 +1,31 @@
+# Favourite quotes for /quotes/
+# Keep entries short enough to scan. Tags are useful for SEO, accessibility, and future filtering.
+#
+# Fields:
+# - text: the quote itself
+# - author: person credited with the quote, character, or speaker
+# - source: film, book, TV show, album, speech, etc.
+# - source_type: film | book | tv | music | game | person | other
+# - tags: lower-case keywords/categories
+# - note: optional personal context
+
+- text: "There is no food in your food."
+  author: "Joan Cusack"
+  source: "Say Anything..."
+  source_type: "film"
+  tags: [film, food, satire, culture]
+  note: "Useful shorthand for processed food pretending to be actual food."
+
+- text: "Do, or do not. There is no try."
+  author: "Yoda"
+  source: "Star Wars: The Empire Strikes Back"
+  source_type: "film"
+  tags: [film, discipline, action, mindset]
+  note: "A classic. Annoyingly useful."
+
+- text: "The impediment to action advances action. What stands in the way becomes the way."
+  author: "Marcus Aurelius"
+  source: "Meditations"
+  source_type: "book"
+  tags: [book, stoicism, discipline, friction]
+  note: "Good fit for friction vs discipline thinking."

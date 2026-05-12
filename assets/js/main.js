@@ -178,3 +178,64 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
+
+/* Quotes filter + show more */
+document.addEventListener("DOMContentLoaded", () => {
+  const grid = document.getElementById("quotesGrid");
+  if (!grid) return;
+
+  const cards = Array.from(grid.querySelectorAll(".quote-card"));
+  const filters = Array.from(document.querySelectorAll(".quote-filter"));
+  const showMoreBtn = document.getElementById("quotesShowMore");
+  const pageSize = 12;
+  let activeAuthor = "all";
+  let visibleCount = pageSize;
+
+  function matchingCards() {
+    return cards.filter((card) => activeAuthor === "all" || card.dataset.author === activeAuthor);
+  }
+
+  function renderQuotes() {
+    const matches = matchingCards();
+
+    cards.forEach((card) => {
+      card.hidden = true;
+    });
+
+    matches.slice(0, visibleCount).forEach((card) => {
+      card.hidden = false;
+    });
+
+    if (showMoreBtn) {
+      showMoreBtn.hidden = matches.length <= visibleCount;
+    }
+  }
+
+  filters.forEach((filter) => {
+    filter.addEventListener("click", () => {
+      activeAuthor = filter.dataset.author || "all";
+      visibleCount = pageSize;
+
+      filters.forEach((btn) => {
+        const selected = btn === filter;
+        btn.classList.toggle("is-active", selected);
+        btn.setAttribute("aria-pressed", String(selected));
+      });
+
+      renderQuotes();
+    });
+  });
+
+  if (showMoreBtn) {
+    showMoreBtn.addEventListener("click", () => {
+      visibleCount += pageSize;
+      renderQuotes();
+    });
+  }
+
+  filters.forEach((btn) => {
+    btn.setAttribute("aria-pressed", String(btn.classList.contains("is-active")));
+  });
+
+  renderQuotes();
+});
