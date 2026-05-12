@@ -1626,22 +1626,116 @@ article.py-5 .container {
 
 
 /* quotes / wisdom wall */
-.quotes-page {
-  max-width: 900px;
+.panel--quotes {
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 3rem 1.25rem;
+  padding: 3rem 1.25rem 4rem;
 }
 
-.quotes-page h1 {
+.quotes-header {
+  margin-bottom: 2rem;
+}
+
+.quotes-header h1 {
   margin-bottom: 0.75rem;
 }
 
-.quotes-page > p {
-  max-width: 720px;
-  margin-bottom: 2rem;
+.quotes-intro {
+  max-width: 880px;
+  margin: 0 auto;
   line-height: 1.6;
 }
 
+/* author filters */
+.quote-controls-wrapper {
+  margin: 2.5rem 0 3rem;
+  text-align: center;
+}
+
+.quote-controls-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 0 0 1.25rem;
+
+  font-family: var(--font-head);
+  font-size: 0.85rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+
+  color: var(--accent);
+  text-shadow: var(--glow);
+}
+
+.quote-controls-title::before,
+.quote-controls-title::after {
+  content: "";
+  width: 140px;
+  max-width: 18vw;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(122, 60, 255, 0.85),
+    transparent
+  );
+}
+
+.quote-controls {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.85rem;
+}
+
+.quote-filter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  border: 1px solid var(--accent);
+
+  background: rgba(122, 60, 255, 0.08);
+  color: var(--accent);
+
+  font-size: 0.78rem;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+
+  cursor: pointer;
+
+  box-shadow:
+    0 0 10px rgba(122, 60, 255, 0.2),
+    inset 0 0 8px rgba(122, 60, 255, 0.08);
+
+  transition:
+    transform 0.15s ease,
+    background 0.15s ease,
+    color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.quote-filter:hover {
+  transform: translateY(-1px);
+  background: rgba(122, 60, 255, 0.16);
+  box-shadow:
+    0 0 16px rgba(122, 60, 255, 0.45),
+    0 0 36px rgba(122, 60, 255, 0.16);
+}
+
+.quote-filter.is-active {
+  background: var(--accent);
+  color: #05050a;
+  box-shadow:
+    0 0 18px rgba(122, 60, 255, 0.65),
+    0 0 44px rgba(122, 60, 255, 0.3);
+}
+
+/* quote cards */
 .quotes-grid {
   display: flex;
   flex-direction: column;
@@ -1649,7 +1743,7 @@ article.py-5 .container {
 }
 
 .quote-card {
-  padding: 2rem;
+  padding: clamp(1.5rem, 3vw, 2.25rem);
   border: 1px solid rgba(0, 255, 170, 0.35);
   border-radius: 18px;
   background: rgba(10, 14, 22, 0.88);
@@ -1663,30 +1757,31 @@ article.py-5 .container {
   text-align: justify;
   text-align-last: center;
   font-style: italic;
-  font-size: 1.25rem;
+  font-size: clamp(1.15rem, 2vw, 1.45rem);
   line-height: 1.65;
 }
 
 .quote-card blockquote::before,
 .quote-card blockquote::after {
-  font-weight: 800;
+  font-weight: 900;
   font-style: normal;
-  color: #00ffaa;
+  color: var(--accent-alt);
+  text-shadow: 0 0 12px var(--accent-alt-glow);
 }
 
 .quote-card blockquote::before {
-  content: "“";
+  content: "“ ";
 }
 
 .quote-card blockquote::after {
-  content: "”";
+  content: " ”";
 }
 
 .quote-meta {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 0.5rem;
+  gap: 0.65rem;
   margin-top: 1rem;
   font-size: 0.95rem;
 }
@@ -1697,16 +1792,16 @@ article.py-5 .container {
 }
 
 .quote-author::after {
-  content: " • ";
-  opacity: 0.65;
-  margin-left: 0.5rem;
+  content: "•";
+  color: var(--accent-alt);
+  margin-left: 0.65rem;
 }
 
 .quote-note {
   margin: 1rem auto 0;
   max-width: 650px;
   text-align: center;
-  opacity: 0.8;
+  color: var(--text-dim);
   line-height: 1.5;
 }
 
@@ -1721,14 +1816,59 @@ article.py-5 .container {
 .quote-tags span {
   display: inline-flex;
   align-items: center;
-  border: 1px solid #00ffaa;
+  border: 1px solid var(--accent-alt);
   border-radius: 999px;
   padding: 0.35rem 0.75rem;
   font-size: 0.8rem;
   line-height: 1;
-  color: #00ffaa;
-  background: rgba(0, 255, 170, 0.06);
-  box-shadow: 0 0 10px rgba(0, 255, 170, 0.18);
+  color: var(--accent-alt);
+  background: rgba(0, 255, 156, 0.06);
+  box-shadow: 0 0 10px rgba(0, 255, 156, 0.18);
   text-transform: uppercase;
   letter-spacing: 0.04em;
+}
+
+/* show more */
+.quotes-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.quote-show-more {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0.6rem 1.2rem;
+  border-radius: 999px;
+  border: 1px solid var(--accent-alt);
+
+  background: rgba(0, 255, 156, 0.08);
+  color: var(--accent-alt);
+
+  font-size: 0.8rem;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+
+  cursor: pointer;
+  box-shadow: 0 0 12px rgba(0, 255, 156, 0.22);
+}
+
+.quote-show-more:hover {
+  background: var(--accent-alt);
+  color: #05050a;
+}
+
+/* mobile */
+@media (max-width: 640px) {
+  .quote-controls-title::before,
+  .quote-controls-title::after {
+    width: 60px;
+  }
+
+  .quote-card blockquote {
+    text-align: center;
+  }
 }

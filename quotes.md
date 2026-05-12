@@ -20,22 +20,26 @@ description: "A digital wisdom wall of favourite quotes from films, books, TV, g
   {% assign quotes = site.data.quotes %}
   {% assign authors = site.data.quotes | map: "author" | uniq | sort %}
 
-  <div class="quote-controls" aria-label="Quote filters">
-    <button
-      class="quote-filter is-active"
-      type="button"
-      data-author="all">
-      All
-    </button>
-
-    {% for author in authors %}
+  <div class="quote-controls-wrapper">
+    <p class="quote-controls-title">
+      Filter By Author
+    </p>
+    <div class="quote-controls" aria-label="Quote filters">
       <button
-        class="quote-filter"
+        class="quote-filter is-active"
         type="button"
-        data-author="{{ author | slugify }}">
-        {{ author }}
+        data-author="all">
+        All
       </button>
-    {% endfor %}
+      {% for author in authors %}
+        <button
+          class="quote-filter"
+          type="button"
+          data-author="{{ author | slugify }}">
+          {{ author }}
+        </button>
+      {% endfor %}
+    </div>
   </div>
 
   <div class="quotes-grid" id="quotesGrid">
@@ -126,7 +130,7 @@ document.addEventListener("DOMContentLoaded", () => {
       showMoreButton.style.display = "inline-flex";
     }
   }
-  
+
   filters.forEach(button => {
     button.addEventListener("click", () => {
       filters.forEach(btn =>
