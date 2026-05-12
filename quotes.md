@@ -16,7 +16,7 @@ description: "A digital wisdom wall of favourite quotes from films, books, TV, g
   </header>
 
   {% assign quotes = site.data.quotes %}
-  {% assign authors = quotes | map: "author" | uniq | sort %}
+  {% assign authors = site.data.quotes | map: "author" | uniq | sort %}
 
   <div class="quote-controls" aria-label="Quote filters">
     <button class="quote-filter is-active" type="button" data-author="all">All</button>
@@ -28,7 +28,7 @@ description: "A digital wisdom wall of favourite quotes from films, books, TV, g
   <div class="quotes-grid" id="quotesGrid">
     {% for quote in quotes %}
       <article class="quote-card" data-author="{{ item.author | slugify }}">
-        <blockquote>{{ item.quote }}</blockquote>
+        <blockquote>{{ item.text }}</blockquote>
 
         <div class="quote-meta">
           <span class="quote-author">{{ item.author }}</span>
