@@ -14,39 +14,41 @@
   source: "Pirates of the Caribbean: At World's End"
   source_type: "film"
   tags: [film, journey, mystery, philosophy]
-  note: "It fits that type of Lewis Carroll logic, that tries to make sense out of nonsense."
+  note: "I like the idea that some things can only be found indirectly. Straight lines don't discover much."
 
 - text: "Sometimes science is more art than science morty. A lot of people don't get that."
   author: "Rick Sanchez"
   source: "Rick and Morty"
   source_type: "tv"
   tags: [tv, science, experimentation, creativity]
-  note: "The important part is the idea that discovery is messy and intuitive, not purely procedural."
+  note: "Most real discovery is messy. Trial, error, intuition, pattern recognition... then people pretend it was obvious afterwards."
 
 - text: "Your boos mean nothing to me. I've seen what makes you cheer."
   author: "Rick Sanchez"
   source: "Rick and Morty"
   source_type: "tv"
   tags: [tv, cynicism, society, independence]
-  note: "One of the best lines about separating popularity from value."
+  note: "Popularity has very little to do with quality. Crowds validate nonsense constantly."
 
 - text: "None of you seem to understand... I’m not locked in here with you, you’re locked in here with me."
   author: "Rorschach"
   source: "Watchmen"
   source_type: "comic"
   tags: [comic, intimidation, defiance]
-  note: "One of the coldest reversals of power ever written."
+  note: "I like the complete reversal of power in this line. The fear changes direction instantly."
 
 - text: "That is why you fail." 
   author: "Yoda" 
   source: "The Empire Strike Back" 
   source_type: "film" 
   tags: [film, discipline, failure, wisdom] 
-  note: "Short, simple, and completely unforgiving."
+  note: "No cushioning. No motivational speech. Just the actual reason."
 
-- text: "People don't change. They just get more of who they really are." 
+- text: "I'm almost always eventually right." 
   author: "Greg House" 
-  source: "House M.D." 
+  source: "House M.D. - S2 E24 - No Reason" 
   source_type: "tv" 
   tags: [tv, identity, psychology, human-nature] 
-  note: "Very in line with your consistency themes."
+  note: "Being socially accepted and being correct are very often completely separate things."
+
+
