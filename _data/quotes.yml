@@ -40,8 +40,8 @@
 - text: "That is why you fail." 
   author: "Yoda" 
   source: "The Empire Strike Back" 
-  source_type: "movie" 
-  tags: [movie, discipline, failure, wisdom] 
+  source_type: "film" 
+  tags: [film, discipline, failure, wisdom] 
   note: "Short, simple, and completely unforgiving."
 
 - text: "People don't change. They just get more of who they really are." 
