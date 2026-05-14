@@ -9,6 +9,20 @@
 # - tags: lower-case keywords/categories
 # - note: optional personal context
 
+- text: "If you're going to do something wrong, do it right."
+  author: "Zoe Morgan"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, competence, pragmatism, humour]
+  note: "If something is worth doing at all, half-assing it makes no sense."
+
+- text: "No matter how bad things look, they look better awake than asleep."
+  author: "Jack Starks"
+  source: "The Jacket"
+  source_type: "film"
+  tags: [film, reality, suffering, awareness]
+  note: "I’d rather deal with reality directly than hide from it."
+
 - text: "For certain you have to be lost to find the places that can’t be found. Else wise, everyone would know where it was."
   author: "Hector Barbossa"
   source: "Pirates of the Caribbean: At World's End"
@@ -30,6 +44,13 @@
   tags: [tv, cynicism, society, independence]
   note: "Popularity has very little to do with quality. Crowds validate nonsense constantly."
 
+- text: "Following's not really my style."
+  author: "Tony Stark"
+  source: "Iron Man"
+  source_type: "film"
+  tags: [film, independence, individuality, confidence]
+  note: "Blind conformity has never made much sense to me."
+
 - text: "None of you seem to understand... I’m not locked in here with you, you’re locked in here with me."
   author: "Rorschach"
   source: "Watchmen"
@@ -42,7 +63,7 @@
   source: "The Empire Strike Back" 
   source_type: "film" 
   tags: [film, discipline, failure, wisdom] 
-  note: "No cushioning. No motivational speech. Just the actual reason."
+  note: "Directlyt after Luke says that he doesn't believe it... Yoda delivers the truth; no cushioning, no motivational speech... Just the actual reason."
 
 - text: "I'm almost always eventually right." 
   author: "Greg House" 
@@ -50,5 +71,12 @@
   source_type: "tv" 
   tags: [tv, identity, psychology, human-nature] 
   note: "Being socially accepted and being correct are very often completely separate things."
+
+- text: "I sometimes envy the blissful ignorance of those less well-versed in their... shit."
+  author: "Harry Hart"
+  source: "Kingsman: The Secret Service"
+  source_type: "film"
+  tags: [film, intelligence, awareness, cynicism]
+  note: "The more patterns you notice, the harder it becomes to ignore how broken things are."
 
 
