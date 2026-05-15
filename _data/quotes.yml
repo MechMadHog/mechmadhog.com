@@ -79,4 +79,58 @@
   tags: [film, intelligence, awareness, cynicism]
   note: "The more patterns you notice, the harder it becomes to ignore how broken things are."
 
-  
+- text: "When you do things right, people won't be sure you've done anything at all."
+  author: "God Entity"
+  source: "Futurama"
+  source_type: "tv"
+  tags: [tv, systems, subtlety, competence]
+  note: "The best systems usually operate quietly in the background."
+
+- text: "Eh. I don't need a Robin."
+  author: "Evil Morty"
+  source: "Rick and Morty"
+  source_type: "tv"
+  tags: [tv, independence, detachment, intelligence]
+  note: "This was in response to Rick saying they could be like Batman and Robin. A lot of the time the people who want to be incharge, just want the status while arte not all that capable."
+
+- text: "It's funny. When you look at someone through rose-colored glasses, all the red flags just look like flags."
+  author: "Wanda Pierce"
+  source: "BoJack Horseman"
+  source_type: "tv"
+  tags: [tv, psychology, relationships, perception]
+  note: "People often ignore reality to protect the version they want to believe."
+
+- text: "A person is smart. People are dumb, panicky dangerous animals and you know it."
+  author: "Agent K"
+  source: "Men in Black"
+  source_type: "film"
+  tags: [film, society, psychology, crowds]
+  note: "Individuals can think clearly. Crowds usually can't."
+
+- text: "You know, it’s funny... when you look at the world rationally, the world looks rational back."
+  author: "Dr. Manhattan"
+  source: "Watchmen"
+  source_type: "film"
+  tags: [film, logic, perspective, philosophy]
+  note: "The way you frame reality changes what you notice in it."
+
+- text: "It's not that I'm lazy, it's that I just don't care."
+  author: "Peter Gibbons"
+  source: "Office Space"
+  source_type: "film"
+  tags: [film, work, cynicism, burnout]
+  note: "A lot of modern work feels disconnected from anything meaningful."
+
+- text: "I don't want to live in a world where someone else makes the world a better place better than we do."
+  author: "Gavin Belson"
+  source: "Silicon Valley"
+  source_type: "tv"
+  tags: [tv, ego, tech, competition]
+  note: "A perfect example of ego disguising itself as idealism."
+
+- text: "I don't hate people. I just feel better when they're not around."
+  author: "Sam Loudermilk"
+  source: "Loudermilk"
+  source_type: "tv"
+  tags: [tv, isolation, cynicism, personality]
+  note: "Most of the time solitude is just quieter and simpler."
