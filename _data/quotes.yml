@@ -16,6 +16,27 @@
   tags: [tv, competence, pragmatism, humour]
   note: "If something is worth doing at all, half-assing it makes no sense."
 
+- text: "Your father lived by a philosophy... a principle really. He believed that if you could do good things for other people, you had a moral obligation to do those things. That's what's at stake here. Not choice. Responsibility."
+  author: "Uncle Ben"
+  source: "The Amazing Spider-Man"
+  source_type: "film"
+  tags: [film, responsibility, morality, superheroes]
+  note: "I mostly like this because they went through an entire detour just to avoid saying the actual line."
+
+- text: "It's not that I'm lazy, it's that I just don't care."
+  author: "Peter Gibbons"
+  source: "Office Space"
+  source_type: "film"
+  tags: [film, work, cynicism, burnout]
+  note: "A lot of modern work feels disconnected from anything meaningful."
+
+- text: "Your boos mean nothing to me. I've seen what makes you cheer."
+  author: "Rick Sanchez"
+  source: "Rick and Morty"
+  source_type: "tv"
+  tags: [tv, cynicism, society, independence]
+  note: "Popularity has very little to do with quality. Crowds validate nonsense constantly."
+
 - text: "No matter how bad things look, they look better awake than asleep."
   author: "Jack Starks"
   source: "The Jacket"
@@ -36,13 +57,6 @@
   source_type: "tv"
   tags: [tv, science, experimentation, creativity]
   note: "Most real discovery is messy. Trial, error, intuition, pattern recognition... then people pretend it was obvious afterwards."
-
-- text: "Your boos mean nothing to me. I've seen what makes you cheer."
-  author: "Rick Sanchez"
-  source: "Rick and Morty"
-  source_type: "tv"
-  tags: [tv, cynicism, society, independence]
-  note: "Popularity has very little to do with quality. Crowds validate nonsense constantly."
 
 - text: "Following's not really my style."
   author: "Tony Stark"
@@ -114,13 +128,6 @@
   tags: [film, logic, perspective, philosophy]
   note: "The way you frame reality changes what you notice in it."
 
-- text: "It's not that I'm lazy, it's that I just don't care."
-  author: "Peter Gibbons"
-  source: "Office Space"
-  source_type: "film"
-  tags: [film, work, cynicism, burnout]
-  note: "A lot of modern work feels disconnected from anything meaningful."
-
 - text: "I don't want to live in a world where someone else makes the world a better place better than we do."
   author: "Gavin Belson"
   source: "Silicon Valley"
@@ -134,3 +141,11 @@
   source_type: "tv"
   tags: [tv, isolation, cynicism, personality]
   note: "Most of the time solitude is just quieter and simpler."
+
+- text: "No, Venti is Twenty. Large is Large, in fact Tall is Large and Grande is spannish for Large. Venti is the only one that doesn't mean Large, it's also the only one that's Italian... Congratulations, you’re stupid in three languages."
+  author: "Danny Donahue"
+  source: "Role Models"
+  source_type: "film"
+  tags: [film, sarcasm, humour, cynicism]
+  note: "Dry sarcasm always lands better than loud comedy."
+
