@@ -373,3 +373,100 @@
   tags: [tv, politics, satire, cynicism]
   note: "Ridiculous bipartisan slander. Very Simpsons."
 
+- text: "The problem with trying to be the bad guy... is that there’s always someone worse."
+  author: "John Reese"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, morality, power, violence]
+  note: "No matter how ruthless someone thinks they are, there’s usually a deeper level below them."
+
+- text: "FBI and the army before that, they helped keep me on the straight and narrow path. But now... without that it's all... I'm drowning in deep water and I don't know whether I'm swimming through the surface or the bottom."
+  author: "Benjamin Poindexter"
+  source: "Daredevil"
+  source_type: "tv"
+  tags: [tv, psychology, identity, instability]
+  note: "Good description of losing all sense of orientation mentally while still trying to function."
+
+- text: "Feelings are overrated."
+  author: "Sameen Shaw"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, emotion, psychology, detachment]
+  note: "Emotion without control tends to distort decision-making."
+
+- text: "I’m good at what I do. That’s all."
+  author: "Sameen Shaw"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, competence, identity, pragmatism]
+  note: "Competence matters more than performance."
+
+- text: "I was built for this."
+  author: "Sameen Shaw"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, competence, purpose, identity]
+  note: "Some people function better in chaos than normality."
+
+- text: "No one ever listens to me. I talk and talk and no one listens."
+  author: "Marvin"
+  source: "The Hitchhiker's Guide to the Galaxy"
+  source_type: "book"
+  tags: [book, isolation, cynicism, humour]
+  note: "Dry pessimism becomes weirdly relatable after enough repetition."
+
+- text: "Choice is an illusion created between those with power and those without."
+  author: "Merovingian"
+  source: "The Matrix Reloaded"
+  source_type: "film"
+  tags: [film, power, systems, control]
+  note: "A lot of freedom exists inside invisible constraints."
+
+- text: "The price of certainty is the loss of curiosity."
+  author: "Richard Feynman"
+  source: "Quote"
+  source_type: "other"
+  tags: [other, intelligence, curiosity, philosophy]
+  note: "People stop learning the moment they become emotionally attached to certainty."
+
+- text: "You know what's cooler than magic? Mathematics."
+  author: "Derek Knows"
+  source: "The Lost Room"
+  source_type: "tv"
+  tags: [tv, intelligence, systems, logic]
+  note: "Patterns and systems are more interesting than spectacle."
+
+- text: "The enemy of a good plan is the dream of a perfect plan."
+  author: "Carl von Clausewitz"
+  source: "Quote"
+  source_type: "other"
+  tags: [other, planning, pragmatism, systems]
+  note: "Perfectionism wastes more time than imperfection."
+
+- text: "You can never know everything, but you can know enough."
+  author: "Isaac Asimov"
+  source: "Quote"
+  source_type: "other"
+  tags: [other, knowledge, intelligence, realism]
+  note: "Useful understanding matters more than total understanding."
+
+- text: "The more complicated the order, the easier it is to manipulate."
+  author: "Grand Admiral Thrawn"
+  source: "Star Wars Rebels"
+  source_type: "tv"
+  tags: [tv, strategy, systems, intelligence]
+  note: "Complex systems create blind spots."
+
+- text: "That's a good question. I haven't known the answer for a long time. I know who I was. I was the guy who left her behind. You know why? Because I thought she deserved someone better than me. I thought she deserved someone who would look after her, be there for her. I thought she deserved someone like you."
+  author: "John Reese"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, regret, identity, relationships]
+  note: "One of the few moments Reese fully drops the armour and admits how low his opinion of himself really is."
+
+- text: "Who am I supposed to be now? Now that she's gone. When you find that one person who connects you to the world, you become someone different... someone better. When that person is taken from you, what do you become then?"
+  author: "John Reese"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, loss, identity, connection]
+  note: "Good description of how certain people become part of your orientation system... and how disorientating it is when they're gone."
