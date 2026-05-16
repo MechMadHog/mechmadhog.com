@@ -334,3 +334,31 @@ Maybe some Joker quotes, Heath and Jack
   source_type: "film"
   tags: [film, society, cynicism, humour]
   note: "Human behaviour becomes very predictable once patterns emerge."
+
+- text: "Men don't follow titles. They follow courage."
+  author: "William Wallace"
+  source: "Braveheart"
+  source_type: "film"
+  tags: [film, leadership, courage, respect]
+  note: "People respect conviction more than status."
+
+- text: "The Almighty tells me he can get me out of this mess, but he's pretty sure you're fucked."
+  author: "Stephen"
+  source: "Braveheart"
+  source_type: "film"
+  tags: [film, humour, chaos, fatalism]
+  note: "Completely ridiculous delivery... which is why it works."
+
+- text: "If we do not trust one another, we are already defeated."
+  author: "King Arthur"
+  source: "First Knight"
+  source_type: "film"
+  tags: [film, trust, unity, leadership]
+  note: "Every functioning system eventually depends on trust."
+
+- text: "The only way to live without fear is to face what you fear."
+  author: "Lancelot"
+  source: "First Knight"
+  source_type: "film"
+  tags: [film, fear, courage, growth]
+  note: "Avoidance usually strengthens fear instead of reducing it."
