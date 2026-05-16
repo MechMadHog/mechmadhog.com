@@ -149,3 +149,9 @@
   tags: [film, sarcasm, humour, cynicism]
   note: "Dry sarcasm always lands better than loud comedy."
 
+- text: "A woman who can be bought isn't worth having."
+  author: "Wilson Fisk"
+  source: "Daredevil"
+  source_type: "tv"
+  tags: [tv, relationships, values, power]
+  note: "Transactional loyalty usually collapses the moment a better offer appears."
