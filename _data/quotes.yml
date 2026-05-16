@@ -155,3 +155,182 @@
   source_type: "tv"
   tags: [tv, relationships, values, power]
   note: "Transactional loyalty usually collapses the moment a better offer appears."
+
+- text: "I'd rather have a bottle in front of me than a frontal lobotomy."
+  author: "Tom Waits"
+  source: "Quote"
+  source_type: "other"
+  tags: [other, wordplay, humour, cynicism]
+  note: "Stupidly clever wordplay always sticks in my head."
+
+- text: "Nobody panics when things go according to plan. Even if the plan is horrifying."
+  author: "The Joker"
+  source: "The Dark Knight"
+  source_type: "film"
+  tags: [film, society, psychology, systems]
+  note: "People normalize dysfunction surprisingly quickly."
+
+- text: "If you're good at something, never do it for free."
+  author: "The Joker"
+  source: "The Dark Knight"
+  source_type: "film"
+  tags: [film, value, competence, pragmatism]
+  note: "Competence has value whether people like admitting it or not."
+
+- text: "Oooh, ahhh, that's how it always starts. Then later there's running and screaming."
+  author: "Dr. Ian Malcolm"
+  source: "Jurassic Park"
+  source_type: "film"
+  tags: [film, sarcasm, chaos, foresight]
+  note: "Most bad ideas look impressive right before they collapse."
+
+
+I need a note for this 
+
+Rewrite all of the notes to match my tone and, how I look at the world, why would I want an image
+
+here are some more actual favourites
+
+This quote is an actual relatable one
+
+
+quotes.yml
+File
+Based on my current list suggest 10 more from different characters I like.
+
+examples:
+
+Evil Morty - "Eh... I don't need a Robin"
+From when Rick offered for them to be like Batman and Robin
+
+- text: "A woman who can be bought isn't worth having."
+  author: "Wilson Fisk"
+  source: "Daredevil"
+  source_type: "tv"
+  tags: [tv, relationships, values, power]
+  note: "Transactional loyalty usually collapses the moment a better offer appears."
+
+more like that one
+
+- text: "When I was a boy..."
+  author: "Wilson Fisk"
+  source: "Daredevil"
+  source_type: "tv"
+  tags: [tv, trauma, power, identity]
+  note: "Fisk always sounds like someone trying to rationalize the monster he became."
+
+- text: "This city doesn't deserve a better tomorrow. It deserves to drown in its filth."
+  author: "Wilson Fisk"
+  source: "Daredevil"
+  source_type: "tv"
+  tags: [tv, society, cynicism, power]
+  note: "Extreme... but built on seeing corruption everywhere you look."
+
+- text: "I am the ill intent."
+  author: "Wilson Fisk"
+  source: "Daredevil"
+  source_type: "tv"
+  tags: [tv, intimidation, identity, power]
+  note: "One of the coldest ways possible to announce yourself as the threat."
+
+- text: "A man is judged by the quality of his enemies."
+  author: "Wilson Fisk"
+  source: "Daredevil"
+  source_type: "tv"
+  tags: [tv, reputation, conflict, philosophy]
+  note: "Opposition says a lot about what you threaten."
+
+- text: "Sometimes the law is unable to deliver justice."
+  author: "Wilson Fisk"
+  source: "Daredevil"
+  source_type: "tv"
+  tags: [tv, justice, systems, morality]
+  note: "A lot of people lose faith in systems long before they admit it publicly."
+
+I meant the same quality of line not more wilson fisk
+
+- text: "I'd rather have a bottle in front of me than a frontal lobotomy."
+  author: "Tom Waits"
+  source: "Quote"
+  source_type: "other"
+  tags: [other, wordplay, humour, cynicism]
+  note: "Stupidly clever wordplay always sticks in my head."
+
+Maybe some Joker quotes, Heath and Jack
+
+- text: "Madness, as you know, is like gravity. All it takes is a little push."
+  author: "The Joker"
+  source: "The Dark Knight"
+  source_type: "film"
+  tags: [film, chaos, psychology, society]
+  note: "Most people are far less stable than they pretend to be."
+
+- text: "Introduce a little anarchy. Upset the established order, and everything becomes chaos."
+  author: "The Joker"
+  source: "The Dark Knight"
+  source_type: "film"
+  tags: [film, chaos, systems, society]
+  note: "A lot of systems are more fragile than they appear."
+
+- text: "Nobody panics when things go according to plan. Even if the plan is horrifying."
+  author: "The Joker"
+  source: "The Dark Knight"
+  source_type: "film"
+  tags: [film, society, psychology, systems]
+  note: "People normalize dysfunction surprisingly quickly."
+
+- text: "This town needs an enema!"
+  author: "The Joker"
+  source: "Batman"
+  source_type: "film"
+  tags: [film, chaos, society, humour]
+  note: "Completely ridiculous line... but weirdly memorable."
+
+- text: "Wait'll they get a load of me."
+  author: "The Joker"
+  source: "Batman"
+  source_type: "film"
+  tags: [film, identity, chaos, theatrics]
+  note: "Jack Nicholson Joker worked because he enjoyed the performance of being the villain."
+
+- text: "Have you ever danced with the devil in the pale moonlight?"
+  author: "The Joker"
+  source: "Batman"
+  source_type: "film"
+  tags: [film, mystery, menace, identity]
+  note: "Half the power of this line is how strangely specific and theatrical it is."
+
+- text: "You see, in their last moments, people show you who they really are."
+  author: "The Joker"
+  source: "The Dark Knight"
+  source_type: "film"
+  tags: [film, psychology, truth, human-nature]
+  note: "Pressure reveals more about people than comfort ever does."
+
+- text: "If you're good at something, never do it for free."
+  author: "The Joker"
+  source: "The Dark Knight"
+  source_type: "film"
+  tags: [film, value, competence, pragmatism]
+  note: "Competence has value whether people like admitting it or not."
+
+- text: "Yeah, yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should."
+  author: "Dr. Ian Malcolm"
+  source: "Jurassic Park"
+  source_type: "film"
+  tags: [film, science, ethics, systems]
+  note: "Intelligence without restraint creates a lot of modern problems."
+
+- text: "We buy things we don't need with money we don't have to impress people we don't like."
+  author: "Tyler Durden"
+  source: "Fight Club"
+  source_type: "film"
+  tags: [film, consumerism, society, cynicism]
+  note: "Still one of the cleanest summaries of modern culture."
+
+- text: "Never underestimate the predictability of stupidity."
+  author: "The Bullet Dodger"
+  source: "Snatch"
+  source_type: "film"
+  tags: [film, society, cynicism, humour]
+  note: "Human behaviour becomes very predictable once patterns emerge."
