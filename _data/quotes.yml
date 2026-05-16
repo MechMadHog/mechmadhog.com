@@ -268,4 +268,108 @@
   tags: [film, acceptance, defiance, resolve]
   note: "Sometimes the only real option is accepting the consequences and moving forward anyway."
 
-  
+- text: "You are technically correct. The best kind of correct."
+  author: "Bureaucrat #1"
+  source: "Futurama"
+  source_type: "tv"
+  tags: [tv, logic, bureaucracy, humour]
+  note: "One of the funniest observations about systems and rules."
+
+- text: "I choose to believe what I was programmed to believe."
+  author: "Bender"
+  source: "Futurama"
+  source_type: "tv"
+  tags: [tv, determinism, humour, identity]
+  note: "Funny because humans do the exact same thing."
+
+- text: "I've done everything the Bible says... even the stuff that contradicts the other stuff!"
+  author: "Ned Flanders"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, religion, contradiction, humour]
+  note: "Quietly savage writing."
+
+- text: "I don't mind if you pee in the shower, but only if you're taking a shower."
+  author: "Marge Simpson"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, domesticity, absurdity, humour]
+  note: "Very grounded Simpsons energy."
+
+- text: "Worst day of your life so far."
+  author: "Homer Simpson"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, pessimism, humour, perspective]
+  note: "One of the most unexpectedly philosophical Simpsons lines."
+
+- text: "Oh, everything looks bad if you remember it."
+  author: "Homer Simpson"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, memory, denial, humour]
+  note: "Disturbingly applicable to politics."
+
+- text: "You know, a town with money is a little like the mule with a spinning wheel. Nobody knows how he got it, and danged if he knows how to use it."
+  author: "Lyle Lanley"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, corruption, society, manipulation]
+  note: "Monorail is one of the sharpest satire episodes they ever made."
+
+- text: "Am I so out of touch? No. It's the children who are wrong."
+  author: "Principal Skinner"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, denial, ego, generational]
+  note: "Became a meme for a reason."
+
+- text: "You'll have to speak up, I'm wearing a towel."
+  author: "Homer Simpson"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, absurdity, stupidity, humour]
+  note: "Pure nonsensical Simpsons dialogue, well it's completely used out of context."
+
+- text: "Alcohol... the cause of, and solution to, all of life's problems."
+  author: "Homer Simpson"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, addiction, irony, humour]
+  note: "Probably the most quoted Homer line ever."
+
+- text: "A noble spirit embiggens the smallest man."
+  author: "Jebediah Springfield"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, wisdom, language, character, legacy]
+  note: "Followed by the immortal cromulent exchange."
+
+- text: "I don't know why? It's a perfectly cromulent word."
+  author: "Miss Hoover"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, language, absurdity, humour]
+  note: "One of the greatest fake-word jokes ever created."
+
+- text: "Just because I don't care doesn't mean I don't understand."
+  author: "Homer Simpson"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, apathy, intelligence, humour]
+  note: "Accidentally insightful."
+
+- text: "We can't bust heads like we used to, but we have our ways. One trick is to tell them stories that don't go anywhere... like the time I caught the ferry over to Shelbyville."
+  author: "Abe Simpson"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, aging, storytelling, absurdity]
+  note: "Peak rambling old-man energy."
+
+- text: "You can't keep the democrats out of the White House forever. And when they get in, I'm back on the streets... with all my criminal buddies."
+  author: "Sideshow Bob"
+  source: "The Simpsons"
+  source_type: "tv"
+  tags: [tv, politics, satire, cynicism]
+  note: "Ridiculous bipartisan slander. Very Simpsons."
+
