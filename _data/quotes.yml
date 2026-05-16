@@ -233,3 +233,24 @@
   tags: [film, humour, awe, technology]
   note: "Dry understatement always lands better than forced reactions. Feels like a joke about overcompensation."
 
+- text: "The concept of waiting bewilders me. There are always deadlines. There are always ticking clocks."
+  author: "Mr. Robot"
+  source: "Mr. Robot"
+  source_type: "tv"
+  tags: [tv, time, urgency, systems]
+  note: "Most people waste huge portions of their life waiting to feel ready."
+
+- text: "This whole time I thought changing the world was something you did... an act you performed, something you fought for. I don't know if that's true anymore."
+  author: "Mr. Robot"
+  source: "Mr. Robot"
+  source_type: "tv"
+  tags: [tv, systems, change, identity]
+  note: "Changing systems is usually messier and less heroic than people imagine."
+
+- text: "People who get violent... they usually have something to hide."
+  author: "Mr. Robot"
+  source: "Mr. Robot"
+  source_type: "tv"
+  tags: [tv, psychology, violence, truth]
+  note: "Aggression is often insecurity wearing armour."
+
