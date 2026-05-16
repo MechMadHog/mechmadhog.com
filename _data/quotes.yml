@@ -218,3 +218,18 @@
   source_type: "film"
   tags: [film, humour, chaos, fatalism]
   note: "Completely ridiculous delivery... which is why it works."
+
+- text: "Bio-digital jazz, man."
+  author: "Kevin Flynn"
+  source: "TRON"
+  source_type: "film"
+  tags: [film, technology, chaos, humour]
+  note: "I like when technology is framed as something experimental and weird instead of sterile."
+
+- text: "Now that's a big door."
+  author: "Kevin Flynn"
+  source: "TRON: Legacy"
+  source_type: "film"
+  tags: [film, humour, awe, technology]
+  note: "Dry understatement always lands better than forced reactions. Feels like a joke about overcompensation."
+
