@@ -561,3 +561,52 @@
   source_type: "tv"
   tags: [tv, freedom, identity, detachment]
   note: "POI constantly blurred the line between freedom and isolation."
+
+- text: "I learned everyone is alone. But if someone can make you feel less alone... maybe that's enough."
+  author: "Root"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, loneliness, connection, meaning]
+  note: "Connection matters more when isolation feels like the default state."
+
+- text: "People choose the paths that grant them the greatest rewards for the least amount of effort."
+  author: "Greg House"
+  source: "House M.D."
+  source_type: "tv"
+  tags: [tv, psychology, human-nature, realism]
+  note: "Most behaviour becomes predictable once incentives are visible."
+
+- text: "I think that if you do something wrong long enough, you forget what right is supposed to look like."
+  author: "Dexter Morgan"
+  source: "Dexter"
+  source_type: "tv"
+  tags: [tv, morality, psychology, identity]
+  note: "Repeated behaviour eventually rewires normality."
+
+- text: "The problem with humanity is that we value sentiment over survival."
+  author: "Sylar"
+  source: "Heroes"
+  source_type: "tv"
+  tags: [tv, survival, psychology, cynicism]
+  note: "Cold logic often clashes with emotional morality."
+
+- text: "You can never know anyone completely. That's a good thing."
+  author: "Patrick Jane"
+  source: "The Mentalist"
+  source_type: "tv"
+  tags: [tv, psychology, mystery, identity]
+  note: "People are more layered than the roles they perform."
+
+- text: "People don't really change. They just find something to hide behind."
+  author: "Cal Lightman"
+  source: "Lie to Me"
+  source_type: "tv"
+  tags: [tv, identity, deception, psychology]
+  note: "A lot of personality is just managed presentation."
+
+- text: "Sometimes the only way to stay sane is to go a little crazy."
+  author: "Daria Morgendorffer"
+  source: "Daria"
+  source_type: "tv"
+  tags: [tv, sanity, society, sarcasm]
+  note: "Trying to function in broken systems eventually affects people."
