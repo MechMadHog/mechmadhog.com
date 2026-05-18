@@ -471,3 +471,51 @@
   tags: [tv, loss, identity, connection]
   note: "Good description of how certain people become part of your orientation system... and how disorientating it is when they're gone."
  
+- text: "Reality is that which, when you stop believing in it, doesn't go away."
+  author: "Philip K. Dick"
+  source: "Quote"
+  source_type: "other"
+  tags: [other, reality, truth, philosophy]
+  note: "Reality does not care about preference."
+
+- text: "Hell is other people."
+  author: "Jean-Paul Sartre"
+  source: "No Exit"
+  source_type: "book"
+  tags: [book, society, psychology, isolation]
+  note: "Other people complicate almost everything."
+
+- text: "No snowflake in an avalanche ever feels responsible."
+  author: "Voltaire"
+  source: "Quote"
+  source_type: "other"
+  tags: [other, society, responsibility, systems]
+  note: "Collective stupidity spreads accountability thin."
+
+- text: "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."
+  author: "Albert Camus"
+  source: "Quote"
+  source_type: "other"
+  tags: [other, freedom, rebellion, identity]
+  note: "Authenticity itself can become resistance."
+
+- text: "Real loss is only possible when you love something more than you love yourself."
+  author: "Sean Maguire"
+  source: "Good Will Hunting"
+  source_type: "film"
+  tags: [film, love, loss, psychology]
+  note: "Attachment creates vulnerability whether people admit it or not."
+
+- text: "Closure is a made-up thing by Steven Spielberg to sell movie tickets."
+  author: "Bojack Horseman"
+  source: "BoJack Horseman"
+  source_type: "tv"
+  tags: [tv, realism, psychology, life]
+  note: "Most things end messily rather than cleanly."
+
+- text: "You know how they say it's been a pleasure? It hasn't."
+  author: "Russell Edgington"
+  source: "True Blood"
+  source_type: "tv"
+  tags: [tv, sarcasm, humour, hostility]
+  note: "Dry hostility is usually funnier than fake politeness."
