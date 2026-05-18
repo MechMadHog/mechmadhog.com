@@ -519,3 +519,45 @@
   source_type: "tv"
   tags: [tv, sarcasm, humour, hostility]
   note: "Dry hostility is usually funnier than fake politeness."
+
+- text: "You know, this is why I don't like talking to people. They always want something."
+  author: "Sameen Shaw"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, isolation, sarcasm, psychology]
+  note: "A lot of social interaction feels transactional."
+
+- text: "You'd be surprised what people tell you when they think you're dead."
+  author: "Patrick Jane"
+  source: "The Mentalist"
+  source_type: "tv"
+  tags: [tv, psychology, observation, manipulation]
+  note: "People reveal themselves once consequences disappear."
+
+- text: "The danger in believing things is that you stop thinking."
+  author: "Cal Lightman"
+  source: "Lie to Me"
+  source_type: "tv"
+  tags: [tv, psychology, truth, skepticism]
+  note: "Certainty tends to shut curiosity off."
+
+- text: "Nothing's ever anybody's fault."
+  author: "Daria Morgendorffer"
+  source: "Daria"
+  source_type: "tv"
+  tags: [tv, society, sarcasm, responsibility]
+  note: "Modern culture is very good at diffusing accountability."
+
+- text: "I don't break the rules... I bend them a little."
+  author: "Neal Caffrey"
+  source: "White Collar"
+  source_type: "tv"
+  tags: [tv, intelligence, systems, pragmatism]
+  note: "Most systems require flexibility to function properly."
+
+- text: "You know what I like about being dead? The freedom."
+  author: "Root"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, freedom, identity, detachment]
+  note: "POI constantly blurred the line between freedom and isolation."
