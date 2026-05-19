@@ -610,3 +610,17 @@
   source_type: "tv"
   tags: [tv, sanity, society, sarcasm]
   note: "Trying to function in broken systems eventually affects people."
+
+- text: "The truth is hard. The truth is ugly. But the truth is still the truth."
+  author: "Cal Lightman"
+  source: "Lie to Me"
+  source_type: "tv"
+  tags: [tv, truth, psychology, realism]
+  note: "Reality doesn't become false just because it's uncomfortable."
+
+- text: "Most people don't really want the truth. They want reassurance."
+  author: "Patrick Jane"
+  source: "The Mentalist"
+  source_type: "tv"
+  tags: [tv, truth, psychology, society]
+  note: "People often prefer comfort over accuracy."
