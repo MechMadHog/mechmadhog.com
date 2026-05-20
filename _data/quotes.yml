@@ -687,3 +687,31 @@
   source_type: "tv"
   tags: [tv, identity, masking, psychology]
   note: "Maintaining personas long enough starts distorting identity."
+
+- text: "Most people don't want freedom. They want structure."
+  author: "Elliot Alderson"
+  source: "Mr. Robot"
+  source_type: "tv"
+  tags: [tv, systems, society, control]
+  note: "Freedom comes with responsibility most people avoid."
+
+- text: "You can tell what people are afraid of by what they try hardest to control."
+  author: "Cal Lightman"
+  source: "Lie to Me"
+  source_type: "tv"
+  tags: [tv, fear, psychology, observation]
+  note: "Control is often disguised insecurity."
+
+- text: "The more complicated people make things, the easier they are to manipulate."
+  author: "Harold Finch"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, systems, manipulation, intelligence]
+  note: "Complexity creates cover for bad behaviour."
+
+- text: "Once you see the pattern, you can't unsee it."
+  author: "Sylar"
+  source: "Heroes"
+  source_type: "tv"
+  tags: [tv, patterns, intelligence, psychology]
+  note: "Pattern recognition permanently changes perception."
