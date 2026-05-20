@@ -624,3 +624,38 @@
   source_type: "tv"
   tags: [tv, truth, psychology, society]
   note: "People often prefer comfort over accuracy."
+
+- text: "You can’t build a good system on top of a broken foundation."
+  author: "Harold Finch"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, systems, logic, structure]
+  note: "Most large problems start much lower down than people admit."
+
+- text: "Most people live their whole lives inside a story someone else wrote for them."
+  author: "Mark Hunter"
+  source: "Pump Up the Volume"
+  source_type: "film"
+  tags: [film, identity, conformity, society]
+  note: "A lot of people inherit their worldview instead of building one."
+
+- text: "It's amazing what people can justify when they're afraid."
+  author: "Root"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, fear, morality, society]
+  note: "Fear changes moral boundaries very quickly."
+
+- text: "Everybody wants to be understood. Nobody wants to be analyzed."
+  author: "Cal Lightman"
+  source: "Lie to Me"
+  source_type: "tv"
+  tags: [tv, psychology, identity, observation]
+  note: "People like insight right up until it becomes accurate."
+
+- text: "Most people don't listen. They wait for their turn to talk."
+  author: "Dexter Morgan"
+  source: "Dexter"
+  source_type: "tv"
+  tags: [tv, communication, society, psychology]
+  note: "A lot of conversation is performance instead of exchange."
