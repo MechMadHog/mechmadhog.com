@@ -659,3 +659,31 @@
   source_type: "tv"
   tags: [tv, communication, society, psychology]
   note: "A lot of conversation is performance instead of exchange."
+
+- text: "You know what the real problem is? People."
+  author: "Greg House"
+  source: "House M.D."
+  source_type: "tv"
+  tags: [tv, society, cynicism, psychology]
+  note: "Most systems work better in theory than in practice because people are involved."
+
+- text: "Everybody wants a happy ending. Right up until the moment they have to sacrifice something for it."
+  author: "John Reese"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, sacrifice, realism, morality]
+  note: "People like outcomes more than process."
+
+- text: "The scary thing about people is that they can get used to anything."
+  author: "Root"
+  source: "Person of Interest"
+  source_type: "tv"
+  tags: [tv, society, psychology, adaptation]
+  note: "Humans normalize dysfunction incredibly fast."
+
+- text: "You spend enough time pretending and eventually you forget which parts were real."
+  author: "Dexter Morgan"
+  source: "Dexter"
+  source_type: "tv"
+  tags: [tv, identity, masking, psychology]
+  note: "Maintaining personas long enough starts distorting identity."
