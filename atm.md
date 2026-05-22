@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Now
-permalink: /now/
+title: At The Moment
+permalink: /atm/
 description: "What I'm focused on right now."
 ---
 

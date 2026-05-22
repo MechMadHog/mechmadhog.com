@@ -5,13 +5,43 @@
     </a>
 
     <!-- Desktop nav (your styling) -->
-    <ul class="nav-links hidden md:flex">
-      <li><a href="{{ '/' | relative_url }}">Home</a></li>
-      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-      <li><a href="{{ '/art/' | relative_url }}">Art</a></li>
-      <li><a href="{{ '/now/' | relative_url }}">Now</a></li>
-      <li><a href="{{ '/journal/' | relative_url }}">Journal</a></li>
-      <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+  <ul class="nav-links hidden md:flex">
+    <li>
+      <a href="{{ '/' | relative_url }}">Home</a>
+    </li>
+    <li class="mega-menu">
+      <button class="mega-trigger">About</button>
+      <div class="mega-panel">
+        <div class="mega-column">
+          <a href="{{ '/about/' | relative_url }}">About Me</a>
+          <a href="{{ '/atm/' | relative_url }}">ATM</a>
+        </div>
+      </div>
+    </li>
+    <li class="mega-menu">
+      <button class="mega-trigger">Hobbies</button>
+      <div class="mega-panel">
+        <div class="mega-column">
+          <a href="{{ '/art/' | relative_url }}">Art</a>
+          <a href="{{ '/music/' | relative_url }}">Music</a>
+          <a href="{{ '/comedy/' | relative_url }}">Comedy</a>
+          <a href="{{ '/movies-tv/' | relative_url }}">Movies & TV</a>
+          <a href="{{ '/dnd/' | relative_url }}">D&amp;D</a>
+        </div>
+      </div>
+    </li>
+    <li class="mega-menu">
+      <button class="mega-trigger">Writing</button>
+      <div class="mega-panel">
+        <div class="mega-column">
+          <a href="{{ '/journal/' | relative_url }}">Blog</a>
+          <a href="{{ '/quotes/' | relative_url }}">Quotes</a>
+        </div>
+      </div>
+    </li>
+    <li>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </li>
       <li>
         <a
           class="nav-cta"
