@@ -1948,3 +1948,90 @@ article.py-5 .container {
 .mega-column a:hover {
   color: var(--accent);
 }
+
+/* Music Page */
+
+.music-hero {
+  margin-bottom: 3rem;
+}
+
+.music-hero p {
+  max-width: 720px;
+}
+
+.music-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.music-buttons a {
+  border: 1px solid var(--border-soft);
+  border-radius: 999px;
+  padding: 0.7rem 1rem;
+  text-decoration: none;
+  box-shadow: var(--glow);
+}
+
+.music-section {
+  margin: 3rem 0;
+}
+
+.artist-grid,
+.playlist-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.25rem;
+}
+
+.music-card,
+.playlist-card {
+  border: 1px solid var(--border-soft);
+  border-radius: 18px;
+  overflow: hidden;
+  background: rgba(10, 10, 18, 0.72);
+}
+
+.music-card img,
+.playlist-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+}
+
+.music-card div,
+.playlist-card h3,
+.playlist-card p {
+  padding-inline: 1rem;
+}
+
+.music-card h3,
+.playlist-card h3 {
+  margin: 1rem 0 0.25rem;
+}
+
+.music-card p,
+.playlist-card p {
+  margin-bottom: 1rem;
+  opacity: 0.75;
+}
+
+.track-list {
+  display: grid;
+  gap: 0.75rem;
+  padding-left: 1.25rem;
+}
+
+.track-list li {
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--border-soft);
+  border-radius: 14px;
+  background: rgba(10, 10, 18, 0.56);
+}
+
+.track-list span {
+  display: block;
+  opacity: 0.7;
+}
