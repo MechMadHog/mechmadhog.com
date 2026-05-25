@@ -51,16 +51,32 @@ permalink: /music/
     </article>
   </div>
 </section>
-<section class="music-section">
-  <h2>Most Played Tracks</h2>
 
-  <ol class="track-list">
-    <li><strong>Lost In The Static</strong> <span>After the Burial · 167</span></li>
-    <li><strong>So Close</strong> <span>Lazerhawk · 149</span></li>
-    <li><strong>Bleed</strong> <span>Meshuggah · 144</span></li>
-    <li><strong>My Own Summer (Shove It)</strong> <span>Deftones · 129</span></li>
-    <li><strong>Cursing Akhenaten</strong> <span>After the Burial · 122</span></li>
-  </ol>
+<section class="music-section">
+  <h2>Top 20 Tracks</h2>
+
+  <div class="track-list">
+    <div class="track-item"><span class="track-rank">1</span><div class="track-info"><strong>Lost In The Static</strong><span>After the Burial</span></div><span class="track-plays">167 plays</span></div>
+    <div class="track-item"><span class="track-rank">2</span><div class="track-info"><strong>So Close</strong><span>Lazerhawk</span></div><span class="track-plays">149 plays</span></div>
+    <div class="track-item"><span class="track-rank">3</span><div class="track-info"><strong>Bleed</strong><span>Meshuggah</span></div><span class="track-plays">144 plays</span></div>
+    <div class="track-item"><span class="track-rank">4</span><div class="track-info"><strong>My Own Summer (Shove It)</strong><span>Deftones</span></div><span class="track-plays">129 plays</span></div>
+    <div class="track-item"><span class="track-rank">5</span><div class="track-info"><strong>Cursing Akhenaten</strong><span>After the Burial</span></div><span class="track-plays">122 plays</span></div>
+    <div class="track-item"><span class="track-rank">6</span><div class="track-info"><strong>Gravity</strong><span>Boris Brejcha</span></div><span class="track-plays">93 plays</span></div>
+    <div class="track-item"><span class="track-rank">7</span><div class="track-info"><strong>You Get What You Give</strong><span>New Radicals</span></div><span class="track-plays">91 plays</span></div>
+    <div class="track-item"><span class="track-rank">8</span><div class="track-info"><strong>Better Now</strong><span>Post Malone</span></div><span class="track-plays">88 plays</span></div>
+    <div class="track-item"><span class="track-rank">9</span><div class="track-info"><strong>Goodbyes</strong><span>Post Malone</span></div><span class="track-plays">86 plays</span></div>
+    <div class="track-item"><span class="track-rank">10</span><div class="track-info"><strong>Collapse</strong><span>After the Burial</span></div><span class="track-plays">85 plays</span></div>
+    <div class="track-item"><span class="track-rank">11</span><div class="track-info"><strong>Araya</strong><span>Fatima Yamaha</span></div><span class="track-plays">83 plays</span></div>
+    <div class="track-item"><span class="track-rank">12</span><div class="track-info"><strong>Go With The Flow</strong><span>Queens of the Stone Age</span></div><span class="track-plays">83 plays</span></div>
+    <div class="track-item"><span class="track-rank">13</span><div class="track-info"><strong>Saturday Night</strong><span>Misfits</span></div><span class="track-plays">81 plays</span></div>
+    <div class="track-item"><span class="track-rank">14</span><div class="track-info"><strong>Behold The Crown</strong><span>After the Burial</span></div><span class="track-plays">80 plays</span></div>
+    <div class="track-item"><span class="track-rank">15</span><div class="track-info"><strong>What's a Girl to Do</strong><span>Fatima Yamaha</span></div><span class="track-plays">78 plays</span></div>
+    <div class="track-item"><span class="track-rank">16</span><div class="track-info"><strong>Feuer frei!</strong><span>Rammstein</span></div><span class="track-plays">77 plays</span></div>
+    <div class="track-item"><span class="track-rank">17</span><div class="track-info"><strong>Sunspots</strong><span>Nine Inch Nails</span></div><span class="track-plays">75 plays</span></div>
+    <div class="track-item"><span class="track-rank">18</span><div class="track-info"><strong>All Your'n</strong><span>Tyler Childers</span></div><span class="track-plays">71 plays</span></div>
+    <div class="track-item"><span class="track-rank">19</span><div class="track-info"><strong>Shoot to Thrill</strong><span>AC/DC</span></div><span class="track-plays">70 plays</span></div>
+    <div class="track-item"><span class="track-rank">20</span><div class="track-info"><strong>South of Heaven</strong><span>Slayer</span></div><span class="track-plays">70 plays</span></div>
+  </div>
 </section>
 
 <section class="music-section">
