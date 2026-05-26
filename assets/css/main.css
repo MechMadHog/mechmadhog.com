@@ -1981,8 +1981,22 @@ article.py-5 .container {
 .artist-grid,
 .playlist-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 1.25rem;
+}
+
+@media (max-width: 900px) {
+  .artist-grid,
+  .playlist-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .artist-grid,
+  .playlist-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 .music-card,
@@ -2001,10 +2015,9 @@ article.py-5 .container {
   display: block;
 }
 
-.music-card div,
-.playlist-card h3,
-.playlist-card p {
-  padding-inline: 1rem;
+.music-card-content,
+.playlist-card-content {
+  padding: 1rem;
 }
 
 .music-card h3,

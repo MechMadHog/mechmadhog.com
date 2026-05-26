@@ -22,31 +22,59 @@ permalink: /music/
 
   <div class="artist-grid">
     <article class="music-card">
-      <img src="{{ '/assets/images/music/artists/qotsa.jpg' | relative_url }}" alt="Queens of the Stone Age">
-      <div>
+      <img src="{{ '/assets/images/music/artists/qotsa.webp' | relative_url }}" alt="Queens of the Stone Age">
+      <div class="music-card-content">
         <h3>Queens of the Stone Age</h3>
         <p>1,260 plays</p>
       </div>
     </article>
     <article class="music-card">
-      <img src="{{ '/assets/images/music/artists/dankmus.jpg' | relative_url }}" alt="Dankmus">
-      <div>
+      <img src="{{ '/assets/images/music/artists/dankmus.webp' | relative_url }}" alt="Dankmus">
+      <div class="music-card-content">
         <h3>Dankmus</h3>
         <p>901 plays</p>
       </div>
     </article>
     <article class="music-card">
-      <img src="{{ '/assets/images/music/artists/post-malone.jpg' | relative_url }}" alt="Post Malone">
-      <div>
+      <img src="{{ '/assets/images/music/artists/post-malone.webp' | relative_url }}" alt="Post Malone">
+      <div class="music-card-content">
         <h3>Post Malone</h3>
         <p>865 plays</p>
       </div>
     </article>
     <article class="music-card">
-      <img src="{{ '/assets/images/music/artists/after-the-burial.jpg' | relative_url }}" alt="After the Burial">
-      <div>
+      <img src="{{ '/assets/images/music/artists/after-the-burial.webp' | relative_url }}" alt="After the Burial">
+      <div class="music-card-content">
         <h3>After the Burial</h3>
         <p>860 plays</p>
+      </div>
+    </article>
+    <article class="music-card">
+      <img src="{{ '/assets/images/music/artists/infected-mushroom.webp' | relative_url }}" alt="Infected Mushroom">
+      <div class="music-card-content">
+        <h3>Infected Mushroom</h3>
+        <p>819 plays</p>
+      </div>
+    </article>
+    <article class="music-card">
+      <img src="{{ '/assets/images/music/artists/the-prodigy.webp' | relative_url }}" alt="The Prodigy">
+      <div class="music-card-content">
+        <h3>The Prodigy</h3>
+        <p>819 plays</p>
+      </div>
+    </article>
+    <article class="music-card">
+      <img src="{{ '/assets/images/music/artists/boris-brejcha.webp' | relative_url }}" alt="Boris Brejcha">
+      <div class="music-card-content">
+        <h3>Boris Brejcha</h3>
+        <p>691 plays</p>
+      </div>
+    </article>
+    <article class="music-card">
+      <img src="{{ '/assets/images/music/artists/metallica.webp' | relative_url }}" alt="Metallica">
+      <div class="music-card-content">
+        <h3>Metallica</h3>
+        <p>628 plays</p>
       </div>
     </article>
   </div>
