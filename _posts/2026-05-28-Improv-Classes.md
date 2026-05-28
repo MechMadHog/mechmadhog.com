@@ -1,13 +1,12 @@
 ---
-
 layout: post
 title: "Improv Classes"
 description: "Learning to think on the spot."
 categories: [Personal, Social]
 tags: [improv, comedy, social, learning, classes, creativity]
-image: /assets/images/blog/Improv-Classes.png
+image: /assets/images/blog/ImprovClasses.png
 featured: false
----------------
+---
 
 Improv apparently started in Chicago back in the 1950s.
 
