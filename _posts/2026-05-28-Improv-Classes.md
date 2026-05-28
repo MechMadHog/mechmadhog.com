@@ -49,7 +49,7 @@ Which is mildly terrifying.
 
 ---
 
-## The Class
+## The Class:
 
 Most of the names came from one of the games where we had to pair ourselves with adjectives.
 
@@ -73,13 +73,13 @@ Most of the names came from one of the games where we had to pair ourselves with
 
 ---
 
-## Exercises
+## Exercises:
 
 Most of the class was built around reacting quickly, staying engaged, and not freezing when your brain wants to.
 
 ### Vent It Out
 
-Pretty self explanatory.
+Pretty self explanatory, a sort of Stretch / Introduction
 
 ### Zip, Zap, Zop
 
@@ -89,6 +89,8 @@ Passing sequences around the circle while maintaining rhythm and focus.
 
 A harder version of the above where multiple sequences overlap and your brain starts buffering.
 
+> A little bit of challnge for Dyspraxia but in a fun way...
+
 ### Mirroring
 
 Copying movements, emotions, and sounds from another person.
@@ -97,7 +99,7 @@ Copying movements, emotions, and sounds from another person.
 
 Interacting with imaginary objects while accepting whatever reality the previous person created.
 
-The final object got passed to me.
+The final object got passed back to me.
 I crumpled it up and threw it out the window.
 
 Apparently it was a puppy.
@@ -116,6 +118,7 @@ Surprisingly easy to break your brain with.
 ### Adjectives
 
 Passing dialogue and reactions around while exaggerating expression and delivery.
+This is where we got our *nicknames* from.
 
 ### Bunny Bunny, Ticky Tacky
 
@@ -144,7 +147,7 @@ You just commit and go.
 
 ---
 
-## Techniques
+## Techniques:
 
 ### Shoot the Deer
 
@@ -168,12 +171,13 @@ Basically giving the scene something to work with instead of forcing the other p
 This was the interesting part to me.
 
 Improv looks random from the outside, but there actually seems to be structure underneath it.
+I'm sure I will figure this out with time.
 
 Almost like syntax rules for generating ideas quickly without freezing up.
 
 ---
 
-## Setting The Scene
+## Setting The Scene:
 
 A scene usually needs:
 
@@ -185,10 +189,13 @@ A scene usually needs:
 
 Without those:
 people are mostly just standing around saying random things.
+We need to be constucting a narrative for the audience to be able to follow.
 
 ---
 
-Overall it was interesting.
+Overall it was an interesting experience.
+
+Definitely got me out of my comfort zone.
 
 A lot more mentally exhausting than I expected too.
 
