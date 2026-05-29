@@ -73,11 +73,11 @@ The *Nicknames* came from one of the games where we had to pair ourselves with *
 
 ## Exercises:
 
-Most of the class was built around reacting quickly, staying engaged, and not freezing when your brain wants to.
+Most of the class was built around *reacting quickly*, *staying engaged*, and *not freezing* when your brain wants to.
 
 ### Vent It Out
 
-Pretty self explanatory, a sort of Stretch / Introduction
+Pretty self explanatory; This was a sort improvised Stretch, along side an Introduction to who we are.
 
 ### Zip, Zap, Zop
 
