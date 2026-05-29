@@ -43,14 +43,13 @@ There are eight classes in total:
 
 And after that:
 an **Improv Showcase** for friends and family to come see.
-
 Which is mildly terrifying.
 
 ---
 
 ## The Class:
 
-Most of the names came from one of the games where we had to pair ourselves with adjectives.
+The *Nicknames* came from one of the games where we had to pair ourselves with **adjectives**.
 
 ### The Teacher
 
@@ -59,7 +58,7 @@ Most of the names came from one of the games where we had to pair ourselves with
 ### The Group
 
 - Random Ria
-- Me... Morbid Mike
+- Me... **Morbid Mike**
   (I probably would have picked something else if I knew I was getting stuck with it.)
 - Kung Fu Ken
   (My old Kyokushinkai sensei. Weirdly picked "Kung Fu" despite actually being a karate black belt.)
