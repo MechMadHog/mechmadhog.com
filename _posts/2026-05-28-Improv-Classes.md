@@ -95,6 +95,8 @@ We actually had to juggle two sequences simultaniously and will supposedly be do
 ### Mirroring
 
 Copying movements, emotions, and sounds from another person.
+I am guessing its to teach a more complete form of listening.
+To recognize what is being communicated immediately reegardless of the method of communication.
 
 ### Objects
 
