@@ -77,15 +77,18 @@ Most of the class was built around *reacting quickly*, *staying engaged*, and *n
 
 ### Vent It Out
 
-Pretty self explanatory; This was a sort improvised Stretch, along side an Introduction to who we are.
+Pretty self explanatory; This was a sort improvised Stretch, along side an Introduction of who we are and why we were interested in improv.
 
 ### Zip, Zap, Zop
 
 Passing sequences around the circle while maintaining rhythm and focus.
+It was to teach us how to follow a sequences order.
 
 ### Patterns
 
 A harder version of the above where multiple sequences overlap and your brain starts buffering.
+
+We actually had to juggle two sequences simultaniously and will supposedly be doing more than that next time.
 
 > A little bit of challnge for Dyspraxia but in a fun way...
 
