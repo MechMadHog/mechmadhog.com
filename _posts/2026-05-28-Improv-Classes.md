@@ -102,6 +102,9 @@ To recognize what is being communicated immediately reegardless of the method of
 
 Interacting with imaginary objects while accepting whatever reality the previous person created.
 
+When I am holding the object I can reinterpret to whatever i feel like.
+But maintaining the narrative should be important.
+
 The final object got passed back to me.
 I crumpled it up and threw it out the window.
 
@@ -113,7 +116,7 @@ Apparently it was a puppy.
 
 One person performs an action.
 The next person asks what they are doing.
-The answer becomes the *next- action.
+The answer becomes the *next action*.
 
 Simple concept.
 Surprisingly easy to break your brain with.
@@ -122,6 +125,8 @@ Surprisingly easy to break your brain with.
 
 Passing dialogue and reactions around while exaggerating expression and delivery.
 This is where we got our *nicknames* from.
+
+Associationg related actions with words, paint a vivid picture of what I am doing.
 
 ### Bunny Bunny, Ticky Tacky
 
