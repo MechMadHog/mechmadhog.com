@@ -165,6 +165,8 @@ Get to the point.
 
 Apparently subtlety is dangerous if the audience has no idea what is happening.
 
+Don't be boring.
+
 ### Giving Gifts
 
 Providing useful details to the other person:
