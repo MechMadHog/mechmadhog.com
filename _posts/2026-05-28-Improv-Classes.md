@@ -153,6 +153,8 @@ Exactly what it sounds like:
 No time to overthink.
 You just commit and go.
 
+Really doesn't work without cooperation
+
 ---
 
 ## Techniques:
