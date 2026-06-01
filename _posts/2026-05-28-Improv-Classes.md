@@ -126,7 +126,7 @@ Surprisingly easy to break your brain with.
 Passing dialogue and reactions around while exaggerating expression and delivery.
 This is where we got our *nicknames* from.
 
-Associationg related actions with words, paint a vivid picture of what I am doing.
+Associationg related actions with words, Whilst painting a vivid picture of what I am doing through my movements.
 
 ### Bunny Bunny, Ticky Tacky
 
