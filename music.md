@@ -8,7 +8,7 @@ permalink: /music/
 <div class="music-page">
 
 <section class="music-hero">
-  <h1>Music</h1>
+  <h1 class="section-title">Music</h1>
   <p>
     Rock, metal, electronic, scrobbles, playlists, and whatever else is currently wrecking my ears.
   </p>
@@ -20,7 +20,7 @@ permalink: /music/
 </section>
 
 <section class="music-section">
-  <h2>Top Artists</h2>
+  <h2 class="section-title">Top Artists</h2>
 
   <div class="artist-grid">
     <article class="music-card">
@@ -83,7 +83,7 @@ permalink: /music/
 </section>
 
 <section class="music-section">
-  <h2>Top 20 Tracks</h2>
+  <h2 class="section-title">Top 20 Tracks</h2>
 
   <div class="track-list">
     <div class="track-item"><span class="track-rank">1</span><div class="track-info"><strong>Lost In The Static</strong><span>After the Burial</span></div><span class="track-plays">167 plays</span></div>
@@ -110,7 +110,7 @@ permalink: /music/
 </section>
 
 <section class="music-section">
-  <h2>Public Playlists</h2>
+  <h2 class="section-title">Public Playlists</h2>
   <div class="playlist-grid">
     <article class="playlist-card">
       <img src="{{ '/assets/images/music/playlists/meshuggah-aaah.jpg' | relative_url }}" alt="Meshugg...Aaah!">
