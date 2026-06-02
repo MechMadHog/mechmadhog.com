@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Music
 description: Rock, metal, scrobbles, playlists, and whatever else is currently wrecking my ears.
 permalink: /music/
