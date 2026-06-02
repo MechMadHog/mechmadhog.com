@@ -5,6 +5,8 @@ description: Rock, metal, scrobbles, playlists, and whatever else is currently w
 permalink: /music/
 ---
 
+<div class="music-page">
+
 <section class="music-hero">
   <h1>Music</h1>
   <p>
@@ -127,3 +129,5 @@ permalink: /music/
     </article>
   </div>
 </section>
+
+</div>
