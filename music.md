@@ -112,10 +112,6 @@ permalink: /music/
 <section class="music-section">
   <h2 class="section-title">Public Playlists</h2>
   <div class="playlist-grid">
-    <section class="music-section">
-  <h2 class="section-title">Public Playlists</h2>
-
-  <div class="playlist-grid">
     <a class="playlist-card" href="https://open.spotify.com/playlist/3IWIWF50jQzeT7NTTKBJ4x?si=c05596f0769d411b" target="_blank" rel="noopener">
       <img src="{{ '/assets/images/music/playlists/meshuggah-aaah.png' | relative_url }}" alt="Meshugg...Aaah!">
       <h3>Meshugg...Aaah!</h3>
@@ -161,9 +157,6 @@ permalink: /music/
       <h3>👊 BEATDOWN Brigade</h3>
       <p>Crossover / Hardcore Beatdown</p>
     </a>
-  </div>
-</section>
-
   </div>
 </section>
 
