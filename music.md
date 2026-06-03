@@ -112,21 +112,58 @@ permalink: /music/
 <section class="music-section">
   <h2 class="section-title">Public Playlists</h2>
   <div class="playlist-grid">
-    <article class="playlist-card">
-      <img src="{{ '/assets/images/music/playlists/meshuggah-aaah.jpg' | relative_url }}" alt="Meshugg...Aaah!">
+    <section class="music-section">
+  <h2 class="section-title">Public Playlists</h2>
+
+  <div class="playlist-grid">
+    <a class="playlist-card" href="https://open.spotify.com/playlist/3IWIWF50jQzeT7NTTKBJ4x?si=c05596f0769d411b" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/music/playlists/meshuggah-aaah.png' | relative_url }}" alt="Meshugg...Aaah!">
       <h3>Meshugg...Aaah!</h3>
-      <p>Rock / Metal</p>
-    </article>
-    <article class="playlist-card">
-      <img src="{{ '/assets/images/music/playlists/eeyodiem.jpg' | relative_url }}" alt="Eeyodiem">
+      <p>Technical Death Metal / Meshuggah</p>
+    </a>
+    <a class="playlist-card" href="https://open.spotify.com/playlist/4sgotxSes5CTzUtzpg15FJ?si=7bde36ce1fc64d4b" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/music/playlists/eeyodiem.png' | relative_url }}" alt="Eeyodiem">
       <h3>Eeyodiem</h3>
-      <p>Rock / Metal</p>
-    </article>
-    <article class="playlist-card">
-      <img src="{{ '/assets/images/music/playlists/klon-radio.jpg' | relative_url }}" alt="K.L.O.N. Radio">
+      <p>Eagles of Death Metal</p>
+    </a>
+    <a class="playlist-card" href="https://open.spotify.com/playlist/7MW6QclMwBhtGIviDLFDsQ?si=41fb08d8d6094720" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/music/playlists/klon-radio.png' | relative_url }}" alt="K.L.O.N. Radio [I Get It]">
       <h3>K.L.O.N. Radio [I Get It]</h3>
-      <p>Rock / Metal</p>
-    </article>
+      <p>Queens of the Stone Age / Desert Rock</p>
+    </a>
+    <a class="playlist-card" href="https://open.spotify.com/playlist/5Py4pzbA2MF5TjDQX5L82Z?si=b56863b982d14db9" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/music/playlists/krdl-heavy.png' | relative_url }}" alt="K.R.D.L. [Heavy]">
+      <h3>K.R.D.L. [Heavy]</h3>
+      <p>Heavy Rock & Metal</p>
+    </a>
+    <a class="playlist-card" href="https://open.spotify.com/playlist/1DX7ZrEBvvjO1038fidcnU?si=8c9f60cdadf64b45" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/music/playlists/want-pop.png' | relative_url }}" alt="W.A.N.T. [Pop]">
+      <h3>W.A.N.T. [Pop]</h3>
+      <p>Alternative / Pop</p>
+    </a>
+    <a class="playlist-card" href="https://open.spotify.com/playlist/7zzkBOMIP4ql9SQmofeXQn?si=32801a85f1084506" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/music/playlists/thrash-haul.png' | relative_url }}" alt="🤘🏻 Thrash Haul">
+      <h3>🤘🏻 Thrash Haul</h3>
+      <p>Modern Thrash</p>
+    </a>
+    <a class="playlist-card" href="https://open.spotify.com/playlist/6QSDuOrGObslFAgKGlHUMP?si=946218c7b91847d6" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/music/playlists/nordic-warband.png' | relative_url }}" alt="🐺 Nordic Warband">
+      <h3>🐺 Nordic Warband</h3>
+      <p>Melodic Death Metal</p>
+    </a>
+    <a class="playlist-card" href="https://open.spotify.com/playlist/36St0Is57ma0nnRm3gCAGf?si=6c12262d65a9482a" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/music/playlists/thrash.png' | relative_url }}" alt="Thrash">
+      <h3>Thrash</h3>
+      <p>Old School Thrash</p>
+    </a>
+    <a class="playlist-card" href="https://open.spotify.com/playlist/5iY0jAtOHbuozTNFhtXQgO?si=115dbe53044d48b2" target="_blank" rel="noopener">
+      <img src="{{ '/assets/images/music/playlists/beatdown-brigade.png' | relative_url }}" alt="👊 BEATDOWN Brigade">
+      <h3>👊 BEATDOWN Brigade</h3>
+      <p>Crossover / Hardcore Beatdown</p>
+    </a>
+  </div>
+</section>
+
   </div>
 </section>
 
