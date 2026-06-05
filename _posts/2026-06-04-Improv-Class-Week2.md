@@ -8,8 +8,6 @@ image: /assets/images/blog/ImprovClass2.png
 featured: false
 ---
 
----
-
 ## Week 2 - New Faces, New Games
 
 This week started with a new addition to the group.
