@@ -77,7 +77,9 @@ Most of the class was built around *reacting quickly*, *staying engaged*, and *n
 
 ### Vent It Out
 
-Pretty self explanatory; This was a sort improvised Stretch, along side an Introduction of who we are and why we were interested in improv.
+Pretty self explanatory; This was a sort improvised Stretch, along side an Introduction of who we are and why we were interested in improv, along with describing who our favourite teacher was.
+
+> I picked Alan Holland - My Art / German teacher from Finians.
 
 ### Zip, Zap, Zop
 
