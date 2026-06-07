@@ -11,10 +11,12 @@ featured: false
 # Halfway There
 
 Today marks the halfway point of my second BodySlims journey...
-It's not a sequel, it's a remake.
+It's not a sequel, because I was ata similar starting point.
+
+But I am a lot different than before so I guess that It's like a remake instead.
 
 Not halfway to some imaginary finish line.
-Halfway through the 70 days.
+Halfway through the full 70 days.
 
 ---
 
@@ -24,10 +26,10 @@ This times...
 *Starting Weight*: **287.1 lbs** (130.2 kg / 20 st 7.1 lbs)
 *Current Weight*: **250.8 lbs** (113.8 kg / 17 st 12.8 lbs)
 
-### Total Loss:
-* **36.3 lbs**
-* **16.5 kg**
-* **2 st 8.3 lbs**
+### So far my Total Loss is:
+- **36.3 lbs**
+- **16.5 kg**
+- **2 st 8.3 lbs**
 
 That's **12.6% of my starting body weight** gone in 36 days.
 Not bad for a guy who spends most of his day sitting at a computer.
@@ -38,7 +40,6 @@ Not bad for a guy who spends most of his day sitting at a computer.
 ## The Difference This Time
 
 Back in 2023, I completed BodySlims for the first time.
-
 I lost 4 st 8 lbs and learned something important:
 
 > Weight loss isn't complicated.
