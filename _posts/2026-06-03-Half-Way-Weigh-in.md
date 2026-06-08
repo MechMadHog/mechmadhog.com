@@ -39,7 +39,7 @@ Not bad for a guy who spends most of his day sitting at a computer.
 
 ## The Difference This Time
 
-Back in 2023, I completed BodySlims for the first time.
+Back in 2023, I completed BodySlims for the first time.d
 I lost 4 st 8 lbs and learned something important:
 
 > Weight loss isn't complicated.
@@ -57,7 +57,7 @@ This time around, I wanted to build reusable systems instead.
 
 ## Building Systems
 
-- The daily walk became a daily ruck.
+- The daily walk became a daily ruck (eventually 18kg).
 - The pool became part of the routine.
 - The calories became predictable.
 - The meals became predictable.
