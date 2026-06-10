@@ -86,11 +86,17 @@ Supplements are not magic, they cannot compensate for a poor diet.
 However, they can help cover gaps while calories are restricted.
 
 My current approach includes:
+### Sauna Solution Mix:
 - Electrolytes (sodium, potassium, magnesium)
 - Creatine (15g daily)
 - Pre-workout (Caffeine)
+
+### Morning Stack:
 - Multivitamin
 - Probiotic
+
+### Nightly Stack:
+- ZMA
 
 These supplements support performance, hydration, recovery, and general health while dieting.
 
