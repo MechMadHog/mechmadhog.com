@@ -10,14 +10,15 @@ featured: false
 
 ## Week 3 - Confidence, Patience, and Questioning Everything
 
-This week's stretch was about sharing something we find oddly satisfying. The sort of things that calm your brain down without you really thinking about it.
+This week's stretch was about sharing something we find oddly satisfying. 
+The sort of things that calm your brain down without you really thinking about it.
 
 ### Oddly Satisfying
 
 **Brave Brett**
 - Winding up cables and cords.
 
-**Mechanical Mike**
+**Mechanical Mike** (Me)
 - Taking things apart, cleaning every component, and putting everything back together.
 - Usually the best way to figure out how something is actually supposed to work.
 
@@ -43,6 +44,7 @@ This week's stretch was about sharing something we find oddly satisfying. The so
 ## Previous Games:
 
 We revisited **Zip Zap Zop** and **The Objects Game**
+
 The Objects Game is still teaching the same lesson:
 Once somebody creates reality, accept it.
 
@@ -105,8 +107,8 @@ The Common Question Types:
 - Did?
 - Does?
 
-The game works surprisingly well.
-It also feels incredibly accusatory.
+The game works surprisingly well, but It doesn't take very long for it to become incredibly accusatory.
+
 After a few minutes it starts sounding like an interrogation.
 
 ---
@@ -137,6 +139,7 @@ During a scene somebody can interrupt and call:
 > New Choice!
 
 Whatever was just said must be replaced with something different.
+
 Then possibly something different again.
 And again.
 
@@ -152,7 +155,8 @@ Sell it to the audience.
 
 Every person adds new features using the "Yes, And..." principle.
 
-The product gradually evolves from a normal object into something completely absurd. Which somehow makes it easier to sell.
+The product gradually evolves from a normal object into something completely absurd. 
+Which somehow makes it easier to sell.
 
 ---
 
@@ -199,8 +203,6 @@ Most of the exercises are actually training:
 - paying attention
 - being present
 
-The funny part happens afterwards.
-The thing that surprised me this week was **Trust The Silence**.
+The funny part happens afterwards and the thing that surprised me a lot this week was **Trust The Silence**.
 
-I expected the difficult part to be speaking.
-Turns out the difficult part is waiting.
+I expected the difficult part to be speaking, turns out the difficult part is waiting.
