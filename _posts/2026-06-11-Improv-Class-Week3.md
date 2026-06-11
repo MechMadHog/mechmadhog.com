@@ -8,8 +8,6 @@ image: /assets/images/blog/ImprovClass3.png
 featured: false
 ---
 
----
-
 ## Week 3 - Confidence, Patience, and Questioning Everything
 
 This week's stretch was about sharing something we find oddly satisfying. The sort of things that calm your brain down without you really thinking about it.
