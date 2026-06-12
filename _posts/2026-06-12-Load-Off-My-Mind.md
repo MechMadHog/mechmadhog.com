@@ -4,7 +4,7 @@ title: Thats A Load Off My Mind
 description: Carrying the full 18kg ruck taught me an important lesson. The goal was never to carry the heaviest weight possible. The goal was fat loss, conditioning, and building a stronger body. Sometimes the smartest decision is to reduce the load, improve recovery, and focus on long-term consistency.
 categories: [BodySlims, Nutrition, Weight Loss]
 tags: [bodyslims, weight-loss, rucking, farmers-carries, conditioning, recovery, strength-training, mindset]
-image: /images/blog/ruck-purpose.png
+image: /assets/images/blog/ruck-purpose.png
 featured: false
 ---
 
