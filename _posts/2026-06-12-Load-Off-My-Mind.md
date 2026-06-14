@@ -36,21 +36,21 @@ The 18kg load taught me where the line is.
 
 ## Building the Back Instead
 
-The solution isn't forcing heavier rucks.
-The solution is building a stronger back.
+The solution wasn't about forcing heavier rucks.
+The solution is about building a stronger back through consistency.
 
 Rows, shrugs, carries, pulldowns, sandbag work, grip work... 
 all of the things that strengthen the machinery responsible for carrying weight in the first place.
 
 A stronger back makes heavier loads possible.
-Trying to force heavier loads before the back is ready just creates unnecessary recovery.
+Trying to force heavier loads before the back is ready just created unnecessary recovery periods when the daily ruck is purely about doing it... daily.
 
 ---
 
 ## A Better Job for 18kg
 
 The funny thing is that 18kg wasn't a bad idea.
-It was just being used for the wrong job.
+It was just btoo much for that specific purpose.
 
 For an hour-long daily walk, it's too expensive from a recovery perspective.
 For loaded carries, it's perfect.
@@ -58,7 +58,6 @@ Farmer's carries, sandbag carries, weighted carries, shorter bursts of higher ef
 
 Those exercises are supposed to be hard.
 They aren't supposed to be repeated every day for an hour.
-That's the difference.
 
 ---
 
@@ -74,4 +73,4 @@ The smarter move is carrying the right weight.
 The goal isn't to carry the heaviest backpack.
 The goal is to become leaner, stronger, healthier, and more capable.
 
-Those aren't always the same thing.
+I now know what the bag is capable of carrying.
