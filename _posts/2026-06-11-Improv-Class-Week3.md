@@ -29,7 +29,7 @@ The sort of things that calm your brain down without you really thinking about i
 - The feeling of moving those little gel balls around in a vase or jar.
 
 **Caring Colm**
-- Floating in water.
+- Lying back and just floating in water.
 
 **Kamikaze Ken**
 - Box breathing.
@@ -56,14 +56,14 @@ Once somebody creates reality, accept it.
 
 Two people perform a scene.
 
-One person gets:
+Person One gets:
 A, C, E, G, I, K, M, O, Q, S, U, W and Y
 
-The other gets:
+Person Two gets:
 B, D, F, H, J, L, N, P, R, T, V, X and Z
 
 The goal is to have a conversation that:
-- follows the alphabet
+- follows the alphabet in sequence
 - responds logically to the previous line
 - still resembles something an actual person might say
 
