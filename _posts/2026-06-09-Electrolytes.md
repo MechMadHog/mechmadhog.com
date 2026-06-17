@@ -70,35 +70,37 @@ Once I became more consistent with electrolytes, many of the cravings I thought 
 
 One habit that has made a noticeable difference is what I call my Sauna Solution.
 
-A 2l bottle of water containing:
+A 2L bottle of water containing:
 - Electrolytes
 - Creatine
-- Caffeine
-- Additional hydration support
+- Pre-workout (Caffeine)
+- ZMA
 
-This is particularly useful on pool, sauna, and steam room days when fluid and mineral losses are higher. The goal isn't to replace food. The goal is to ensure that dehydration and mineral deficiencies aren't being mistaken for hunger.
+This is particularly useful on pool, sauna, and steam room days when fluid and mineral losses are higher. The goal isn't to replace food. The goal is to ensure that dehydration, mineral deficiencies, and recovery needs aren't being mistaken for hunger.
+
+By combining several supplements into a single daily habit, I find it much easier to stay consistent. Rather than remembering multiple supplement timings throughout the day, everything related to hydration, performance, and recovery is handled in one place.
+
 
 ---
 
 ## The Supplement Stack
 
-Supplements are not magic, they cannot compensate for a poor diet.
-However, they can help cover gaps while calories are restricted.
+Supplements aren't a substitute. They can't compensate for a poor diet. However, they can help cover gaps while calories are restricted i.e. when I'm Fasting.
 
 My current approach includes:
-### Sauna Solution Mix:
-- Electrolytes (sodium, potassium, magnesium)
+
+### Sauna Solution Mix
+- Electrolytes (Sodium, Potassium, Magnesium)
 - Creatine (15g daily)
 - Pre-workout (Caffeine)
+- ZMA (Zinc, Magnesium, Vitamin B6)
 
-### Morning Stack:
+### Morning Stack
 - Multivitamin
 - Probiotic
 
-### Nightly Stack:
-- ZMA
+These supplements support hydration, performance, recovery, and general health while dieting. More importantly, attaching them to existing daily habits makes them easier to remember and use consistently.
 
-These supplements support performance, hydration, recovery, and general health while dieting.
 
 ---
 
