@@ -50,9 +50,9 @@ Or as most people know him:
 
 ## New Games
 
-### The Three Headed Genius:
+### The Multi-Headed Genius:
 
-Three people become a single person.
+When three or more people become a single person.
 Questions are asked by the audience and each member can only contribute one word at a time, 
 speaking in sequence until an answer emerges.
 
