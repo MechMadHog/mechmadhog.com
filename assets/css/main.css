@@ -76,13 +76,19 @@ a:hover {
   object-fit: cover;
 }
 
+/* Desktop navigation */
 .nav-links {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 1rem 1.25rem;
   margin: 0;
   padding: 0;
+}
+
+.nav-links--desktop {
+  display: flex;
 }
 
 .nav-links a {
@@ -100,12 +106,6 @@ a:hover {
   text-shadow: var(--glow);
 }
 
-.nav-toggle i {
-  color: var(--text-main);
-  font-size: 1.1rem;
-  text-shadow: var(--glow);
-}
-
 /* Hamburger default: hidden on desktop */
 .nav-toggle {
   display: none;
@@ -117,16 +117,22 @@ a:hover {
   cursor: pointer;
 }
 
+.nav-toggle i {
+  color: var(--text-main);
+  font-size: 1.1rem;
+  text-shadow: var(--glow);
+}
+
 /* Mobile: show hamburger + hide desktop links */
 @media (max-width: 760px) {
+  .nav-links--desktop {
+    display: none;
+  }
+
   .nav-toggle {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-  }
-
-  .nav-links--desktop {
-    display: none;
   }
 }
 
@@ -1881,61 +1887,6 @@ article.py-5 .container {
   position: relative;
 }
 
-.mega-trigger {
-  background: none;
-  border: none;
-  color: var(--text-main);
-  font: inherit;
-  font-size: 0.8rem;
-  cursor: pointer;
-  border-radius: 999px;
-  padding: 0.45rem 0.75rem;
-}
-
-.mega-trigger:hover {
-  color: var(--accent);
-}
-
-.mega-panel {
-  position: absolute;
-  top: 100%;
-  margin-top: 0.45rem;
-  border-radius: 22px;
-  left: 0;
-
-  min-width: 220px;
-
-  padding: 1rem;
-
-  display: grid;
-  gap: 1rem;
-
-  background: rgba(10, 10, 18, 0.96);
-
-  border: 1px solid var(--border-soft);
-
-  backdrop-filter: blur(12px);
-
-  opacity: 0;
-  visibility: hidden;
-
-  transform: translateY(10px);
-
-  transition:
-    opacity 0.2s ease,
-    transform 0.2s ease,
-    visibility 0.2s ease;
-
-  z-index: 999;
-}
-
-.mega-menu:hover .mega-panel,
-.mega-menu:focus-within .mega-panel {
-  opacity: 1;
-  visibility: visible;
-  transform: translateY(0);
-}
-
 .mega-menu::after {
   content: "";
   position: absolute;
@@ -1945,21 +1896,79 @@ article.py-5 .container {
   height: 0.65rem;
 }
 
+.mega-trigger {
+  background: none;
+  border: none;
+  border-radius: 999px;
+  color: var(--text-main);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.8rem;
+  padding: 0.45rem 0.75rem;
+}
+
+.mega-trigger:hover,
+.mega-trigger:focus-visible {
+  color: var(--accent);
+  outline: none;
+  text-shadow: var(--glow);
+}
+
+.mega-panel {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 999;
+
+  min-width: 220px;
+  margin-top: 0.45rem;
+  padding: 1rem;
+
+  display: grid;
+  gap: 1rem;
+
+  background: rgba(10, 10, 18, 0.96);
+  border: 1px solid var(--border-soft);
+  border-radius: 22px;
+  backdrop-filter: blur(12px);
+
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+
+  transition:
+    opacity 0.2s ease,
+    transform 0.2s ease,
+    visibility 0.2s ease;
+}
+
+.mega-menu:hover .mega-panel,
+.mega-menu:focus-within .mega-panel {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
 .mega-column {
-  display: block;
-  padding: 0.65rem 0.85rem;
-  border-radius: 14px;
+  display: flex;
   flex-direction: column;
-  gap: 0.7rem;
+  gap: 0.45rem;
 }
 
 .mega-column a {
-  text-decoration: none;
+  display: block;
+  padding: 0.65rem 0.85rem;
+  border-radius: 14px;
   color: var(--text-main);
+  text-decoration: none;
 }
 
-.mega-column a:hover {
+.mega-column a:hover,
+.mega-column a:focus-visible {
   background: rgba(122, 60, 255, 0.12);
+  color: var(--accent);
+  outline: none;
+  text-shadow: var(--glow);
 }
 
 /* Music Page */
@@ -2117,9 +2126,11 @@ article.py-5 .container {
   background: rgba(122, 60, 255, 0.08);
 }
 
-.mobile-menu-list a:hover {
+.mobile-menu-list a:hover,
+.mobile-menu-list a:focus-visible {
   color: var(--accent);
   background: rgba(122, 60, 255, 0.16);
+  outline: none;
 }
 
 .mobile-menu-group {
@@ -2133,4 +2144,23 @@ article.py-5 .container {
   color: var(--accent-alt);
   text-transform: uppercase;
   letter-spacing: 0.08em;
+}
+
+.mobile-menu-list .nav-cta {
+  border-color: var(--accent-alt);
+  background: rgba(0, 255, 156, 0.12);
+  color: var(--accent-alt);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  box-shadow:
+    0 0 10px var(--accent-alt-glow),
+    inset 0 0 8px rgba(0, 255, 156, 0.25);
+}
+
+.mobile-menu-list .nav-cta:hover,
+.mobile-menu-list .nav-cta:focus-visible {
+  background: var(--accent-alt);
+  color: #05050a;
+  text-shadow: none;
 }

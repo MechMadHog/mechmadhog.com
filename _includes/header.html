@@ -4,8 +4,8 @@
       <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Site logo">
     </a>
 
-    <!-- Desktop nav (your styling) -->
-  <ul class="nav-links hidden md:flex">
+    <!-- Desktop nav -->
+    <ul class="nav-links nav-links--desktop">
     <li>
       <a href="{{ '/' | relative_url }}">Home</a>
     </li>
@@ -69,32 +69,13 @@
     class="border-t" hidden
     style="border-color: var(--border-soft); background: rgba(11,11,19,0.95); backdrop-filter: blur(8px); box-shadow: var(--glow);"
   >
-    <ul class="mobile-menu-list">
+    <ul class="nav-links flex flex-col items-start px-4 py-3 gap-3">
       <li><a href="{{ '/' | relative_url }}">Home</a></li>
-
-      <li class="mobile-menu-group">
-        <span>About</span>
-        <a href="{{ '/about/' | relative_url }}">About Me</a>
-        <a href="{{ '/atm/' | relative_url }}">ATM</a>
-      </li>
-
-      <li class="mobile-menu-group">
-        <span>Hobbies</span>
-        <a href="{{ '/art/' | relative_url }}">Art</a>
-        <a href="{{ '/music/' | relative_url }}">Music</a>
-        <a href="{{ '/comedy/' | relative_url }}">Comedy</a>
-        <a href="{{ '/movies-tv/' | relative_url }}">Movies & TV</a>
-        <a href="{{ '/dnd/' | relative_url }}">D&amp;D</a>
-      </li>
-
-      <li class="mobile-menu-group">
-        <span>Writing</span>
-        <a href="{{ '/journal/' | relative_url }}">Blog</a>
-        <a href="{{ '/quotes/' | relative_url }}">Quotes</a>
-      </li>
-
+      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+      <li><a href="{{ '/art/' | relative_url }}">Art</a></li>
+      <li><a href="{{ '/now/' | relative_url }}">Now</a></li>
+      <li><a href="{{ '/journal/' | relative_url }}">Journal</a></li>
       <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-
       <li>
         <a
           class="nav-cta"
