@@ -12,37 +12,30 @@ featured: false
 ## Week 4 - Finding Your Opening
 
 This week's stretch was surprisingly simple:
-
 > Pick your favourite letter of the alphabet.
-
 The answers were a lot more interesting than expected.
 
 ### Favourite Letters
 
 **Brave Brett**
-
 - Z
 
 **Awesome Alan**
-
 - W
 - Because it doesn't even use its own syllable when pronounced.
 - It's called a Double U despite actually looking more like a Double V.
 - Full of contradictions.
 
 **Kamikaze Ken**
-
 - B
 
 **Mechanical Mike**
-
 - M
 - It's the 13th letter.
 - My initials contain two M's.
 - I like the zig-zag shape.
 
 **Random Ria**
-
 - B
 
 ---
@@ -50,13 +43,10 @@ The answers were a lot more interesting than expected.
 ## Exploring The Room
 
 This was a solo exercise.
-
 We all moved around the room together but without interacting directly.
-
 Each instruction changed how we approached the space.
 
 We had to:
-
 - Explore the room.
 - Become curious about everything we saw.
 - Become the most confident person in the world.
@@ -70,19 +60,14 @@ It was interesting how changing a single instruction completely changed how peop
 ## Group Scenes - Entering The Scene
 
 This was probably the most useful exercise of the night.
-
 Two people begin a scene.
 
 Everyone else stands outside the action and listens.
-
 Your job is to identify a role that naturally exists within their story.
 
 Then enter.
-
 You don't force yourself into the scene.
-
 You discover who you are by listening to what already exists.
-
 The better you listen, the easier it becomes.
 
 ---
@@ -90,11 +75,9 @@ The better you listen, the easier it becomes.
 ## Harold
 
 This was explained rather than performed.
-
 The basic idea is that audience input creates a starting point.
 
 Scenes are then built from that foundation and continue evolving from the original idea.
-
 Instead of disconnected sketches, everything remains connected.
 
 ---
@@ -102,19 +85,15 @@ Instead of disconnected sketches, everything remains connected.
 ## Armando
 
 Another concept that was explained rather than played.
-
 This felt a little like Professor Smart Brain.
-
 A word is selected.
 
 Instead of pretending to be an expert, you use that word as a starting point for association and storytelling.
 
 The example used was:
-
 > Saxophone
 
 Which somehow became:
-
 > Bill Clinton
 
 Apparently that's a perfectly reasonable journey in improv.
@@ -124,15 +103,12 @@ Apparently that's a perfectly reasonable journey in improv.
 ## Park Bench
 
 This game had a very clear objective.
-
 You sit beside a complete stranger.
 
 Your mission is to make them uncomfortable enough that they leave.
-
 Once they leave, you inherit the bench.
 
 The challenge isn't being aggressive.
-
 It's finding increasingly strange ways to make somebody decide that sitting somewhere else would be preferable.
 
 ---
@@ -142,11 +118,8 @@ It's finding increasingly strange ways to make somebody decide that sitting some
 ### Zip, Zap, Zop
 
 We've played this several times now.
-
 The difference is noticeable.
-
 Everyone is getting faster and more comfortable.
-
 What felt awkward in Week 1 now feels much more natural.
 
 ---
@@ -154,20 +127,16 @@ What felt awkward in Week 1 now feels much more natural.
 ### Multi-Headed Genius
 
 We played this again too.
-
 Still difficult.
 
 You have to think about:
-
 - the question
 - the previous word
 - your own word
 - the sentence being formed
 
 All while trying not to derail the entire answer.
-
 Somehow it works.
-
 Sometimes.
 
 ---
@@ -177,13 +146,9 @@ Sometimes.
 The thing I noticed most this week was that improv isn't always about generating ideas.
 
 Sometimes it's about waiting.
-
 Listening.
-
 Observing.
-
 Finding the opening that already exists.
 
 The best moments seem to happen when you stop trying to force your own idea into the scene and instead build on what is already there.
-
 Which, now that I think about it, is probably useful outside of improv too.
