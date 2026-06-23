@@ -74,7 +74,8 @@ A 2L bottle of water containing:
 - Electrolytes
 - Creatine
 - Pre-workout (Caffeine)
-- ZMA
+- Collagen Type 1 & 3
+- Vitamin C
 
 This is particularly useful on pool, sauna, and steam room days when fluid and mineral losses are higher. The goal isn't to replace food. The goal is to ensure that dehydration, mineral deficiencies, and recovery needs aren't being mistaken for hunger.
 
@@ -93,7 +94,8 @@ My current approach includes:
 - Electrolytes (Sodium, Potassium, Magnesium)
 - Creatine (15g daily)
 - Pre-workout (Caffeine)
-- ZMA (Zinc, Magnesium, Vitamin B6)
+- Collagen Type 1 & 3
+- Vitamin C
 
 ### Morning Stack
 - Multivitamin
