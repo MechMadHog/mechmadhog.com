@@ -76,6 +76,7 @@ A 2L bottle of water containing:
 - Pre-workout (Caffeine)
 - Collagen Type 1 & 3
 - Vitamin C
+- Magnesium 
 
 This is particularly useful on pool, sauna, and steam room days when fluid and mineral losses are higher. The goal isn't to replace food. The goal is to ensure that dehydration, mineral deficiencies, and recovery needs aren't being mistaken for hunger.
 
@@ -96,6 +97,7 @@ My current approach includes:
 - Pre-workout (Caffeine)
 - Collagen Type 1 & 3
 - Vitamin C
+- Magnesium 
 
 ### Morning Stack
 - Multivitamin
