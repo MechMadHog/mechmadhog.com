@@ -1,5 +1,196 @@
 ---
 layout: default
 title: Improv
+description: Notes, techniques, exercises, and lessons from learning improv.
 permalink: /comedy/improv/
 ---
+
+<div class="music-page improv-page">
+
+<section class="music-hero">
+  <h1 class="section-title">Improv</h1>
+  <p>
+    Improv looks random from the outside, but the more I learn, the more structure I see underneath it.
+    It's less about trying to be funny and more about listening, reacting, committing, and building something with other people.
+  </p>
+</section>
+
+<section class="music-section">
+  <h2 class="section-title">Core Ideas</h2>
+  <div class="playlist-grid">
+    <article class="playlist-card">
+      <div class="playlist-card-content">
+        <h3>Yes, And</h3>
+        <p>Accept the reality being offered, then add something useful to it.</p>
+      </div>
+    </article>
+    <article class="playlist-card">
+        <div class="playlist-card-content">
+            <h3>If This, Then That</h3>
+            <p>Every detail creates a consequence. Follow the logic and let the scene grow.</p>
+        </div>
+    </article>
+    <article class="playlist-card">
+        <div class="playlist-card-content">
+            <h3>Give Gifts</h3>
+            <p>Offer names, relationships, locations, emotions, objects, and problems for others to use.</p>
+        </div>
+    </article>
+    <article class="playlist-card">
+        <div class="playlist-card-content">
+            <h3>Commit</h3>
+            <p>Make a choice and stand behind it. A clear bad idea is usually better than a vague safe one.</p>
+        </div>
+    </article>
+  </div>
+</section>
+
+<section class="music-section">
+  <h2 class="section-title">Activities & Exercises</h2>
+
+  <div class="improv-accordion">
+    <details>
+    <summary>Zip, Zap, Zop</summary>
+    <p>
+        A rhythm and focus exercise where words are passed around the group in sequence.
+        It trains attention, timing, eye contact, and the ability to respond without freezing.
+    </p>
+    </details>
+    <details>
+    <summary>Patterns</summary>
+    <p>
+        A harder version of sequence work where multiple patterns overlap at once.
+        The challenge is staying present while your brain tries to buffer.
+    </p>
+    </details>
+    <details>
+    <summary>Mirroring</summary>
+    <p>
+        Two people copy each other's movement, sound, emotion, or rhythm.
+        It teaches a fuller kind of listening, where communication is not just verbal.
+    </p>
+    </details>
+    <details>
+    <summary>Objects</summary>
+    <p>
+        Imaginary objects are created, passed, transformed, and interacted with.
+        The main rule is simple: once something exists, it exists.
+    </p>
+    </details>
+    <details>
+    <summary>What Are You Doing?</summary>
+    <p>
+        One person performs an action. The next person asks what they are doing.
+        The answer becomes the next action. It is simple, fast, and surprisingly good at breaking overthinking.
+    </p>
+    </details>
+    <details>
+    <summary>Freeze</summary>
+    <p>
+        A scene is paused, someone swaps into the same physical position, and the entire context changes.
+        It trains physical awareness, fast reframing, and scene initiation.
+    </p>
+    </details>
+    <details>
+    <summary>Three Line Scenes</summary>
+    <p>
+        A scene built in only three lines: establish, respond, conclude.
+        It forces clarity and stops the scene from drifting.
+    </p>
+    </details>
+    <details>
+    <summary>Multi-Headed Genius</summary>
+    <p>
+        Several people answer as one person, contributing one word at a time.
+        It trains shared control, listening, patience, and sentence-building under pressure.
+    </p>
+    </details>
+    <details>
+    <summary>Professor Smart Brain</summary>
+    <p>
+        A performer becomes an instant expert on a random topic.
+        Accuracy matters less than confidence, detail, and commitment.
+    </p>
+    </details>
+    <details>
+    <summary>Yes Let's</summary>
+    <p>
+        Someone suggests an activity and everyone immediately agrees.
+        It is a direct exercise in acceptance, enthusiasm, and group commitment.
+    </p>
+    </details>
+    <details>
+    <summary>The Machine</summary>
+    <p>
+        Each performer adds a repeating movement and sound to create a human machine.
+        Every part should respond to the part before it.
+    </p>
+    </details>
+    <details>
+    <summary>Boring Scenes</summary>
+    <p>
+        A scene without chasing jokes. The goal is to create a believable conversation and let details emerge naturally.
+    </p>
+    </details>
+    <details>
+    <summary>Group Scenes</summary>
+    <p>
+        Two people begin a scene. Others listen from outside and enter only when they discover a role that already fits the world.
+    </p>
+    </details>
+    <details>
+    <summary>Park Bench</summary>
+    <p>
+        One performer sits on a bench. Another joins and tries to make them uncomfortable enough to leave.
+        The challenge is finding strangeness without simply forcing aggression.
+    </p>
+    </details>
+    <details>
+    <summary>Store Shop Owner</summary>
+    <p>
+        A shop owner sells unusual objects to a customer, while the objects gain more features and functions.
+        It is a strong exercise for gifting, escalation, and absurd sales logic.
+    </p>
+    </details>
+    <details>
+    <summary>AM / FM Radio</summary>
+    <p>
+        Performers act as radio stations. When the station changes, they stop instantly.
+        When it returns, they continue exactly where they left off.
+    </p>
+    </details>
+  </div>
+</section>
+
+<section class="music-section">
+  <h2 class="section-title">Techniques</h2>
+
+  <div class="playlist-grid">
+    <article class="playlist-card">
+      <div class="playlist-card-content">
+        <h3>Shoot the Deer</h3>
+        <p>Get to the point. If the audience cannot follow the scene, subtlety is not helping.</p>
+      </div>
+    </article>
+    <article class="playlist-card">
+        <div class="playlist-card-content">
+            <h3>Who, What, Where</h3>
+            <p>When a scene slows down, clarify the people, action, and location.</p>
+        </div>
+    </article>
+    <article class="playlist-card">
+        <div class="playlist-card-content">
+            <h3>Find the Game</h3>
+            <p>When something starts working, stay with it. Do not abandon the thing generating energy.</p>
+        </div>
+    </article>
+    <article class="playlist-card">
+        <div class="playlist-card-content">
+            <h3>Projection</h3>
+            <p>The audience needs to hear the words and the feeling behind them.</p>
+        </div>
+    </article>
+  </div>
+</section>
+
+</div>

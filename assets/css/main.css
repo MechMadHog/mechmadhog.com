@@ -2164,3 +2164,33 @@ article.py-5 .container {
   color: #05050a;
   text-shadow: none;
 }
+
+/* Improv Page */
+
+.improv-accordion {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.improv-accordion details {
+  border: 1px solid var(--border-soft);
+  border-radius: 18px;
+  background: rgba(10, 10, 18, 0.72);
+  overflow: hidden;
+}
+
+.improv-accordion summary {
+  cursor: pointer;
+  padding: 1rem;
+  font-family: var(--font-head);
+  color: var(--accent);
+  text-shadow: var(--glow);
+  letter-spacing: 0.04em;
+}
+
+.improv-accordion p {
+  padding: 0 1rem 1rem;
+  margin: 0;
+  opacity: 0.78;
+}
