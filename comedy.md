@@ -3,7 +3,7 @@ layout: default
 title: Comedy
 description: Stand up, improv, classes, performances, and the process of learning comedy.
 permalink: /comedy/
--------------------
+---
 
 <div class="music-page">
 
