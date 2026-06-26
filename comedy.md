@@ -18,7 +18,10 @@ permalink: /comedy/
   <h2 class="section-title">Comedy Sections</h2>
 
   <div class="playlist-grid">
-    <a class="playlist-card" href="{{ '/comedy/standup/' | relative_url }}">
+    <a  class="playlist-card"
+        href="{{ '/comedy/standup/' | relative_url }}"
+        target="_blank"
+        rel="noopener">
     <div class="playlist-card-content">
         <h3>🎤 Stand Up</h3>
         <p>
@@ -26,7 +29,10 @@ permalink: /comedy/
         </p>
     </div>
     </a>
-    <a class="playlist-card" href="{{ '/comedy/improv/' | relative_url }}">
+    <a  class="playlist-card"
+        href="{{ '/comedy/improv/' | relative_url }}"
+        target="_blank"
+        rel="noopener">
     <div class="playlist-card-content">
         <h3>🎭 Improv</h3>
         <p>
