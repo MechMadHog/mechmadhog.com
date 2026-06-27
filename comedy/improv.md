@@ -10,7 +10,7 @@ permalink: /comedy/improv/
 <section class="music-hero">
   <h1 class="section-title">Improv</h1>
   <p>
-    Improv looks random from the outside, but the more I learn, the more structure I see underneath it.
+    Improv can look random from the outside, but the more I have learned, the more structure I can see underneath it.
     It's less about trying to be funny and more about listening, reacting, committing, and building something with other people.
   </p>
 </section>
@@ -20,7 +20,7 @@ permalink: /comedy/improv/
   <div class="playlist-grid">
     <article class="playlist-card">
       <div class="playlist-card-content">
-        <h3>Yes, And</h3>
+        <h3>Yes, And...</h3>
         <p>Accept the reality being offered, then add something useful to it.</p>
       </div>
     </article>
@@ -32,13 +32,13 @@ permalink: /comedy/improv/
     </article>
     <article class="playlist-card">
         <div class="playlist-card-content">
-            <h3>Give Gifts</h3>
+            <h3>Giving Gifts</h3>
             <p>Offer names, relationships, locations, emotions, objects, and problems for others to use.</p>
         </div>
     </article>
     <article class="playlist-card">
         <div class="playlist-card-content">
-            <h3>Commit</h3>
+            <h3>Just Commit</h3>
             <p>Make a choice and stand behind it. A clear bad idea is usually better than a vague safe one.</p>
         </div>
     </article>
