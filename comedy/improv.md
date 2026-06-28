@@ -192,5 +192,60 @@ permalink: /comedy/improv/
     </article>
   </div>
 </section>
+<section class="music-section">
+    <h2 class="section-title">Weekly Recaps</h2>
+    <p>
+        After each class I write a recap covering the exercises, techniques,
+        lessons, and anything that stood out to me. These posts document my
+        progress as I continue learning improv.
+    </p>
+    <div class="playlist-grid">
+        <a class="playlist-card"
+           href="{{ '/blog/...week-1...' | relative_url }}"
+           target="_blank"
+           rel="noopener">
+            <div class="playlist-card-content">
+                <h3>Week 1</h3>
+                <p>Starting improv and learning the fundamentals.</p>
+            </div>
+        </a>
+        <a class="playlist-card"
+           href="{{ '/blog/...week-2...' | relative_url }}"
+           target="_blank"
+           rel="noopener">
+            <div class="playlist-card-content">
+                <h3>Week 2</h3>
+                <p>Listening, commitment and building scenes.</p>
+            </div>
+        </a>
+        <a class="playlist-card"
+           href="{{ '/blog/...week-3...' | relative_url }}"
+           target="_blank"
+           rel="noopener">
+            <div class="playlist-card-content">
+                <h3>Week 3</h3>
+                <p>...</p>
+            </div>
+        </a>
+        <a class="playlist-card"
+           href="{{ '/blog/...week-4...' | relative_url }}"
+           target="_blank"
+           rel="noopener">
+            <div class="playlist-card-content">
+                <h3>Week 4</h3>
+                <p>...</p>
+            </div>
+        </a>
+        <a class="playlist-card"
+           href="{{ '/blog/...week-5...' | relative_url }}"
+           target="_blank"
+           rel="noopener">
+            <div class="playlist-card-content">
+                <h3>Week 5</h3>
+                <p>...</p>
+            </div>
+        </a>
+    </div>
+</section>
 
 </div>
