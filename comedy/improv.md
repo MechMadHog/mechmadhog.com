@@ -206,7 +206,7 @@ permalink: /comedy/improv/
            rel="noopener">
             <div class="playlist-card-content">
                 <h3>Week 1</h3>
-                <p>Starting improv and learning the fundamentals.</p>
+                <p>Starting improv & learning the fundamentals.</p>
             </div>
         </a>
         <a class="playlist-card"
@@ -215,7 +215,7 @@ permalink: /comedy/improv/
            rel="noopener">
             <div class="playlist-card-content">
                 <h3>Week 2</h3>
-                <p>Listening, commitment and building scenes.</p>
+                <p>Collaboration work & playing off of other people.</p>
             </div>
         </a>
         <a class="playlist-card"
@@ -224,7 +224,7 @@ permalink: /comedy/improv/
            rel="noopener">
             <div class="playlist-card-content">
                 <h3>Week 3</h3>
-                <p>...</p>
+                <p>How asking the right questions will build the scene.</p>
             </div>
         </a>
         <a class="playlist-card"
@@ -233,7 +233,7 @@ permalink: /comedy/improv/
            rel="noopener">
             <div class="playlist-card-content">
                 <h3>Week 4</h3>
-                <p>...</p>
+                <p>Listen, observe & find your opening, then enter the scene.</p>
             </div>
         </a>
         <a class="playlist-card"
@@ -242,7 +242,7 @@ permalink: /comedy/improv/
            rel="noopener">
             <div class="playlist-card-content">
                 <h3>Week 5</h3>
-                <p>...</p>
+                <p>Make myself heard, I must project the scene to the audience</p>
             </div>
         </a>
     </div>
