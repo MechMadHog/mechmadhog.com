@@ -201,7 +201,7 @@ permalink: /comedy/improv/
     </p>
     <div class="playlist-grid">
         <a class="playlist-card"
-           href="{{ '/blog/...week-1...' | relative_url }}"
+           href="{{ '/blog/Improv-Classes/' | relative_url }}"
            target="_blank"
            rel="noopener">
             <div class="playlist-card-content">
@@ -210,7 +210,7 @@ permalink: /comedy/improv/
             </div>
         </a>
         <a class="playlist-card"
-           href="{{ '/blog/...week-2...' | relative_url }}"
+           href="{{ '/blog/Improv-Class-Week2/' | relative_url }}"
            target="_blank"
            rel="noopener">
             <div class="playlist-card-content">
@@ -219,7 +219,7 @@ permalink: /comedy/improv/
             </div>
         </a>
         <a class="playlist-card"
-           href="{{ '/blog/...week-3...' | relative_url }}"
+           href="{{ '/blog/Improv-Class-Week3/' | relative_url }}"
            target="_blank"
            rel="noopener">
             <div class="playlist-card-content">
@@ -228,7 +228,7 @@ permalink: /comedy/improv/
             </div>
         </a>
         <a class="playlist-card"
-           href="{{ '/blog/...week-4...' | relative_url }}"
+           href="{{ '/blog/Improv-Class-Week4/' | relative_url }}"
            target="_blank"
            rel="noopener">
             <div class="playlist-card-content">
@@ -237,12 +237,39 @@ permalink: /comedy/improv/
             </div>
         </a>
         <a class="playlist-card"
-           href="{{ '/blog/...week-5...' | relative_url }}"
+           href="{{ '/blog/Improv-Class-Week5/' | relative_url }}"
            target="_blank"
            rel="noopener">
             <div class="playlist-card-content">
                 <h3>Week 5</h3>
-                <p>Make myself heard, I must project the scene to the audience</p>
+                <p>Make myself heard, I must project the scene to the audience.</p>
+            </div>
+        </a>
+        <a class="playlist-card"
+           href="{{ '/blog/...week-6...' | relative_url }}"
+           target="_blank"
+           rel="noopener">
+            <div class="playlist-card-content">
+                <h3>Week 6</h3>
+                <p>Coming Soon...</p>
+            </div>
+        </a>
+        <a class="playlist-card"
+           href="{{ '/blog/...week-7...' | relative_url }}"
+           target="_blank"
+           rel="noopener">
+            <div class="playlist-card-content">
+                <h3>Week 7</h3>
+                <p>Coming Soon...</p>
+            </div>
+        </a>
+        <a class="playlist-card"
+           href="{{ '/blog/...week-8...' | relative_url }}"
+           target="_blank"
+           rel="noopener">
+            <div class="playlist-card-content">
+                <h3>Week 8</h3>
+                <p>Coming Soon...</p>
             </div>
         </a>
     </div>
