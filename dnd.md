@@ -8,7 +8,6 @@ description: My Dungeons & Dragons characters, campaigns, and adventures with th
 <section class="page-section dnd-page">
 
   <header class="section-header">
-    <h1>🐉 Dungeons & Dragons</h1>
     <p>
       Dungeons & Dragons is one of my favourite hobbies. Every second Wednesday,
       I meet up with the fantastic group from
