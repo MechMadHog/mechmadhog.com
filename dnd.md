@@ -53,7 +53,7 @@ description: My Dungeons & Dragons characters, campaigns, and adventures with th
     <article class="content-card character-card">
       <h3>⚔️ Sir Render Rordye</h3>
       <p class="muted"><strong>Level 6 Half-Orc Barbarian / Fighter</strong></p>
-      <p>A knight whose solution to almost every problem involves charging directly towards it. My first attempt at a multiclass character.</p>
+      <p>A knight whose solution to almost every problem involves charging directly towards it. This was my first attempt at a multiclass character.</p>
     </article>
   </section>
   
