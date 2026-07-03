@@ -37,23 +37,23 @@ description: My Dungeons & Dragons characters, campaigns, and adventures with th
   <section class="card-grid character-grid">
     <article class="content-card character-card">
       <h3>🪓 Hank Grimmash</h3>
-      <p class="muted"><strong>Level 5 Half-Orc Rogue / Thief</strong></p>
-      <p>My first D&D character. Hank introduced me to tabletop roleplaying.</p>
+      <p class="muted"><strong>Level 5 Half-Orc Rogue</strong></p>
+      <p>My first D&D character. Hank introduced me to tabletop roleplaying. Sneak attacks and long distance weapons.</p>
     </article>
     <article class="content-card character-card">
       <h3>🛡️ Declan Largetoes</h3>
       <p class="muted"><strong>Level 7 Deep Gnome Paladin</strong></p>
-      <p>An Oath of Devotion Paladin. Small character, large moral backbone.</p>
+      <p>An Oath of Devotion Paladin. Small character, large moral backbone. My toe dip into magic and can trips.</p>
     </article>
     <article class="content-card character-card">
       <h3>💈 Ian</h3>
       <p class="muted"><strong>Level 5 Elf Barbarian</strong></p>
-      <p>A barber by trade who solves problems with considerably more rage than customer service.</p>
+      <p>A barber by trade who solves problems with considerably more rage than customer service. Rage and a large hammer</p>
     </article>
     <article class="content-card character-card">
       <h3>⚔️ Sir Render Rordye</h3>
       <p class="muted"><strong>Level 6 Half-Orc Barbarian / Fighter</strong></p>
-      <p>A knight whose solution to almost every problem involves charging directly towards it.</p>
+      <p>A knight whose solution to almost every problem involves charging directly towards it. My first attempt at a multiclass character.</p>
     </article>
   </section>
   
