@@ -4,43 +4,51 @@ title: Movies & TV
 permalink: /movies-tv/
 ---
 
-<section class="content-card">
-  <h2>💬 Favourite Quotes</h2>
+<section class="page-section movies-page">
 
-  <p>
-    Some films stay with you because of a performance.
-    Others because of a single line that refuses to leave your head.
-  </p>
+  <header class="section-header">
+    <p>
+      Films and television have always been a huge source of inspiration for me:
+      the performances, the atmosphere, the soundtrack choices, the dialogue,
+      and the strange little details that stay lodged in your head years later.
+    </p>
 
-  <p>
-    I've collected many of my favourite quotes from films and TV shows on my
-    <a href="/quotes/">Quotes page</a>.
-  </p>
+    <p>
+      I keep track of what I watch on
+      <a href="https://letterboxd.com/mechmadhog/" target="_blank" rel="noopener noreferrer">
+        Letterboxd
+      </a>.
+    </p>
+  </header>
 
-  <a class="button" href="/quotes/">
-    Browse Favourite Quotes →
-  </a>
-</section>
+  <section class="content-card">
+    <h2>🎥 Letterboxd</h2>
 
-<section class="content-card">
-  <h2>🎥 Letterboxd</h2>
+    <p>
+      I log films, rate what I watch, keep track of favourites, and occasionally
+      discover something completely unexpected.
+    </p>
 
-  <p>
-    I log the films I watch, keep track of favourites, and occasionally discover
-    something completely unexpected.
-  </p>
+    <p>
+      You can follow along here:
+      <a href="https://letterboxd.com/mechmadhog/" target="_blank" rel="noopener noreferrer">
+        letterboxd.com/mechmadhog
+      </a>
+    </p>
+  </section>
 
-  <p>
-    If you're looking for recommendations—or just want to judge my taste—you can
-    follow me on Letterboxd.
-  </p>
+  <section class="content-card">
+    <h2>💬 Favourite Quotes</h2>
 
-  <p>
-    <a
-      href="https://letterboxd.com/mechmadhog/"
-      target="_blank"
-      rel="noopener noreferrer">
-      letterboxd.com/mechmadhog
-    </a>
-  </p>
+    <p>
+      Some films stay with you because of a performance. Others because of a
+      single line that refuses to leave your head.
+    </p>
+
+    <p>
+      I collect some of my favourite lines from film and television on my
+      <a href="{{ '/quotes/' | relative_url }}">Quotes page</a>.
+    </p>
+  </section>
+
 </section>
