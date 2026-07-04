@@ -2336,3 +2336,20 @@ article.py-5 .container {
     }
 
 }
+
+/* Movies */
+.movies-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.movies-page .section-header,
+.movies-page .content-card {
+  background: rgba(10, 10, 20, 0.72);
+  border: 1px solid rgba(160, 120, 255, 0.25);
+  border-radius: 16px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 0 24px rgba(120, 70, 255, 0.15);
+}
