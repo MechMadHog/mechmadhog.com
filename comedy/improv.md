@@ -159,6 +159,13 @@ permalink: /comedy/improv/
         When it returns, they continue exactly where they left off.
     </p>
     </details>
+    <details>
+    <summary>Oscar Winning Moment</summary>
+    <p>
+        Performer act out an Oscar Winning Moment. 
+        You get your scene and the film its in, you perform it like it's Ocsar worthy.
+    </p>
+    </details>
   </div>
 </section>
 
@@ -246,12 +253,12 @@ permalink: /comedy/improv/
             </div>
         </a>
         <a class="playlist-card"
-           href="{{ '/blog/...week-6...' | relative_url }}"
+           href="{{ '/blog/Improv-Class-Week6/' | relative_url }}"
            target="_blank"
            rel="noopener">
             <div class="playlist-card-content">
                 <h3>Week 6</h3>
-                <p>Coming Soon...</p>
+                <p>When time disappears and creativity takes over.</p>
             </div>
         </a>
         <a class="playlist-card"
