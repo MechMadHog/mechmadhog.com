@@ -4,7 +4,7 @@ title: "Improv Class Week 6"
 description: "More learning to think on the spot."
 categories: [Personal, Social]
 tags: [improv, comedy, social, learning, classes, creativity]
-image: /assets/images/blog/ImprovClass5.png
+image: /assets/images/blog/ImprovClass6.png
 featured: false
 ---
 
