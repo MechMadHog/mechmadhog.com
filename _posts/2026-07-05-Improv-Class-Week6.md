@@ -12,11 +12,7 @@ featured: false
 
 This week's stretch was all about those rare moments where you become so focused that everything else disappears.
 
-Time speeds up.
-
-Your brain stops getting in the way.
-
-You're just... doing.
+Time speeds up, your brain stops getting in the way and you're just... doing.
 
 ### Flow State
 
