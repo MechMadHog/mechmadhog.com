@@ -72,10 +72,21 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
 <section class="panel panel--overview">
   <div class="home-grid">
     <article class="home-card">
+      <h3>🎭 Improv</h3>
+      <p>
+        Weekly class recaps, exercises,
+        scenes, notes, and what I'm learning
+        from performing in the moment.
+      </p>
+      <a href="{{ '/comedy/improv/' | relative_url }}" class="home-card-link">
+        Read Improv Notes →
+      </a>
+    </article>
+    <article class="home-card">
       <h3>👤 About</h3>
       <p>
         Who I am, what <strong>MechMadHog</strong> is,
-        and why this Site exists.
+        and why this site exists.
       </p>
       <a href="{{ '/about/' | relative_url }}" class="home-card-link">
         Read my Profile →
@@ -84,30 +95,18 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
     <article class="home-card">
       <h3>🎨 Art</h3>
       <p>
-        Sketches, Designs, UI Experiments,
-        and Visual Ideas.
+        Sketches, designs, visual experiments,
+        and creative work from across the site.
       </p>
       <a href="{{ '/art/' | relative_url }}" class="home-card-link">
         Browse the Gallery →
       </a>
     </article>
     <article class="home-card">
-      <h3>🧭 Now</h3>
-      <p>
-        What I'm focused on right now...
-        Ankle Rehab, Learning, Projects,
-        and whatever comes next.
-      </p>
-      <a href="{{ '/now/' | relative_url }}" class="home-card-link">
-        Current Status →
-      </a>
-    </article>
-    <article class="home-card">
       <h3>📝 Journal</h3>
       <p>
-        Day to day Notes on Training,
-        Food Experiments, Tech,
-        and things I'm figuring out.
+        Notes on training, food experiments,
+        tech, projects, and things I'm figuring out.
       </p>
       <a href="{{ '/journal/' | relative_url }}" class="home-card-link">
         Read the Journal →
