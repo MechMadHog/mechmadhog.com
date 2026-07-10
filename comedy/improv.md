@@ -50,121 +50,226 @@ permalink: /comedy/improv/
 
   <div class="improv-accordion">
     <details>
-    <summary>Zip, Zap, Zop</summary>
-    <p>
-        A rhythm and focus exercise where words are passed around the group in sequence.
-        It trains attention, timing, eye contact, and the ability to respond without freezing.
-    </p>
+        <summary>Zip, Zap, Zop</summary>
+        <p>
+            A rhythm and focus exercise where words are passed around the group in sequence.
+            It trains attention, timing, eye contact, and the ability to respond without freezing.
+        </p>
     </details>
     <details>
-    <summary>Patterns</summary>
-    <p>
-        A harder version of sequence work where multiple patterns overlap at once.
-        The challenge is staying present while your brain tries to buffer.
-    </p>
+        <summary>Patterns</summary>
+        <p>
+            A harder version of sequence work where multiple patterns overlap at once.
+            The challenge is staying present while your brain tries to buffer.
+        </p>
     </details>
     <details>
-    <summary>Mirroring</summary>
-    <p>
-        Two people copy each other's movement, sound, emotion, or rhythm.
-        It teaches a fuller kind of listening, where communication is not just verbal.
-    </p>
+        <summary>Mirroring</summary>
+        <p>
+            Two people copy each other's movement, sound, emotion, or rhythm.
+            It teaches a fuller kind of listening, where communication is not just verbal.
+        </p>
     </details>
     <details>
-    <summary>Objects</summary>
-    <p>
-        Imaginary objects are created, passed, transformed, and interacted with.
-        The main rule is simple: once something exists, it exists.
-    </p>
+        <summary>Objects</summary>
+        <p>
+            Imaginary objects are created, passed, transformed, and interacted with.
+            The main rule is simple: once something exists, it exists.
+        </p>
     </details>
     <details>
-    <summary>What Are You Doing?</summary>
-    <p>
-        One person performs an action. The next person asks what they are doing.
-        The answer becomes the next action. It is simple, fast, and surprisingly good at breaking overthinking.
-    </p>
+        <summary>What Are You Doing?</summary>
+        <p>
+            One person performs an action. The next person asks what they are doing.
+            The answer becomes the next action. It is simple, fast, and surprisingly good at breaking overthinking.
+        </p>
     </details>
     <details>
-    <summary>Freeze</summary>
-    <p>
-        A scene is paused, someone swaps into the same physical position, and the entire context changes.
-        It trains physical awareness, fast reframing, and scene initiation.
-    </p>
+        <summary>Freeze</summary>
+        <p>
+            A scene is paused, someone swaps into the same physical position, and the entire context changes.
+            It trains physical awareness, fast reframing, and scene initiation.
+        </p>
     </details>
     <details>
-    <summary>Three Line Scenes</summary>
-    <p>
-        A scene built in only three lines: establish, respond, conclude.
-        It forces clarity and stops the scene from drifting.
-    </p>
+        <summary>Three Line Scenes</summary>
+        <p>
+            A scene built in only three lines: establish, respond, conclude.
+            It forces clarity and stops the scene from drifting.
+        </p>
     </details>
     <details>
-    <summary>Multi-Headed Genius</summary>
-    <p>
-        Several people answer as one person, contributing one word at a time.
-        It trains shared control, listening, patience, and sentence-building under pressure.
-    </p>
+        <summary>Multi-Headed Genius</summary>
+        <p>
+            Several people answer as one person, contributing one word at a time.
+            It trains shared control, listening, patience, and sentence-building under pressure.
+        </p>
     </details>
     <details>
-    <summary>Professor Smart Brain</summary>
-    <p>
-        A performer becomes an instant expert on a random topic.
-        Accuracy matters less than confidence, detail, and commitment.
-    </p>
+        <summary>Professor Smart Brain</summary>
+        <p>
+            A performer becomes an instant expert on a random topic.
+            Accuracy matters less than confidence, detail, and commitment.
+        </p>
     </details>
     <details>
-    <summary>Yes Let's</summary>
-    <p>
-        Someone suggests an activity and everyone immediately agrees.
-        It is a direct exercise in acceptance, enthusiasm, and group commitment.
-    </p>
+        <summary>Yes Let's</summary>
+        <p>
+            Someone suggests an activity and everyone immediately agrees.
+            It is a direct exercise in acceptance, enthusiasm, and group commitment.
+        </p>
     </details>
     <details>
-    <summary>The Machine</summary>
-    <p>
-        Each performer adds a repeating movement and sound to create a human machine.
-        Every part should respond to the part before it.
-    </p>
+        <summary>The Machine</summary>
+        <p>
+            Each performer adds a repeating movement and sound to create a human machine.
+            Every part should respond to the part before it.
+        </p>
     </details>
     <details>
-    <summary>Boring Scenes</summary>
-    <p>
-        A scene without chasing jokes. The goal is to create a believable conversation and let details emerge naturally.
-    </p>
+        <summary>Boring Scenes</summary>
+        <p>
+            A scene without chasing jokes. The goal is to create a believable conversation and let details emerge naturally.
+        </p>
     </details>
     <details>
-    <summary>Group Scenes</summary>
-    <p>
-        Two people begin a scene. Others listen from outside and enter only when they discover a role that already fits the world.
-    </p>
+        <summary>Group Scenes</summary>
+        <p>
+            Two people begin a scene. Others listen from outside and enter only when they discover a role that already fits the world.
+        </p>
     </details>
     <details>
-    <summary>Park Bench</summary>
-    <p>
-        One performer sits on a bench. Another joins and tries to make them uncomfortable enough to leave.
-        The challenge is finding strangeness without simply forcing aggression.
-    </p>
+        <summary>Park Bench</summary>
+        <p>
+            One performer sits on a bench. Another joins and tries to make them uncomfortable enough to leave.
+            The challenge is finding strangeness without simply forcing aggression.
+        </p>
     </details>
     <details>
-    <summary>Store Shop Owner</summary>
-    <p>
-        A shop owner sells unusual objects to a customer, while the objects gain more features and functions.
-        It is a strong exercise for gifting, escalation, and absurd sales logic.
-    </p>
+        <summary>Store Shop Owner</summary>
+        <p>
+            A shop owner sells unusual objects to a customer, while the objects gain more features and functions.
+            It is a strong exercise for gifting, escalation, and absurd sales logic.
+        </p>
     </details>
     <details>
-    <summary>AM / FM Radio</summary>
-    <p>
-        Performers act as radio stations. When the station changes, they stop instantly.
-        When it returns, they continue exactly where they left off.
-    </p>
+        <summary>AM / FM Radio</summary>
+        <p>
+            Performers act as radio stations. When the station changes, they stop instantly.
+            When it returns, they continue exactly where they left off.
+        </p>
     </details>
     <details>
-    <summary>Oscar Winning Moment</summary>
-    <p>
-        Performer act out an Oscar Winning Moment. 
-        You get your scene and the film its in, you perform it like it's Ocsar worthy.
-    </p>
+        <summary>Oscar Winning Moment</summary>
+        <p>
+            Performer act out an Oscar Winning Moment. 
+            You get your scene and the film its in, you perform it like it's Ocsar worthy.
+        </p>
+    </details>
+    <details>
+        <summary>Alphabet Scenes</summary>
+        <p>
+            Two performers create a scene where each new line must begin with the next
+            letter of the alphabet. The challenge is following the sequence while
+            keeping the conversation natural and believable.
+        </p>
+    </details>
+    <details>
+        <summary>Trust the Silence</summary>
+        <p>
+            A scene where performers are given cues for when they may speak.
+            It develops patience, active listening, non-verbal communication, and
+            confidence in allowing silence to exist.
+        </p>
+    </details>
+    <details>
+        <summary>The Questions Game</summary>
+        <p>
+            Every line of dialogue must be a question. Using a statement ends the game,
+            forcing performers to think quickly while keeping the conversation alive.
+        </p>
+    </details>
+    <details>
+        <summary>The Clingy Priest</summary>
+        <p>
+            A random adjective and occupation are combined to create an unusual
+            character. The performer must fully commit to the role, no matter how
+            absurd or uncomfortable it may be.
+        </p>
+    </details>
+    <details>
+        <summary>New Choice</summary>
+        <p>
+            During a scene, someone can call <strong>"New Choice!"</strong> to make a
+            performer replace their previous line or action with something completely
+            different. It encourages flexibility and prevents performers from relying
+            on their first obvious idea.
+        </p>
+    </details>
+    <details>
+        <summary>The Sales Person</summary>
+        <p>
+            A group works together to sell a randomly selected product to an audience.
+            Each performer accepts the existing sales pitch and adds new features,
+            benefits, and increasingly ridiculous reasons to buy it.
+        </p>
+    </details>
+    <details>
+        <summary>Exploring the Room</summary>
+        <p>
+            Performers move independently around the room while following different
+            instructions such as curiosity, confidence, excitement, or balancing an
+            object. It develops physical awareness, expression, and stage presence.
+        </p>
+    </details>
+    <details>
+        <summary>Harold</summary>
+        <p>
+            A long-form improv format where audience suggestions inspire a series of
+            connected scenes. Characters, ideas, and themes introduced early often
+            return and develop throughout the performance.
+        </p>
+    </details>
+    <details>
+        <summary>Armando</summary>
+        <p>
+            A personal story or association is inspired by a single word or suggestion.
+            Those real experiences then become the starting point for improvised scenes
+            built around the ideas that emerge.
+        </p>
+    </details>
+    <details>
+        <summary>Slide Show</summary>
+        <p>
+            One performer presents a fictional slide show while the rest of the group
+            creates each slide using frozen poses. The presenter invents the story by
+            confidently explaining whatever appears in each image.
+        </p>
+    </details>
+    <details>
+        <summary>Bippity, Bippity, Bop</summary>
+        <p>
+            One performer stands in the centre of the circle and attempts to finish
+            saying <strong>"Bippity, Bippity, Bop"</strong> before the chosen player
+            can respond. Whoever reacts too slowly becomes the new player in the
+            centre.
+        </p>
+    </details>
+    <details>
+        <summary>Switching Themes</summary>
+        <p>
+            Two performers replay the same scene multiple times while adopting
+            different themes or genres. The dialogue changes very little, but the
+            characters, emotions, and context completely transform the scene.
+        </p>
+    </details>
+    <details>
+        <summary>World's Worst</summary>
+        <p>
+            A category is chosen and each performer describes the world's worst example
+            of it. The game encourages quick thinking, escalation, and finding fresh
+            ideas without repeating what has already been said.
+        </p>
     </details>
   </div>
 </section>
@@ -262,12 +367,12 @@ permalink: /comedy/improv/
             </div>
         </a>
         <a class="playlist-card"
-           href="{{ '/blog/...week-7...' | relative_url }}"
+           href="{{ '/blog/Improv-Class-Week7/' | relative_url }}"
            target="_blank"
            rel="noopener">
             <div class="playlist-card-content">
                 <h3>Week 7</h3>
-                <p>Coming Soon...</p>
+                <p>A New Perspective Can Change Everything.</p>
             </div>
         </a>
         <a class="playlist-card"
