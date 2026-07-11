@@ -279,10 +279,10 @@ permalink: /comedy/improv/
 
   <div class="playlist-grid">
     <article class="playlist-card">
-      <div class="playlist-card-content">
-        <h3>Shoot the Deer</h3>
-        <p>Get to the point. If the audience cannot follow the scene, subtlety is not helping.</p>
-      </div>
+        <div class="playlist-card-content">
+            <h3>Shoot the Deer</h3>
+            <p>Get to the point. If the audience cannot follow the scene, subtlety is not helping.</p>
+        </div>
     </article>
     <article class="playlist-card">
         <div class="playlist-card-content">

@@ -17,7 +17,7 @@ permalink: /comedy/
 <section class="music-section">
   <h2 class="section-title">Comedy Sections</h2>
 
-  <div class="playlist-grid">
+  <div class="playlist-grid comedy-grid">
     <a  class="playlist-card"
         href="{{ '/comedy/standup/' | relative_url }}"
         target="_blank"
