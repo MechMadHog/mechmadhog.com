@@ -376,7 +376,7 @@ permalink: /comedy/improv/
             </div>
         </a>
         <a class="playlist-card"
-           href="{{ '/blog/...week-8...' | relative_url }}"
+           href="{{ '/blog/Improv-Class-Week8' | relative_url }}"
            target="_blank"
            rel="noopener">
             <div class="playlist-card-content">
