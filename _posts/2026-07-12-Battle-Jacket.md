@@ -18,7 +18,7 @@ It's something that evolves alongside my taste in music, the bands I've seen liv
 ---
 
 ## The Centrepiece
-The jacket is built around a large **Fenrir*- back patch, topped with a **Meshuggah*- as a head-piece, probably because progressive drums tie all of my tastes together.
+The jacket is built around a large **Fenrir*- back patch, topped with a **Meshuggah*- as a Rocker Patch, probably because progressive drums tie all of my tastes together.
 
 Fenrir isn't just there because it looks cool, It fits the darker, Scandinavian-inspired aesthetic and that has always appealed to me and serves as the visual anchor for the entire jacket.
 
@@ -58,8 +58,8 @@ Their placement will decide their fate, I also have a few more but they didn't m
 The next additions will better reflect what I listen to today, including the bands already present such as:
 
 ### On The Back
-- Meshuggah (top piece)
-- 🐺 Fenrir (back patch)
+- Meshuggah (Rocker Patch)
+- 🐺 Fenrir (Back Patch)
 - Slayer
 - Violator
 - Kyuss
