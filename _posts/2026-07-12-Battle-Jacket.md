@@ -32,7 +32,7 @@ After laying the jacket out and looking at it with fresh eyes, I realised a few 
 Rather than trying to cram every band I enjoy onto one jacket, I'd rather it reflected the music I actually come back to again and again.
 
 So I removed a few and will swap them all out with more of my favourites... 
-Potentially Coming Soon:
+Potentially Coming Soon / Getting Added Back:
 - After the Burial
 - Psycroptic
 - Pantera
@@ -47,6 +47,7 @@ Potentially Coming Soon:
 - Annihilator
 - Korn
 - Children of Bodom
+- Mastodon
 - Russian Circles
 
 Their placement will decide their fate, I also have a few more but they didn't make the cut.
