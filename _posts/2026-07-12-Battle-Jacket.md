@@ -42,7 +42,6 @@ Potentially Coming Soon / Getting Added Back:
 - Amon Amarth
 - Iron Reagan
 - Gamma Bomb
-- Within the Ruins
 - The Sword
 - Annihilator
 - Korn
