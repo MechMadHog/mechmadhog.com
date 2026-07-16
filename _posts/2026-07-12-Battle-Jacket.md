@@ -10,7 +10,7 @@ featured: false
 
 # Updating My Battle Jacket for Brutal Assault 🤘
 
-With **Brutal Assault*- getting closer, it felt like the right time to revisit my battle jacket.
+With **Brutal Assault** getting closer, it felt like the right time to revisit my battle jacket.
 
 Like most things I build, it isn't meant to be finished. 
 It's something that evolves alongside my taste in music, the bands I've seen live, and the memories I've collected over the years.
@@ -18,7 +18,7 @@ It's something that evolves alongside my taste in music, the bands I've seen liv
 ---
 
 ## The Centrepiece
-The jacket is built around a large **Fenrir*- back patch, topped with a **Meshuggah*- as a Rocker Patch, probably because progressive drums tie all of my tastes together.
+The jacket is built around a large **Fenrir** back patch, topped with a **Meshuggah** as a Rocker Patch, probably because progressive drums tie all of my tastes together.
 
 Fenrir isn't just there because it looks cool, It fits the darker, Scandinavian-inspired aesthetic and that has always appealed to me and serves as the visual anchor for the entire jacket.
 
