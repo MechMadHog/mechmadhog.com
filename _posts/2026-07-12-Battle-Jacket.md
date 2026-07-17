@@ -88,42 +88,14 @@ The next additions will better reflect what I listen to today, including the ban
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The goal isn't to follow a particular subgenre.
-
 It's to build a jacket that genuinely represents **my*- taste, whether that's technical metal, thrash, groove, stoner rock, alternative metal or something completely different.
 
 ## More Than Decoration
 
 Battle jackets are personal.
 
-Every patch represents a band you've discovered, an album you've worn out, a gig you'll never forget, or simply music that helped shape who you are.
+Every patch represents a band I've discovered. Mine jacket changed several times already, and I expect it will continue changing for years to come.
 
-Mine has changed several times already, and I expect it will continue changing for years to come.
-
-That's part of the appeal.
-
-A battle jacket isn't something you complete.
-
-It's something you grow into.
+A battle jacket isn't something I'll complete, It's something I'll grow into.
 
 ---
-
-*This update is one more step in preparing for **Brutal Assault 2026**. Between the jacket, the festival flag, and everything else I'm working on, it's starting to feel like the countdown has really begun.- 🤘
