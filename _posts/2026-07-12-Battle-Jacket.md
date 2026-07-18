@@ -31,8 +31,7 @@ After laying the jacket out and looking at it with fresh eyes, I realised a few 
 
 Rather than trying to cram every band I enjoy onto one jacket, I'd rather it reflected the music I actually come back to again and again.
 
-So I removed a few and will swap them all out with more of my favourites... 
-Potentially Coming Soon / Getting Added Back:
+So I removed a few and will swap them all out with more of my favourites... and the potentially coming soon or the possibly getting added back later:
 - After the Burial
 - Psycroptic
 - Pantera
@@ -55,7 +54,7 @@ Their placement will decide their fate, I also have a few more but they didn't m
 
 ## What was already there
 
-The next additions will better reflect what I listen to today, including the bands already present such as:
+The next additions will better reflect the total of what I listen to, including the bands already present:
 
 ### On The Back
 - Meshuggah (Rocker Patch)
