@@ -14,8 +14,6 @@ This week's stretch was about something we've splurged on.
 Not necessarily the most expensive thing we've ever bought...
 Just something that, looking back, was completely worth it.
 
-
-
 ### A Worthwhile Splurge
 
 **Brave Brett**
