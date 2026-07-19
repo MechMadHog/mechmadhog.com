@@ -166,8 +166,8 @@ a:hover {
 /* welcome hero */
 #welcome-section.panel--welcome {
   min-height: auto;
-  padding-top: calc(var(--space) * 2) !important;
-  padding-bottom: calc(var(--space) * 2) !important;
+  padding-top: calc(var(--space) * 0.5) !important;
+  padding-bottom: calc(var(--space) * 0.5) !important;
   display: grid;
   place-items: center;
 }
