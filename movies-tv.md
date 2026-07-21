@@ -41,13 +41,11 @@ permalink: /movies-tv/
     <h2>💬 Favourite Quotes</h2>
 
     <p>
-      Some films stay with you because of a performance. Others because of a
-      single line that refuses to leave your head.
+      Some films stay with you because of a performance. Others because of a single line that refuses to leave your head.
     </p>
 
     <p>
-      I collect some of my favourite lines from film and television on my
-      <a href="{{ '/quotes/' | relative_url }}">Quotes page</a>.
+      I collect some of my favourite lines from film and television on my <a href="{{ '/quotes/' | relative_url }}">Quotes page</a>.
     </p>
   </section>
 
