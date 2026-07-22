@@ -37,6 +37,7 @@ permalink: /movies-tv/
       They are funny, strange, exciting and occasionally sad—but sad in a way
       that is still enjoyable to return to.
     </p>
+    <hr>
     <ul class="film-list">
       <li><em>Pump Up the Volume</em></li>
       <li><em>The Accountant</em></li>
