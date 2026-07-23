@@ -10,18 +10,28 @@ description: "Get in touch."
   <div class="contact-grid">
     <!-- Intro / context -->
     <article class="contact-card contact-card--intro">
-      <h2>Before You Send Anything</h2>
+      <h2>Two Sites, Same Person</h2>
       <p>
-        Just know that I run two sites:
+        I maintain two websites with slightly different purposes:
       </p>
-      <ul>
+      <ul class="contact-sites">
         <li>
-          <strong title="you are already here">mechmadhog.com</strong> ... the lab. Training logs. Art. Systems. Experiments. Occasional controlled chaos. If something breaks, it was intentional.
+          <strong>mechmadhog.com</strong>
+          <span>
+            The personal one: art, comedy, projects, experiments,
+            training logs, and occasional controlled chaos.
+          </span>
         </li>
         <li>
-          <a href="https://michaelmacdonagh.net" target="_blank" rel="noopener noreferrer">
+          <a href="https://michaelmacdonagh.net"
+            target="_blank"
+            rel="noopener noreferrer">
             <strong>michaelmacdonagh.net</strong>
-          </a> ... the suit. CV. Skills. Clean lines. Polite typography. This is the version you show employers so they don’t ask uncomfortable questions.
+          </a>
+          <span>
+            The professional one: my CV, experience, skills,
+            portfolio, and employable typography.
+          </span>
         </li>
       </ul>
       <p class="muted small-note">
@@ -89,15 +99,14 @@ description: "Get in touch."
         </label>
         <!-- Consent checkbox -->
         <label class="consent-row">
-          <input
+         <input
             type="checkbox"
-            name="consent"
-            required
+            name="reply_requested"
             value="yes"
             class="consent-checkbox"
           >
           <span>
-            Tick this if you want a reply to this message.
+            I consent to being contacted in response to this message.
           </span>
         </label>
         <div class="form-actions">
