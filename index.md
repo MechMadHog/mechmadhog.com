@@ -60,7 +60,7 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
         <div class="w0"></div>
         <div class="w1"></div>
         <button type="button" class="show-btn">
-          Is an ANAGRAM of...
+          Is an ANAGRAM of
         </button>
         <div class="w2 no-glow"></div>
         <div class="w0"></div>
@@ -74,12 +74,10 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
     <article class="home-card">
       <h3>🎭 Improv</h3>
       <p>
-        Weekly class recaps, exercises,
-        scenes, notes, and what I'm learning
-        from performing in the moment.
+        My latest obsession. Weekly class notes, techniques, exercises, scene ideas, and lessons learned from thinking on the spot.
       </p>
       <a href="{{ '/comedy/improv/' | relative_url }}" class="home-card-link">
-        Read Improv Notes →
+        Read My Notes →
       </a>
     </article>
     <article class="home-card">
@@ -89,7 +87,7 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
         and why this site exists.
       </p>
       <a href="{{ '/about/' | relative_url }}" class="home-card-link">
-        Read my Profile →
+        Check Out My Profile →
       </a>
     </article>
     <article class="home-card">
