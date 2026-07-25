@@ -93,21 +93,21 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
     <article class="home-card">
       <h3>🎨 Illustrated Projects</h3>
       <p>
-        Sketches, designs, visual experiments,
-        and creative work from across the site.
+        Artwzork?, Sketches, designs 
+        and other various creative pieces.
       </p>
       <a href="{{ '/art/' | relative_url }}" class="home-card-link">
         Browse the Gallery →
       </a>
     </article>
     <article class="home-card">
-      <h3>📝 Journal</h3>
+      <h3>📝 My Attempt at Blogging</h3>
       <p>
         Notes on training, food experiments,
         tech, projects, and things I'm figuring out.
       </p>
       <a href="{{ '/journal/' | relative_url }}" class="home-card-link">
-        Read the Journal →
+        Read the Journals →
       </a>
     </article>
   </div>
