@@ -91,7 +91,7 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
       </a>
     </article>
     <article class="home-card">
-      <h3>🎨 Art</h3>
+      <h3>🎨 Illustrated Projects</h3>
       <p>
         Sketches, designs, visual experiments,
         and creative work from across the site.
