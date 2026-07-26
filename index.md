@@ -81,9 +81,9 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
       </a>
     </article>
     <article class="home-card">
-      <h3>👤 About</h3>
+      <h3>👤 Who Am I?</h3>
       <p>
-        Who I am, what <strong>MechMadHog</strong> is,
+        About me, what <strong>MechMadHog</strong> is,
         and why this site exists.
       </p>
       <a href="{{ '/about/' | relative_url }}" class="home-card-link">
@@ -107,7 +107,7 @@ description: "Live log of my training, AI tools, drawing, and rebuilding my syst
         tech, projects, and things I'm figuring out.
       </p>
       <a href="{{ '/journal/' | relative_url }}" class="home-card-link">
-        Read the Journals →
+        Read my entries →
       </a>
     </article>
   </div>
