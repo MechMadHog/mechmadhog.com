@@ -24,20 +24,16 @@ description: "Who I am, what I'm doing, and what this site actually is."
       <div class="about-main-text">
         <h2>Who I Am</h2>
         <p>
-          I'm <strong>Mike MacDonagh</strong>... based in Mullingar.
-          Online I go by <strong>Mechanical Mad Hog</strong> or <strong>MechMadHog</strong>.
+          I'm <strong>Mike MacDonagh</strong>, based in Mullingar, Ireland. I usually go by <strong>Mechanical Mad Hog</strong> or simply <strong>MechMadHog</strong>.
         </p>
         <p>
-          I work in Tech. Mostly fixing Systems that shouldn't have been built badly
-          in the first place.
+          I enjoy building things, sometimes that's software, sometimes artwork, sometimes websites, and sometimes something entirely new.
         </p>
         <p>
-          I build Tools, Websites, and Systems that make things simpler.
-          If something annoys me enough... I usually build a better version.
+          I like taking complicated ideas and turning them into practical systems; If something is repetitive, confusing, or badly designed, I usually try to improve it.
         </p>
         <p>
-          This Site is a log of what I'm working on...
-          Code, Training, Ideas, and Experiments.
+          This site is where I document that process the projects I build, the skills I'm learning, and the progress I'm making along the way.
         </p>
       </div>
     </article>
@@ -45,21 +41,21 @@ description: "Who I am, what I'm doing, and what this site actually is."
       <article class="about-card">
         <h2>Roles</h2>
         <ul class="about-list">
-          <li><strong>Builder</strong>... Websites, Tools, and small Systems.</li>
-          <li><strong>Artist</strong>... Drawing, Painting, CRT-style Designs.</li>
-          <li><strong>Lifter (in progress)</strong>... rebuilding Strength after Injury.</li>
-          <li><strong>World Builder</strong>... Cyberpunk Stories, Playlists, long Ideas.</li>
-          <li><strong>Tinkerer</strong>... fixing things that almost work.</li>
+          <li><strong>Developer</strong>... Websites, automation, and useful tools.</li>
+          <li><strong>Artist</strong>... Digital art, illustration, and visual design.</li>
+          <li><strong>Comedian</strong>... Learning improv and writing stand-up.</li>
+          <li><strong>Problem Solver</strong>... Building systems that remove friction.</li>
+          <li><strong>Lifelong Student</strong>... Always learning the next skill.</li>
         </ul>
       </article>
       <article class="about-card">
         <h2>Right Now</h2>
         <ul class="about-list">
-          <li>Dropping Weight and rebuilding Strength.</li>
-          <li>Dialling in Food and Habits that actually stick.</li>
-          <li>Finishing FreeCodeCamp and ZTM properly.</li>
-          <li>Building <strong>Walter</strong>... my AI Assistant Project.</li>
-          <li>Reducing Clutter... Digital and Physical.</li>
+          <li>Building local AI agents and automation tools.</li>
+          <li>Learning LLM engineering and n8n.</li>
+          <li>Performing improv and writing stand-up comedy.</li>
+          <li>Continuing my weight-loss and fitness journey.</li>
+          <li>Expanding this site one project at a time.</li>
         </ul>
       </article>
     </aside>
