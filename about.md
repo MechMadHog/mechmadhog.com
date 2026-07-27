@@ -62,29 +62,31 @@ description: "Who I am, what I'm doing, and what this site actually is."
   </div>
   <div class="about-grid">
     <article class="about-card">
-      <h2>What I Care About</h2>
-      <ul class="about-list">
-        <li><strong>Strength</strong>... moving well and carrying heavy things.</li>
-        <li><strong>Creative Work</strong>... Typography, Layouts, Visual Design.</li>
-        <li><strong>Systems</strong>... Obsidian, Workflows, organised Thinking.</li>
-        <li><strong>Music</strong>... Desert Rock, Minimal Techno, Thrash &amp; Technical Death Metal.</li>
-        <li><strong>Long Projects</strong>... things that take Years to build properly.</li>
-      </ul>
+    <ul class="about-list">
+      <li><strong>Creating</strong>... making things instead of taking them.</li>
+      <li><strong>Learning</strong>... collecting practical skills over shortcuts.</li>
+      <li><strong>Systems</strong>... organised thinking, automation, and workflows.</li>
+      <li><strong>Creativity</strong>... art, comedy, music, and design.</li>
+      <li><strong>Long-Term Projects</strong>... building things that improve over years.</li>
+    </ul>
     </article>
     <article class="about-card">
       <h2>What Lives Here</h2>
       <p>
-        This isn't a Sales Page. It's a Working Log.
+        This isn't a polished brand or a sales page.
+        It's my workshop.
       </p>
       <ul class="about-list">
-        <li>Training Progress</li>
-        <li>AI Experiments</li>
-        <li>Design Sketches and UI Ideas</li>
-        <li>Tools I'm Building</li>
-        <li>Notes worth sharing</li>
+        <li>Software Projects</li>
+        <li>AI &amp; Automation</li>
+        <li>Art &amp; Design</li>
+        <li>Comedy</li>
+        <li>Training Logs</li>
+        <li>Things I've Learned</li>
       </ul>
       <p class="muted about-note">
-        Not everything goes Online. Only what I'm comfortable attaching my Name to.
+        Some projects succeed; others won't.
+        Both are worth documenting.
       </p>
     </article>
     <article class="about-card about-card--social">
