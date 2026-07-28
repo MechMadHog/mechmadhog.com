@@ -6,114 +6,119 @@ description: "What I'm focused on right now."
 ---
 
 <section class="panel panel--projects">
-  <h1 class="section-title">Now</h1>
+  <h1 class="section-title">At the Moment</h1>
+
+  <p class="muted">
+    A snapshot of where my attention is going right now.
+    The details change, but these are the areas I am actively working on.
+  </p>
+
   <div class="projects-grid">
     <article class="card">
-      <h3>🚶 Quest 1: Rehab & Recovery</h3>
+      <h3>💪 Quest 1: Health</h3>
       <p>
-        Right now the main thing is getting my body moving properly again.
-        Daily walks, ankle recovery, and rebuilding consistency without pretending I am further along than I am.
+        Continuing to improve my health through better food, regular movement,
+        and routines that are realistic enough to maintain.
       </p>
       <p>
-        Bodyslims starts on <b>29 April</b>, which means walking stops being optional and starts being part of the job.
-        Simple enough.
+        The aim is not a temporary burst of effort.
+        It is to build a system that makes healthier decisions easier and more repeatable.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Daily walks as the baseline</li>
-        <li>Ankle rehab and steady progression</li>
-        <li>Complete the LOTR Conqueror challenges</li>
-        <li>Build momentum before proper training returns</li>
+        <li>Improve fitness and mobility</li>
+        <li>Build more consistent eating habits</li>
+        <li>Reduce unnecessary friction around food</li>
+        <li>Track progress without becoming ruled by it</li>
       </ul>
     </article>
-
     <article class="card">
-      <h3>💻 Quest 2: Year of Code</h3>
+      <h3>💻 Quest 2: Building</h3>
       <p>
-        Back into the code properly.
-        React, freeCodeCamp, and actually finishing what I started instead of leaving tabs open like they count as progress.
+        Spending more time building useful things on my computer:
+        websites, tools, experiments, and projects that solve actual problems.
       </p>
       <p>
-        The goal is still the same... daily output, stronger fundamentals, and projects that stand on their own without a sales pitch attached.
+        I am less interested in collecting unfinished ideas and more interested
+        in turning them into things that work.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Return to React with intent</li>
-        <li>Push forward on remaining FCC certs</li>
-        <li>Keep the GitHub streak alive</li>
-        <li>Build proof, not excuses</li>
-      </ul>
-      <p class="muted" style="font-size:0.8rem; margin-top:1rem;">
-        Year of Code completes: 3 August
-      </p>
-    </article>
-
-    <article class="card">
-      <h3>🥩 Quest 3: Health</h3>
-      <p>
-        Health is not just "eat less" anymore.
-        It is building a system... food vault, repeatable meals, better decisions, less chaos.
-      </p>
-      <p>
-        I am learning what I can eat, what I should eat, and what actually helps me slim down while still giving me proper nutrition and energy.
-      </p>
-      <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Build out the food vault</li>
-        <li>Figure out repeatable meals that actually work</li>
-        <li>Learn what helps, what stalls, and what is just noise</li>
-        <li>Reduce friction around eating well</li>
+        <li>Build practical personal projects</li>
+        <li>Improve existing websites</li>
+        <li>Experiment with new tools and technologies</li>
+        <li>Finish more of what I start</li>
       </ul>
     </article>
-
     <article class="card">
-      <h3>📦 Quest 4: Minimalism</h3>
+      <h3>🧠 Quest 3: Learning</h3>
       <p>
-        I am upgrading the environment I live and work in.
-        Less clutter. Less duplication. Less stupid friction.
+        Learning remains a major part of what I am doing,
+        especially where technology, creativity, and problem-solving overlap.
       </p>
       <p>
-        This means stock-taking what I own, reorganising the place, and making sure the room actually supports the life I am trying to build instead of fighting it.
+        The goal is not simply to complete courses or collect certificates.
+        It is to understand enough to build confidently and work more independently.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Upgrade the environment piece by piece</li>
-        <li>Stock-take possessions properly</li>
-        <li>Reorganise the flat with function in mind</li>
-        <li>Keep what is useful, remove what is not</li>
+        <li>Strengthen technical fundamentals</li>
+        <li>Learn through practical projects</li>
+        <li>Explore automation and artificial intelligence</li>
+        <li>Turn new knowledge into usable skills</li>
       </ul>
     </article>
-
     <article class="card">
-      <h3>🧠 Quest 5: Social Dynamics</h3>
+      <h3>🎭 Quest 4: Comedy</h3>
       <p>
-        Still working on social dynamics.
-        Not to become fake, slick, or weirdly polished... just to get better at reading the room without abandoning myself in the process.
+        Improv has become one of the main creative things in my life,
+        and I want to continue developing as a performer.
       </p>
       <p>
-        Some environments reward directness. Some punish it. Useful to know the difference before opening my mouth.
+        That means practising, performing, writing,
+        and becoming more comfortable making choices in the moment.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Better calibration in vague environments</li>
-        <li>More awareness of timing, tone, and signal</li>
-        <li>Learn when to push and when to redirect</li>
-        <li>Improve without turning into a salesman</li>
+        <li>Continue performing improv</li>
+        <li>Develop stronger scene instincts</li>
+        <li>Return to writing stand-up material</li>
+        <li>Document what I am learning</li>
       </ul>
     </article>
-
     <article class="card">
-      <h3>🗺 Quest 6: Planning the Next Steps</h3>
+      <h3>🎨 Quest 5: Creativity</h3>
       <p>
-        The bigger target is still there, but this part is about planning properly rather than vaguely "wanting things" and hoping momentum does the rest.
+        Making things matters more to me than endlessly consuming them.
+        I want to give more time to art, music, writing, design, and other creative experiments.
       </p>
       <p>
-        Career, health, independence, output... the next steps need to be chosen deliberately, based on the year target rather than mood.
+        Not everything needs to become a product or a career move.
+        Some things are worth making simply because they should exist.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Use the year target as the reference point</li>
-        <li>Decide what matters next and in what order</li>
-        <li>Make cleaner decisions with better timing</li>
-        <li>Turn vague direction into actual checkpoints</li>
+        <li>Create more original work</li>
+        <li>Develop unfinished ideas</li>
+        <li>Add more artwork to the site</li>
+        <li>Make creativity part of normal life</li>
       </ul>
-      <p class="muted" style="font-size:0.8rem; margin-top:1rem;">
-        Last updated: March 2026
+    </article>
+    <article class="card">
+      <h3>🏠 Quest 6: Everyday Life</h3>
+      <p>
+        Improving the systems and surroundings that affect everything else.
+        Less clutter, less friction, and fewer small problems repeatedly getting in the way.
       </p>
+      <p>
+        The objective is a home and routine that support what I am trying to do,
+        rather than constantly demanding attention themselves.
+      </p>
+      <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
+        <li>Improve the flat piece by piece</li>
+        <li>Reduce clutter and unnecessary duplication</li>
+        <li>Build more reliable routines</li>
+        <li>Make everyday tasks easier to manage</li>
+      </ul>
     </article>
   </div>
+
+  <p class="muted" style="font-size:0.8rem; margin-top:1.5rem;">
+    Last updated: July 2026
+  </p>
 </section>
