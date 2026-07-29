@@ -100,18 +100,16 @@ description: "What I'm focused on right now."
       </ul>
     </article>
     <article class="card">
-      <h3>🏠 Quest 6: Everyday Life</h3>
+      <h3>🏠 Quest 6: Improving Everyday Life</h3>
       <p>
-        Improving the systems and surroundings that affect everything else.
-        Less clutter, less friction, and fewer small problems repeatedly getting in the way.
+         My systems & surroundings that affect everything else; so less clutter and fewer small problems repeatedly getting in the way.
       </p>
       <p>
-        The objective is a home and routine that support what I am trying to do,
-        rather than constantly demanding attention themselves.
+        The objective is to build a routine that supports what I am trying to do.
       </p>
       <ul class="muted" style="margin:0; padding-left:1.1rem; font-size:0.9rem; line-height:1.6;">
-        <li>Improve the flat piece by piece</li>
-        <li>Reduce clutter and unnecessary duplication</li>
+        <li>Find out the best arrangement for my rooms</li>
+        <li>Reduce clutter and unnecessary crap</li>
         <li>Build more reliable routines</li>
         <li>Make everyday tasks easier to manage</li>
       </ul>
