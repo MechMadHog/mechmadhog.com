@@ -8,157 +8,59 @@ featured: true
 image: /assets/images/blog/year-of-code.png
 ---
 
+## 🚀 How it Started
+A year ago I decided I was going to write code every day for a year.
+Actually... that's not quite true.
 
+On **11 July 2025** I found out I was losing my job. The challenge didn't officially start until **3 August**, but the decision was made that day. Sitting around waiting for another support job wasn't going to solve anything, and I'd spent long enough saying I wanted to improve without actually forcing myself to do it. So I gave myself something that couldn't be negotiated away. Every day I'd write some code. It didn't matter if it was ten minutes or ten hours, I just wasn't allowed to break the chain.
 
-On **3 August 2025**, I started a challenge to write code every day for a full year.
+Today is day 365.
 
-On **2 August 2026**, I finished it.
+The strange thing is that coding every day turned out not to be the difficult part. Once I'd been doing it for a month or two it just became routine. I stopped thinking "I have to do today's coding" and started thinking "I haven't coded yet today." They're similar sentences, but they feel completely different. One feels like an obligation, the other feels like you've forgotten to do something normal.
 
-Some days involved building complete features. Other days were bug fixes, course exercises, documentation, CSS changes or one small improvement that barely looked worth committing.
+## 💻 What Changed
+If you'd asked me a year ago where I'd be today, I probably would have guessed I'd have another job by now. That hasn't happened, and I'd be lying if I said that doesn't annoy me. I genuinely thought that if I spent a year improving myself, building projects and learning new technologies then finding work would naturally become easier.
 
-But I committed something every day.
+Instead I've ended up with far more knowledge, far more projects, a much stronger portfolio and exactly the same employment status.
 
-Well...
+That sounds more negative than I mean it to.
 
-GitHub disagrees about one of them.
+I don't regret doing any of this. In fact, I'd say it's one of the better decisions I've made. It's just forced me to separate two ideas that I used to think were the same. Becoming better at something and convincing someone else you're better at something aren't the same problem. I solved one of them. I'm still working on the other.
 
+Over the last year I completed five FreeCodeCamp certifications, built more little projects than I could honestly count, rebuilt both of my websites more times than was probably necessary, built a website for a real client, spent a lot of time with React and JavaScript, and then somehow wandered into AI engineering, local models, Docker and automation. None of that was really planned. Every time I learned one thing it led to another, and before long I was learning things that hadn't even crossed my mind when I started.
 
-## The Missing Square
+## 🌐 The Websites
+The websites probably benefited more than anything else.
 
-There is one missing day on my contribution graph: **6 February 2026**, I did the work. Then I deleted the repository before pushing it to GitHub and lost the commit history with it.
-Absolutely raging, Not really... It will only haunt me forever.
-Fortunately, I had taken a screenshot showing the contribution before the repository disappeared.
+Originally MechMadHog was just somewhere to throw blog posts, and MichaelMacDonagh.net existed because I needed a portfolio. Somewhere along the way they stopped being somewhere to show projects and became the projects. Every new thing I learned ended up getting tested on one of them. Sometimes I'd spend an entire evening changing something that nobody else would ever notice, simply because I knew it could be better. Looking back, that's probably where most of the learning happened.
 
-![Proof of Sixth](/assets/images/blog/sixth-of-feb-proof.png)
+## ⬜ The Missing GitHub Square
+There is one thing that still annoys me though.
 
-So the streak happened, even if GitHub's permanent record now contains one small, irritating hole.
+GitHub says I missed a day; technically, it isn't wrong.
 
-## What I Actually Did
+![One Year of Code](/assets/images/blog/sixth-of-feb-proof.png)
 
-The point of the challenge was never just to fill a graph with green squares, I can do that with CSS.
-I wanted to keep learning, practise consistently and stop allowing long gaps to appear between bursts of motivation.
-That meant progressing through structured courses, but it also meant applying what I learned to things that actually mattered to me.
+On **6 February** I wrote code in a repository that no longer exists. A few months later I accidentally deleted it without realising that GitHub would happily remove the contribution along with it. By the time I noticed, it was gone.
 
-## 🎓 FreeCodeCamp
+Thankfully I'd taken a screenshot before I managed to do something that stupid.
+So I know I did it... but GitHub doesn't, that missing square is going to irritate me for a very long time.
 
-A large part of the year was spent working through the FreeCodeCamp curriculum.
+I'm still working through the remaining FreeCodeCamp certifications. They're definitely starting to show their age now, and I've had to work around a few outdated sections, but I still want to finish them. Partly because I want the Full Stack certificate, and partly because after getting this far it would annoy me not to.
 
-### ✅ Completed
+## 🤖 The AI Rabbit Hole
+The biggest surprise of the year has been AI.
 
-- Responsive Web Design
-- JavaScript Algorithms and Data Structures
-- Front End Development Libraries
-- Data Visualization
-- Back End Development and APIs
+Not AI writing things for me. That honestly isn't the interesting part.
 
-### ⏳ In Progress
+The interesting part is everything underneath it. Running models locally, building agents, connecting systems together, automating repetitive jobs and generally seeing how far I can push my own computer before I accidentally break something. That's where my interest has gone over the last few months, and I don't think it's going away any time soon.
 
-- Quality Assurance and Testing
-- Information Security
+## 🎯 Was it Worth It?
+So... Was it worth spending a year writing code every day? Without question.
+- Not because I finished a challenge.
+- Not because I collected certificates.
+- Not even because it got me another job, because it didn't.
 
-### ⏳ Still to Come
+It was worth doing because I don't think I'm the same developer that started this a year ago, and I definitely don't think the version of me from July 2025 could have built half of the things I've built since.
 
-- Relational Database
-
-The original goal was to complete the full-stack path. That is still the goal, but the challenge expanded far beyond working through certification projects.
-
-## 🌐 Building My Own Sites
-
-The best result of the year is that I now have websites that feel like mine.
-I built and continued developing:
-
-- [MechMadHog.com](https://mechmadhog.com/)
-- [MichaelMacDonagh.net](https://michaelmacdonagh.net/)
-- [BohemianFitness.ie](https://bohemianfitness.ie/)
-
-My portfolio gives me somewhere professional to present my work.
-
-MechMadHog gives me somewhere to put everything else: projects, hobbies, blog posts, comedy, art, music and whatever strange thing I decide to work on next.
-
-Bohemian Fitness gave me the opportunity to apply the same skills to a real business website rather than another fictional course project.
-
-I am genuinely happy that I have built my own part of the internet and can continue shaping it however I like.
-
-## 🧱 Building Beyond the Basic Site
-
-The sites began as relatively simple static pages hosted through GitHub Pages. Over time, I added more structure and functionality using Jekyll, HTML, CSS and JavaScript.
-
-That included:
-- Blog posts and reusable layouts
-- Categories and tags
-- Pagination
-- Responsive navigation
-- Mega menus
-- Project galleries
-- Portfolio pages
-- Custom components
-- Improved mobile layouts
-- Search engine and performance improvements
-
-None of those features appeared fully formed, they were all built gradually, one problem and one commit at a time.
-
-## ⚛️ React and Course Projects
-
-I also returned to React and worked through projects from Zero to Mastery; that gave me a chance to revisit front-end development with more experience than I had when I first encountered it. Earlier in the year, I was often focused on making something work.
-
-Now I am increasingly thinking about how projects should be structured, how components fit together and how the finished product will be maintained. There is still a lot to learn, but I am no longer starting from zero.
-
-## 🤖 Working With AI
-
-Another major part of the year was beginning to learn how AI can fit into practical development work.
-
-That has included Udemy coursework covering:
-- Large language models
-- AI engineering
-- Local AI models
-- Automation
-- Agent workflows
-- Docker
-- n8n
-- AI-assisted development
-
-I am not interested in using AI as a replacement for learning how things work. I just want to use it to build better systems quicker & faster than I could on my own, automate repetitive work and make ideas possible that would previously have required far more time or resources. This is becoming the next major stage of what I want to learn.
-
-## More Than a Green Graph
-
-By the time I published this post, my GitHub profile had passed **1,000 contributions in the previous year**. That is a satisfying number, but it is not the achievement by itself.
-
-The graph does not show:
-- The hours spent debugging something stupid
-- The projects that were restarted
-- The layouts that looked terrible before they looked acceptable
-- The concepts that took several attempts to understand
-- The amount of CSS changed by half a rem
-- The repository I accidentally deleted
-- The confidence gained from repeatedly solving my own problems
-
-The green squares are only evidence that I kept returning.
-
-## What I Learned
-
-The most useful thing I learned was not a language, framework or tool.
-It was that consistency does not need to mean producing something impressive every day.
-It means keeping the project alive.
-Some days produce major progress.
-Some days only prevent momentum from disappearing.
-Both count.
-A year ago, many of the things now running on my websites were ideas I did not yet know how to build.
-Now they exist, and I know how to continue improving them.
-
-## What Happens Next?
-
-The daily challenge is finished.
-I do not intend to force myself to protect the streak forever, and I will probably reduce GitHub activity to a more sustainable rhythm.
-The work itself will continue.
-
-My next priorities include:
-- Completing the remaining FreeCodeCamp certifications
-- Continuing my React work
-- Finishing my AI and automation courses
-- Building local tools and agents
-- Expanding both websites
-- Turning more of what I learn into useful finished projects
-
-The original challenge was to code every day for a year.
-What it actually gave me was proof that I can keep building something long after the initial excitement wears off.
-That was a really cool thing to commit to.
+I'm still trying to figure out what comes next... At least now I feel like I've actually got something to build on.
