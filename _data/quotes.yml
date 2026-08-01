@@ -128,13 +128,6 @@
   tags: [film, sarcasm, humour, cynicism]
   note: "Dry sarcasm always lands better than loud comedy."
 
-- text: "A woman who can be bought isn't worth having."
-  author: "Wilson Fisk"
-  source: "Daredevil"
-  source_type: "tv"
-  tags: [tv, relationships, values, power]
-  note: "Transactional loyalty usually collapses the moment a better offer appears."
-
 - text: "I'd rather have a bottle in front of me than a frontal lobotomy."
   author: "Tom Waits"
   source: "Quote"
@@ -176,13 +169,6 @@
   source_type: "film"
   tags: [film, science, ethics, systems]
   note: "Intelligence without restraint creates a lot of modern problems."
-
-- text: "We buy things we don't need with money we don't have to impress people we don't like."
-  author: "Tyler Durden"
-  source: "Fight Club"
-  source_type: "film"
-  tags: [film, consumerism, society, cynicism]
-  note: "Still one of the cleanest summaries of modern culture."
 
 - text: "Men don't follow titles. They follow courage."
   author: "William Wallace"
@@ -254,13 +240,6 @@
   tags: [tv, logic, bureaucracy, humour]
   note: "One of the funniest observations about systems and rules."
 
-- text: "I choose to believe what I was programmed to believe."
-  author: "Bender"
-  source: "Futurama"
-  source_type: "tv"
-  tags: [tv, determinism, humour, identity]
-  note: "Funny because humans do the exact same thing."
-
 - text: "I've done everything the Bible says... even the stuff that contradicts the other stuff!"
   author: "Ned Flanders"
   source: "The Simpsons"
@@ -275,26 +254,12 @@
   tags: [tv, domesticity, absurdity, humour]
   note: "Very grounded Simpsons energy."
 
-- text: "Worst day of your life so far."
-  author: "Homer Simpson"
-  source: "The Simpsons"
-  source_type: "tv"
-  tags: [tv, pessimism, humour, perspective]
-  note: "One of the most unexpectedly philosophical Simpsons lines."
-
 - text: "Oh, everything looks bad if you remember it."
   author: "Homer Simpson"
   source: "The Simpsons"
   source_type: "tv"
   tags: [tv, memory, denial, humour]
   note: "Disturbingly applicable to politics."
-
-- text: "You know, a town with money is a little like the mule with a spinning wheel. Nobody knows how he got it, and danged if he knows how to use it."
-  author: "Lyle Lanley"
-  source: "The Simpsons"
-  source_type: "tv"
-  tags: [tv, corruption, society, manipulation]
-  note: "Monorail is one of the sharpest satire episodes they ever made."
 
 - text: "Am I so out of touch? No. It's the children who are wrong."
   author: "Principal Skinner"
@@ -316,13 +281,6 @@
   source_type: "tv"
   tags: [tv, addiction, irony, humour]
   note: "Probably the most quoted Homer line ever."
-
-- text: "A noble spirit embiggens the smallest man."
-  author: "Jebediah Springfield"
-  source: "The Simpsons"
-  source_type: "tv"
-  tags: [tv, wisdom, language, character, legacy]
-  note: "Followed by the immortal cromulent exchange."
 
 - text: "I don't know why? It's a perfectly cromulent word."
   author: "Miss Hoover"
@@ -408,13 +366,6 @@
   tags: [other, intelligence, curiosity, philosophy]
   note: "People stop learning the moment they become emotionally attached to certainty."
 
-- text: "You know what's cooler than magic? Mathematics."
-  author: "Derek Knows"
-  source: "The Lost Room"
-  source_type: "tv"
-  tags: [tv, intelligence, systems, logic]
-  note: "Patterns and systems are more interesting than spectacle."
-
 - text: "The enemy of a good plan is the dream of a perfect plan."
   author: "Carl von Clausewitz"
   source: "Quote"
@@ -429,27 +380,6 @@
   tags: [other, knowledge, intelligence, realism]
   note: "Useful understanding matters more than total understanding."
 
-- text: "The more complicated the order, the easier it is to manipulate."
-  author: "Grand Admiral Thrawn"
-  source: "Star Wars Rebels"
-  source_type: "tv"
-  tags: [tv, strategy, systems, intelligence]
-  note: "Complex systems create blind spots."
-
-- text: "That's a good question. I haven't known the answer for a long time. I know who I was. I was the guy who left her behind. You know why? Because I thought she deserved someone better than me. I thought she deserved someone who would look after her, be there for her. I thought she deserved someone like you."
-  author: "John Reese"
-  source: "Person of Interest"
-  source_type: "tv"
-  tags: [tv, regret, identity, relationships]
-  note: "One of the few moments Reese fully drops the armour and admits how low his opinion of himself really is."
-
-- text: "Who am I supposed to be now? Now that she's gone. When you find that one person who connects you to the world, you become someone different... someone better. When that person is taken from you, what do you become then?"
-  author: "John Reese"
-  source: "Person of Interest"
-  source_type: "tv"
-  tags: [tv, loss, identity, connection]
-  note: "Good description of how certain people become part of your orientation system... and how disorientating it is when they're gone."
- 
 - text: "Reality is that which, when you stop believing in it, doesn't go away."
   author: "Philip K. Dick"
   source: "Quote"
@@ -590,13 +520,6 @@
   tags: [tv, sanity, society, sarcasm]
   note: "Trying to function in broken systems eventually affects people."
 
-- text: "The truth is hard. The truth is ugly. But the truth is still the truth."
-  author: "Cal Lightman"
-  source: "Lie to Me"
-  source_type: "tv"
-  tags: [tv, truth, psychology, realism]
-  note: "Reality doesn't become false just because it's uncomfortable."
-
 - text: "Most people don't really want the truth. They want reassurance."
   author: "Patrick Jane"
   source: "The Mentalist"
@@ -694,3 +617,10 @@
   source_type: "tv"
   tags: [tv, patterns, intelligence, psychology]
   note: "Pattern recognition permanently changes perception."
+
+- text: "None of you seem to understand... I’m not locked in here with you, you’re locked in here with me."
+  author: "Rorschach"
+  source: "Watchmen"
+  source_type: "comic"
+  tags: [comic, intimidation, defiance]
+  note: "I like the complete reversal of power in this line. The fear changes direction instantly."
