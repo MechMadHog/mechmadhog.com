@@ -624,3 +624,17 @@
   source_type: "comic"
   tags: [comic, intimidation, defiance]
   note: "I like the complete reversal of power in this line. The fear changes direction instantly."
+
+- text: "If less is more, just think how much more 'more' will be."
+  author: "Frasier Crane"
+  source: "Frasier"
+  source_type: "tv"
+  tags: [tv, humour, sarcasm, wit]
+  note: "A wonderfully dry observation about excess."
+
+- text: "No plan survives first contact with the enemy."
+  author: "Captain Helm"
+  source: "Crimson Tide"
+  source_type: "movie"
+  tags: [movie, strategy, planning, adaptability]
+  note: "Preparation matters, but adaptation wins."
