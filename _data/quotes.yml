@@ -65,20 +65,6 @@
   tags: [film, independence, individuality, confidence]
   note: "Blind conformity has never made much sense to me."
 
-- text: "None of you seem to understand... I’m not locked in here with you, you’re locked in here with me."
-  author: "Rorschach"
-  source: "Watchmen"
-  source_type: "comic"
-  tags: [comic, intimidation, defiance]
-  note: "I like the complete reversal of power in this line. The fear changes direction instantly."
-
-- text: "That is why you fail." 
-  author: "Yoda" 
-  source: "The Empire Strike Back" 
-  source_type: "film" 
-  tags: [film, discipline, failure, wisdom] 
-  note: "Directlyt after Luke says that he doesn't believe it... Yoda delivers the truth; no cushioning, no motivational speech... Just the actual reason."
-
 - text: "Sometimes the best gift, is never seeing you again" 
   author: "Greg House" 
   source: "House M.D." 
@@ -120,13 +106,6 @@
   source_type: "film"
   tags: [film, society, psychology, crowds]
   note: "Individuals can think clearly. Crowds usually can't."
-
-- text: "You know, it’s funny... when you look at the world rationally, the world looks rational back."
-  author: "Dr. Manhattan"
-  source: "Watchmen"
-  source_type: "film"
-  tags: [film, logic, perspective, philosophy]
-  note: "The way you frame reality changes what you notice in it."
 
 - text: "I don't want to live in a world where someone else makes the world a better place better than we do."
   author: "Gavin Belson"
