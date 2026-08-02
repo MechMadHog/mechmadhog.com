@@ -666,3 +666,31 @@
   source_type: "tv"
   tags: [tv, patience, competence, discipline]
   note: "Professionals know that restraint is often harder than action."
+
+- text: "Deserve's got nothing to do with it."
+  author: "William Munny"
+  source: "Unforgiven"
+  source_type: "movie"
+  tags: [movie, justice, realism, consequences]
+  note: "Reality rarely aligns with fairness."
+
+- text: "Never mistake movement for action."
+  author: "Ernest Hemingway"
+  source: "Sabrina"
+  source_type: "movie"
+  tags: [movie, productivity, discipline, wisdom]
+  note: "Being busy isn't the same as making progress."
+
+- text: "A strange game. The only winning move is not to play."
+  author: "WOPR"
+  source: "WarGames"
+  source_type: "movie"
+  tags: [movie, strategy, systems, logic]
+  note: "Some systems can only be beaten by refusing their rules."
+
+- text: "The code is more what you'd call guidelines than actual rules."
+  author: "Hector Barbossa"
+  source: "Pirates of the Caribbean: The Curse of the Black Pearl"
+  source_type: "movie"
+  tags: [movie, rules, humour, pragmatism]
+  note: "Rules exist to serve reality, not the other way around."
