@@ -5,7 +5,7 @@ description: "What started as a daily coding challenge became a year of building
 categories: [Personal, Technology]
 tags: [coding, github, freecodecamp, web-development, jekyll, react, ai, learning, projects]
 featured: true
-image: /assets/images/blog/year-of-code.png
+image: /assets/images/blog/mmd-year-of-code.png
 ---
 
 ## 🚀 How it Started
