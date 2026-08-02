@@ -667,20 +667,6 @@
   tags: [tv, patience, competence, discipline]
   note: "Professionals know that restraint is often harder than action."
 
-- text: "Deserve's got nothing to do with it."
-  author: "William Munny"
-  source: "Unforgiven"
-  source_type: "movie"
-  tags: [movie, justice, realism, consequences]
-  note: "Reality rarely aligns with fairness."
-
-- text: "Never mistake movement for action."
-  author: "Ernest Hemingway"
-  source: "Sabrina"
-  source_type: "movie"
-  tags: [movie, productivity, discipline, wisdom]
-  note: "Being busy isn't the same as making progress."
-
 - text: "A strange game. The only winning move is not to play."
   author: "WOPR"
   source: "WarGames"
@@ -694,3 +680,17 @@
   source_type: "movie"
   tags: [movie, rules, humour, pragmatism]
   note: "Rules exist to serve reality, not the other way around."
+
+- text: "The impossible often has a kind of integrity which the merely improbable lacks."
+  author: "Douglas Adams"
+  source: "Dirk Gently's Holistic Detective Agency"
+  source_type: "book"
+  tags: [absurdity, logic, humour, philosophy]
+  note: "An oddly sensible observation about impossible ideas."
+
+- text: "Every solution breeds new problems."
+  author: "Murphy"
+  source: "In the Loop"
+  source_type: "movie"
+  tags: [systems, consequences, politics, realism]
+  note: "Systems thinking means accepting trade-offs."
