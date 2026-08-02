@@ -638,3 +638,31 @@
   source_type: "movie"
   tags: [movie, strategy, planning, adaptability]
   note: "Preparation matters, but adaptation wins."
+
+- text: "I reject your reality and substitute my own."
+  author: "Adam Savage"
+  source: "MythBusters"
+  source_type: "tv"
+  tags: [tv, humour, reality, absurd]
+  note: "A perfect description of committed alternate realities."
+
+- text: "You're confusing where you are with who you are."
+  author: "Richard Alpert"
+  source: "Lost"
+  source_type: "tv"
+  tags: [tv, identity, perspective, philosophy]
+  note: "Circumstances don't define character."
+
+- text: "It's not a bug. It's a feature."
+  author: "Richard Hendricks"
+  source: "Silicon Valley"
+  source_type: "tv"
+  tags: [tv, software, irony, engineering]
+  note: "A tongue-in-cheek observation about how people justify flawed systems."
+
+- text: "The waiting is the hardest part."
+  author: "Mike Ehrmantraut"
+  source: "Better Call Saul"
+  source_type: "tv"
+  tags: [tv, patience, competence, discipline]
+  note: "Professionals know that restraint is often harder than action."
