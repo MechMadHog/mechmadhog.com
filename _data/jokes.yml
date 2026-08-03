@@ -30,3 +30,37 @@
   - deadpan
   note: "Norm takes a figure of speech completely literally and follows the logic to an absurd conclusion. I love how he deliberately focuses on the least important part of the story."
 
+- text: "I adore a two-star experience... It is that kind of integrity of mediocrity over time that deserves celebration. The energy that it takes to not improve."
+  comedian: "Maria Bamford"
+  source: "Stand-up"
+  source_type: "stand-up"
+  tags:
+    - observational
+    - perspective shift
+    - absurd logic
+    - commitment
+  note: "She completely inverts the audience's expectations by celebrating mediocrity instead of excellence. Rather than complaining about a bad shop, she admires its unwavering commitment to being average, and never breaks from that perspective."
+
+- text: "I feel that one of the basic requirements of being a sprinter is having legs."
+  comedian: "Norm Macdonald"
+  source: "Conan - Oscar Pistorius"
+  source_type: "interview"
+  tags:
+    - deadpan
+    - literalism
+    - heartless bastard
+    - commitment
+    - absurd logic
+  note: "Norm takes the idea completely literally and refuses to leave that position. He ignores the debate everyone else is having and instead argues that having legs should simply be a requirement for running. The funnier Conan and Andy find his argument, the more seriously he defends it."
+
+- text: "Jeffrey Epstein... no one criticizes him? Jeff Epstein... the New York financier?"
+  comedian: "Jim Downey"
+  source: "Conan - Jeff Epstein"
+  source_type: "interview"
+  tags:
+    - deadpan
+    - commitment
+    - feigned ignorance
+    - absurd logic
+    - character
+  note: "Jim pretends to only know Jeffrey Epstein only as a respectable financier and refuses to acknowledge anything else. The joke comes from committing completely to obvious, deliberate ignorance and forcing everyone else to explain something that shouldn't need explaining."
