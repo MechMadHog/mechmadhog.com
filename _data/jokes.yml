@@ -9,9 +9,14 @@
 # - tags: lower-case keywords/categories
 # - note: optional personal context
 
-- text: "..."
-  comedian: "Norm Macdonald"
-  source: "Me Doing Stand-Up"
-  source_type: "stand-up"
-  tags: [deadpan, absurd, misdirection]
-  note: "The reveal completely changes the premise."
+- text: "I don't want to drudge up any old wounds... But your father famously abandoned you, so that he could start a new life with the legendary Elizabeth Taylor. But can you blame him? There isn't a man in his right mind who could possibly resist walking out on you."
+  comedian: "Anthony Jeselnik"
+  source: "Comedy Central Roast of Roseanne"
+  source_type: "roast"
+  tags:
+    - dark humour
+    - roast
+    - misdirection
+  note: "He is so good at saying the thing you'd least expect from his build-up."
+
+
