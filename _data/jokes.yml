@@ -76,3 +76,26 @@
     - anti-humour
     - character
   note: "Tom arrives dressed head-to-toe in camouflage to blend in with the furniture, then treats camouflage as though it's a deeply important subject. He never acknowledges how ridiculous the situation is."
+
+- text: "Of course... but maybe."
+  comedian: "Louis C.K."
+  source: "Oh My God"
+  source_type: "stand-up"
+  tags:
+    - perspective shift
+    - observational
+    - absurd logic
+    - commitment
+  note: "He starts with an obvious truth, then immediately explores the uncomfortable thought everyone else suppresses. The humour comes from following that forbidden line of reasoning rather than pretending it doesn't exist."
+
+- text: "I hope the person she loved most pushed her off a cliff... and then Superman swooped her up... and then dropped her from higher."
+  comedian: "Louis C.K."
+  source: "Hilarious"
+  source_type: "stand-up"
+  tags:
+    - escalation
+    - heartless bastard
+    - deadpan
+    - absurdity
+    - commitment
+  note: "The escalation is what makes this brilliant. Louis could stop at wishing she'd fall off a cliff, but instead keeps making the situation increasingly ridiculous. Superman's only purpose in the story is to save her... and Louis immediately has him make it even worse. The joke never lets the audience recover before taking it one step further."
