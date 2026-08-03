@@ -1,0 +1,17 @@
+# Favourite jokes for /jokes/
+# Keep entries short enough to scan. Tags are useful for SEO, accessibility, and future filtering.
+#
+# Fields:
+# - text: the joke itself
+# - author: comedian credited with the joke,
+# - source: stand up, roast, etc.
+# - source_type: stand-up | roast | other
+# - tags: lower-case keywords/categories
+# - note: optional personal context
+
+- text: "..."
+  comedian: "Norm Macdonald"
+  source: "Me Doing Stand-Up"
+  source_type: "stand-up"
+  tags: [deadpan, absurd, misdirection]
+  note: "The reveal completely changes the premise."
