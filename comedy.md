@@ -22,23 +22,35 @@ permalink: /comedy/
         href="{{ '/comedy/standup/' | relative_url }}"
         target="_blank"
         rel="noopener">
-    <div class="playlist-card-content">
-        <h3>🎤 Stand Up</h3>
-        <p>
-        Writing material, testing jokes, performing, and slowly getting more comfortable on stage.
-        </p>
-    </div>
+      <div class="playlist-card-content">
+          <h3>🎤 Stand Up</h3>
+          <p>
+          Writing material, testing jokes, performing, and slowly getting more comfortable on stage.
+          </p>
+      </div>
     </a>
     <a  class="playlist-card"
         href="{{ '/comedy/improv/' | relative_url }}"
         target="_blank"
         rel="noopener">
-    <div class="playlist-card-content">
-        <h3>🎭 Improv</h3>
-        <p>
-        Weekly classes, exercises, recaps, characters, scenes, and learning to trust the moment.
-        </p>
-    </div>
+      <div class="playlist-card-content">
+          <h3>🎭 Improv</h3>
+          <p>
+          Weekly classes, exercises, recaps, characters, scenes, and learning to trust the moment.
+          </p>
+      </div>
+    </a>
+    <a  class="playlist-card"
+      href="{{ '/comedy/jokes/' | relative_url }}"
+      target="_blank"
+      rel="noopener">
+      <div class="playlist-card-content">
+          <h3>💡 Favourite Jokes</h3>
+          <p>
+          Joke premises, bits, and one-liners that make me think,
+          "I wish I'd written that."
+          </p>
+      </div>
     </a>
   </div>
 </section>
